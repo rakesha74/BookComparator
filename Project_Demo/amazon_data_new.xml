@@ -1,0 +1,2375 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<ItemSearchResponse xmlns="http://webservices.amazon.com/AWSECommerceService/2011-08-01">
+<OperationRequest>
+<HTTPHeaders>
+<Header Name="UserAgent" Value="Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36"/>
+</HTTPHeaders>
+<RequestId>8ab6a3c6-fe78-431c-89fa-4132b71fdc33</RequestId>
+<Arguments>
+<Argument Name="AWSAccessKeyId" Value="AKIAIEMV6LX5RSO7JDTA"/>
+<Argument Name="AssociateTag" Value="comaprebook09-21"/>
+<Argument Name="Keywords" Value="Shiva Trilogy"/>
+<Argument Name="Operation" Value="ItemSearch"/>
+<Argument Name="ResponseGroup" Value="Images,ItemAttributes,Offers"/>
+<Argument Name="SearchIndex" Value="Books"/>
+<Argument Name="Service" Value="AWSECommerceService"/>
+<Argument Name="Timestamp" Value="2015-11-20T19:01:03.450Z"/>
+<Argument Name="Version" Value="2011-08-01"/>
+<Argument Name="Signature" Value="afmArqhNYaRI089oKN1lYASXEPMGEP4xsSb3ZkP9CGQ="/>
+</Arguments>
+<RequestProcessingTime>0.0981290000000000</RequestProcessingTime>
+</OperationRequest>
+<Items>
+<Request>
+<IsValid>True</IsValid>
+<ItemSearchRequest>
+<Keywords>Shiva Trilogy</Keywords>
+<ResponseGroup>Images</ResponseGroup>
+<ResponseGroup>ItemAttributes</ResponseGroup>
+<ResponseGroup>Offers</ResponseGroup>
+<SearchIndex>Books</SearchIndex>
+</ItemSearchRequest>
+</Request>
+<TotalResults>55</TotalResults>
+<TotalPages>6</TotalPages>
+<MoreSearchResultsUrl>
+http://www.amazon.in/gp/redirect.html?linkCode=xm2&SubscriptionId=AKIAIEMV6LX5RSO7JDTA&location=http%3A%2F%2Fwww.amazon.in%2Fgp%2Fsearch%3Fkeywords%3DShiva%2BTrilogy%26url%3Dsearch-alias%253Dstripbooks&tag=comaprebook09-21&creative=165953&camp=2025
+</MoreSearchResultsUrl>
+<Item>
+<ASIN>9380658745</ASIN>
+<DetailPageURL>
+http://www.amazon.in/The-Immortals-Meluha-Shiva-Trilogy/dp/9380658745%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9380658745
+</DetailPageURL>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">48</Width>
+</SmallImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">103</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51m0wvVXZ1L.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">321</Width>
+</LargeImage>
+<ImageSets>
+<ImageSet Category="variant">
+<SwatchImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL30_.jpg
+</URL>
+<Height Units="pixels">30</Height>
+<Width Units="pixels">19</Width>
+</SwatchImage>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">48</Width>
+</SmallImage>
+<ThumbnailImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">48</Width>
+</ThumbnailImage>
+<TinyImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL110_.jpg
+</URL>
+<Height Units="pixels">110</Height>
+<Width Units="pixels">71</Width>
+</TinyImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">103</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51FMv7stxmL.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">323</Width>
+</LargeImage>
+</ImageSet>
+<ImageSet Category="variant">
+<SwatchImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL30_.jpg
+</URL>
+<Height Units="pixels">30</Height>
+<Width Units="pixels">22</Width>
+</SwatchImage>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">56</Width>
+</SmallImage>
+<ThumbnailImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">56</Width>
+</ThumbnailImage>
+<TinyImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL110_.jpg
+</URL>
+<Height Units="pixels">110</Height>
+<Width Units="pixels">82</Width>
+</TinyImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">120</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41ammhSEZ4L.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">375</Width>
+</LargeImage>
+</ImageSet>
+<ImageSet Category="primary">
+<SwatchImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL30_.jpg
+</URL>
+<Height Units="pixels">30</Height>
+<Width Units="pixels">19</Width>
+</SwatchImage>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">48</Width>
+</SmallImage>
+<ThumbnailImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">48</Width>
+</ThumbnailImage>
+<TinyImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL110_.jpg
+</URL>
+<Height Units="pixels">110</Height>
+<Width Units="pixels">71</Width>
+</TinyImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">103</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51m0wvVXZ1L.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">321</Width>
+</LargeImage>
+</ImageSet>
+</ImageSets>
+<ItemAttributes>
+<Author>Amish</Author>
+<Binding>Paperback</Binding>
+<EAN>9789380658742</EAN>
+<EANList>
+<EANListElement>9789380658742</EANListElement>
+<EANListElement>8601401193951</EANListElement>
+</EANList>
+<ISBN>9380658745</ISBN>
+<ItemDimensions>
+<Height Units="hundredths-inches">453</Height>
+<Length Units="hundredths-inches">709</Length>
+<Weight Units="hundredths-pounds">86</Weight>
+<Width Units="hundredths-inches">106</Width>
+</ItemDimensions>
+<Label>Westland</Label>
+<Languages>
+<Language>
+<Name>English</Name>
+<Type>Published</Type>
+</Language>
+<Language>
+<Name>English</Name>
+<Type>Original Language</Type>
+</Language>
+<Language>
+<Name>English</Name>
+<Type>Unknown</Type>
+</Language>
+</Languages>
+<LegalDisclaimer>New Edition</LegalDisclaimer>
+<ListPrice>
+<Amount>29500</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 295.00</FormattedPrice>
+</ListPrice>
+<Manufacturer>Westland</Manufacturer>
+<NumberOfItems>1</NumberOfItems>
+<NumberOfPages>415</NumberOfPages>
+<PackageDimensions>
+<Height Units="hundredths-inches">118</Height>
+<Length Units="hundredths-inches">764</Length>
+<Weight Units="hundredths-pounds">71</Weight>
+<Width Units="hundredths-inches">512</Width>
+</PackageDimensions>
+<PackageQuantity>1</PackageQuantity>
+<ProductGroup>Book</ProductGroup>
+<ProductTypeName>ABIS_BOOK</ProductTypeName>
+<PublicationDate>2011-05-17</PublicationDate>
+<Publisher>Westland</Publisher>
+<Studio>Westland</Studio>
+<Title>The Immortals of Meluha (Shiva Trilogy)</Title>
+</ItemAttributes>
+<OfferSummary>
+<LowestNewPrice>
+<Amount>14600</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 146.00</FormattedPrice>
+</LowestNewPrice>
+<TotalNew>100</TotalNew>
+<TotalUsed>0</TotalUsed>
+<TotalCollectible>0</TotalCollectible>
+<TotalRefurbished>0</TotalRefurbished>
+</OfferSummary>
+<Offers>
+<TotalOffers>1</TotalOffers>
+<TotalOfferPages>1</TotalOfferPages>
+<MoreOffersUrl>
+http://www.amazon.in/gp/offer-listing/9380658745%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9380658745
+</MoreOffersUrl>
+<Offer>
+<OfferAttributes>
+<Condition>New</Condition>
+</OfferAttributes>
+<OfferListing>
+<OfferListingId>
+cpiU1KMC38jE%2FgOVFVzzUmWuKQxGPhJGA0msb6LOvaLp3SsKxMwXHrj1LF%2B%2BIvb4DoxdVYaogW3ACfB3zRxbMomfbmkd%2B7c3gig08f6ZBzSDTtTLSYzi7ZJ8v7MKD%2FXfLP5mwY8ICpkDN1xkNUPGUw%3D%3D
+</OfferListingId>
+<Price>
+<Amount>18100</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 181.00</FormattedPrice>
+</Price>
+<SalePrice>
+<Amount>14700</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 147.00</FormattedPrice>
+</SalePrice>
+<AmountSaved>
+<Amount>3400</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 34.00</FormattedPrice>
+</AmountSaved>
+<PercentageSaved>19</PercentageSaved>
+<Availability>Usually dispatched within 24 hours</Availability>
+<AvailabilityAttributes>
+<AvailabilityType>now</AvailabilityType>
+<MinimumHours>0</MinimumHours>
+<MaximumHours>0</MaximumHours>
+</AvailabilityAttributes>
+<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+<IsEligibleForPrime>1</IsEligibleForPrime>
+</OfferListing>
+</Offer>
+</Offers>
+</Item>
+<Item>
+<ASIN>9381626340</ASIN>
+<DetailPageURL>
+http://www.amazon.in/The-Secret-Nagas-Shiva-Trilogy-2/dp/9381626340%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9381626340
+</DetailPageURL>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">50</Width>
+</SmallImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">106</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51djIve%2B9UL.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">331</Width>
+</LargeImage>
+<ImageSets>
+<ImageSet Category="variant">
+<SwatchImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL30_.jpg
+</URL>
+<Height Units="pixels">30</Height>
+<Width Units="pixels">20</Width>
+</SwatchImage>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">50</Width>
+</SmallImage>
+<ThumbnailImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">50</Width>
+</ThumbnailImage>
+<TinyImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL110_.jpg
+</URL>
+<Height Units="pixels">110</Height>
+<Width Units="pixels">73</Width>
+</TinyImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">107</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51bEGh2bGJL.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">334</Width>
+</LargeImage>
+</ImageSet>
+<ImageSet Category="variant">
+<SwatchImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL30_.jpg
+</URL>
+<Height Units="pixels">30</Height>
+<Width Units="pixels">22</Width>
+</SwatchImage>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">56</Width>
+</SmallImage>
+<ThumbnailImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">56</Width>
+</ThumbnailImage>
+<TinyImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL110_.jpg
+</URL>
+<Height Units="pixels">110</Height>
+<Width Units="pixels">82</Width>
+</TinyImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">120</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41AAu7rRvFL.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">375</Width>
+</LargeImage>
+</ImageSet>
+<ImageSet Category="primary">
+<SwatchImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL30_.jpg
+</URL>
+<Height Units="pixels">30</Height>
+<Width Units="pixels">20</Width>
+</SwatchImage>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">50</Width>
+</SmallImage>
+<ThumbnailImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">50</Width>
+</ThumbnailImage>
+<TinyImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL110_.jpg
+</URL>
+<Height Units="pixels">110</Height>
+<Width Units="pixels">73</Width>
+</TinyImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">106</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51djIve%2B9UL.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">331</Width>
+</LargeImage>
+</ImageSet>
+</ImageSets>
+<ItemAttributes>
+<Author>Amish Tripathi</Author>
+<Binding>Paperback</Binding>
+<EAN>9789381626344</EAN>
+<EANList>
+<EANListElement>9789381626344</EANListElement>
+</EANList>
+<Edition>1</Edition>
+<Feature>
+Today, He is a God. 4000 years ago, He was just a man.
+</Feature>
+<Format>Abridged</Format>
+<Format>Audiobook</Format>
+<Format>Box set</Format>
+<Format>Illustrated</Format>
+<Format>Large Print</Format>
+<ISBN>9381626340</ISBN>
+<ItemDimensions>
+<Height Units="hundredths-inches">0</Height>
+<Length Units="hundredths-inches">0</Length>
+<Weight Units="hundredths-pounds">40</Weight>
+<Width Units="hundredths-inches">0</Width>
+</ItemDimensions>
+<Label>Westland Books Pvt. Ltd.</Label>
+<Languages>
+<Language>
+<Name>English</Name>
+<Type>Published</Type>
+</Language>
+<Language>
+<Name>English</Name>
+<Type>Original Language</Type>
+</Language>
+<Language>
+<Name>English</Name>
+<Type>Unknown</Type>
+</Language>
+</Languages>
+<LegalDisclaimer>
+WE ALSO SHIP ALL OF OUR BOOKS AT INTERNATIONAL LEVEL IN COUNTRIES LIKE USA,CANADA,AUSTRALIA,UK, NEW ZEALAND,SCOTLAND,SINGAPORE,SWITZERLAND,FRANCE ESTIMATED DELIVERY DATE FOR INTERNATIONAL ORDERS IS 15-30 DAYS.
+</LegalDisclaimer>
+<ListPrice>
+<Amount>29500</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 295.00</FormattedPrice>
+</ListPrice>
+<Manufacturer>Westland Books Pvt. Ltd.</Manufacturer>
+<NumberOfPages>394</NumberOfPages>
+<PackageDimensions>
+<Height Units="hundredths-inches">110</Height>
+<Length Units="hundredths-inches">772</Length>
+<Weight Units="hundredths-pounds">66</Weight>
+<Width Units="hundredths-inches">512</Width>
+</PackageDimensions>
+<PackageQuantity>1</PackageQuantity>
+<ProductGroup>Book</ProductGroup>
+<ProductTypeName>ABIS_BOOK</ProductTypeName>
+<PublicationDate>2012-04-01</PublicationDate>
+<Publisher>Westland Books Pvt. Ltd.</Publisher>
+<Studio>Westland Books Pvt. Ltd.</Studio>
+<Title>The Secret Of The Nagas (Shiva Trilogy-2)</Title>
+</ItemAttributes>
+<OfferSummary>
+<LowestNewPrice>
+<Amount>13000</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 130.00</FormattedPrice>
+</LowestNewPrice>
+<TotalNew>132</TotalNew>
+<TotalUsed>0</TotalUsed>
+<TotalCollectible>0</TotalCollectible>
+<TotalRefurbished>0</TotalRefurbished>
+</OfferSummary>
+<Offers>
+<TotalOffers>1</TotalOffers>
+<TotalOfferPages>1</TotalOfferPages>
+<MoreOffersUrl>
+http://www.amazon.in/gp/offer-listing/9381626340%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9381626340
+</MoreOffersUrl>
+<Offer>
+<OfferAttributes>
+<Condition>New</Condition>
+</OfferAttributes>
+<OfferListing>
+<OfferListingId>
+cpiU1KMC38jE%2FgOVFVzzUg7kEnTegJPrI5GDk0FtVm8Ke5HkupRT7iLCOK%2B9iFI8e6%2BSMnfESFXvAjw6AYRhaIKQkKCE6%2BpzY8t5EdvJJcljGodUpaTXVLfxHHy%2B4KcCelblrufFJhojdcT%2F54Y4kw%3D%3D
+</OfferListingId>
+<Price>
+<Amount>19500</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 195.00</FormattedPrice>
+</Price>
+<SalePrice>
+<Amount>14700</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 147.00</FormattedPrice>
+</SalePrice>
+<AmountSaved>
+<Amount>4800</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 48.00</FormattedPrice>
+</AmountSaved>
+<PercentageSaved>25</PercentageSaved>
+<Availability>Usually dispatched within 24 hours</Availability>
+<AvailabilityAttributes>
+<AvailabilityType>now</AvailabilityType>
+<MinimumHours>0</MinimumHours>
+<MaximumHours>0</MaximumHours>
+</AvailabilityAttributes>
+<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+<IsEligibleForPrime>1</IsEligibleForPrime>
+</OfferListing>
+</Offer>
+</Offers>
+</Item>
+<Item>
+<ASIN>9382618341</ASIN>
+<DetailPageURL>
+http://www.amazon.in/The-Oath-Vayuputras-Shiva-Trilogy/dp/9382618341%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9382618341
+</DetailPageURL>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51edluvllQL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">49</Width>
+</SmallImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51edluvllQL._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">105</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51edluvllQL.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">327</Width>
+</LargeImage>
+<ImageSets>
+<ImageSet Category="variant">
+<SwatchImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL30_.jpg
+</URL>
+<Height Units="pixels">30</Height>
+<Width Units="pixels">21</Width>
+</SwatchImage>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">52</Width>
+</SmallImage>
+<ThumbnailImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">52</Width>
+</ThumbnailImage>
+<TinyImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL110_.jpg
+</URL>
+<Height Units="pixels">110</Height>
+<Width Units="pixels">77</Width>
+</TinyImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">112</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51mknkGD%2BqL.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">349</Width>
+</LargeImage>
+</ImageSet>
+<ImageSet Category="variant">
+<SwatchImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL30_.jpg
+</URL>
+<Height Units="pixels">30</Height>
+<Width Units="pixels">22</Width>
+</SwatchImage>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">56</Width>
+</SmallImage>
+<ThumbnailImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">56</Width>
+</ThumbnailImage>
+<TinyImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL110_.jpg
+</URL>
+<Height Units="pixels">110</Height>
+<Width Units="pixels">82</Width>
+</TinyImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">120</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41vmp3MPPqL.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">375</Width>
+</LargeImage>
+</ImageSet>
+<ImageSet Category="primary">
+<SwatchImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51edluvllQL._SL30_.jpg
+</URL>
+<Height Units="pixels">30</Height>
+<Width Units="pixels">20</Width>
+</SwatchImage>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51edluvllQL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">49</Width>
+</SmallImage>
+<ThumbnailImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51edluvllQL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">49</Width>
+</ThumbnailImage>
+<TinyImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51edluvllQL._SL110_.jpg
+</URL>
+<Height Units="pixels">110</Height>
+<Width Units="pixels">72</Width>
+</TinyImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51edluvllQL._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">105</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51edluvllQL.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">327</Width>
+</LargeImage>
+</ImageSet>
+</ImageSets>
+<ItemAttributes>
+<Author>Amish Tripathi</Author>
+<Binding>Paperback</Binding>
+<EAN>9789382618348</EAN>
+<EANList>
+<EANListElement>9789382618348</EANListElement>
+</EANList>
+<Edition>1</Edition>
+<ISBN>9382618341</ISBN>
+<ItemDimensions>
+<Height Units="hundredths-inches">0</Height>
+<Length Units="hundredths-inches">0</Length>
+<Weight Units="hundredths-pounds">93</Weight>
+<Width Units="hundredths-inches">0</Width>
+</ItemDimensions>
+<Label>Westland</Label>
+<Languages>
+<Language>
+<Name>English</Name>
+<Type>Published</Type>
+</Language>
+<Language>
+<Name>English</Name>
+<Type>Original Language</Type>
+</Language>
+<Language>
+<Name>English</Name>
+<Type>Unknown</Type>
+</Language>
+</Languages>
+<ListPrice>
+<Amount>39500</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 395.00</FormattedPrice>
+</ListPrice>
+<Manufacturer>Westland</Manufacturer>
+<NumberOfPages>575</NumberOfPages>
+<PackageDimensions>
+<Height Units="hundredths-inches">165</Height>
+<Length Units="hundredths-inches">780</Length>
+<Weight Units="hundredths-pounds">93</Weight>
+<Width Units="hundredths-inches">504</Width>
+</PackageDimensions>
+<PackageQuantity>1</PackageQuantity>
+<ProductGroup>Book</ProductGroup>
+<ProductTypeName>ABIS_BOOK</ProductTypeName>
+<PublicationDate>2013-02-27</PublicationDate>
+<Publisher>Westland</Publisher>
+<Studio>Westland</Studio>
+<Title>The Oath of the Vayuputras (Shiva Trilogy)</Title>
+</ItemAttributes>
+<OfferSummary>
+<LowestNewPrice>
+<Amount>17500</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 175.00</FormattedPrice>
+</LowestNewPrice>
+<TotalNew>95</TotalNew>
+<TotalUsed>0</TotalUsed>
+<TotalCollectible>0</TotalCollectible>
+<TotalRefurbished>0</TotalRefurbished>
+</OfferSummary>
+<Offers>
+<TotalOffers>1</TotalOffers>
+<TotalOfferPages>1</TotalOfferPages>
+<MoreOffersUrl>
+http://www.amazon.in/gp/offer-listing/9382618341%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9382618341
+</MoreOffersUrl>
+<Offer>
+<OfferAttributes>
+<Condition>New</Condition>
+</OfferAttributes>
+<OfferListing>
+<OfferListingId>
+cpiU1KMC38jE%2FgOVFVzzUraBWXaOsdUtUZcw4R7%2F3%2FAJZrQ8dG4%2F7p8xB9LbaxvSo%2B6T%2Fi8vacUETIyNUMGSvRveu3JtpWMbWmsxMxQ%2Fk1pL8yC7c4u511wC7Yd5R%2F%2BXAX9lmkPRCRi1UsKZ2aoBkw%3D%3D
+</OfferListingId>
+<Price>
+<Amount>23600</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 236.00</FormattedPrice>
+</Price>
+<SalePrice>
+<Amount>19700</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 197.00</FormattedPrice>
+</SalePrice>
+<AmountSaved>
+<Amount>3900</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 39.00</FormattedPrice>
+</AmountSaved>
+<PercentageSaved>17</PercentageSaved>
+<Availability>Usually dispatched within 24 hours</Availability>
+<AvailabilityAttributes>
+<AvailabilityType>now</AvailabilityType>
+<MinimumHours>0</MinimumHours>
+<MaximumHours>0</MaximumHours>
+</AvailabilityAttributes>
+<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+<IsEligibleForPrime>1</IsEligibleForPrime>
+</OfferListing>
+</Offer>
+</Offers>
+</Item>
+<Item>
+<ASIN>9383260165</ASIN>
+<DetailPageURL>
+http://www.amazon.in/Trilogy-Collectors-Edition-Includes-Exclusive/dp/9383260165%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9383260165
+</DetailPageURL>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">48</Width>
+</SmallImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">103</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">322</Width>
+</LargeImage>
+<ImageSets>
+<ImageSet Category="variant">
+<SwatchImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51WNYO29veL._SL30_.jpg
+</URL>
+<Height Units="pixels">30</Height>
+<Width Units="pixels">30</Width>
+</SwatchImage>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51WNYO29veL._SL75_.jpg
+</URL>
+<Height Units="pixels">74</Height>
+<Width Units="pixels">75</Width>
+</SmallImage>
+<ThumbnailImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51WNYO29veL._SL75_.jpg
+</URL>
+<Height Units="pixels">74</Height>
+<Width Units="pixels">75</Width>
+</ThumbnailImage>
+<TinyImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51WNYO29veL._SL110_.jpg
+</URL>
+<Height Units="pixels">109</Height>
+<Width Units="pixels">110</Width>
+</TinyImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51WNYO29veL._SL160_.jpg
+</URL>
+<Height Units="pixels">158</Height>
+<Width Units="pixels">160</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51WNYO29veL.jpg
+</URL>
+<Height Units="pixels">494</Height>
+<Width Units="pixels">500</Width>
+</LargeImage>
+</ImageSet>
+<ImageSet Category="primary">
+<SwatchImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL30_.jpg
+</URL>
+<Height Units="pixels">30</Height>
+<Width Units="pixels">19</Width>
+</SwatchImage>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">48</Width>
+</SmallImage>
+<ThumbnailImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">48</Width>
+</ThumbnailImage>
+<TinyImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL110_.jpg
+</URL>
+<Height Units="pixels">110</Height>
+<Width Units="pixels">71</Width>
+</TinyImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">103</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">322</Width>
+</LargeImage>
+</ImageSet>
+</ImageSets>
+<ItemAttributes>
+<Author>Amish Tripathi</Author>
+<Binding>Hardcover</Binding>
+<EAN>9789383260164</EAN>
+<EANList>
+<EANListElement>9789383260164</EANListElement>
+</EANList>
+<Format>Box set</Format>
+<ISBN>9383260165</ISBN>
+<ItemDimensions>
+<Height Units="hundredths-inches">0</Height>
+<Length Units="hundredths-inches">0</Length>
+<Weight Units="hundredths-pounds">425</Weight>
+<Width Units="hundredths-inches">0</Width>
+</ItemDimensions>
+<Label>Westland</Label>
+<Languages>
+<Language>
+<Name>English</Name>
+<Type>Published</Type>
+</Language>
+<Language>
+<Name>English</Name>
+<Type>Original Language</Type>
+</Language>
+<Language>
+<Name>English</Name>
+<Type>Unknown</Type>
+</Language>
+</Languages>
+<ListPrice>
+<Amount>249900</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 2,499.00</FormattedPrice>
+</ListPrice>
+<Manufacturer>Westland</Manufacturer>
+<NumberOfPages>1345</NumberOfPages>
+<PackageDimensions>
+<Height Units="hundredths-inches">480</Height>
+<Length Units="hundredths-inches">913</Length>
+<Weight Units="hundredths-pounds">432</Weight>
+<Width Units="hundredths-inches">598</Width>
+</PackageDimensions>
+<ProductGroup>Book</ProductGroup>
+<ProductTypeName>ABIS_BOOK</ProductTypeName>
+<PublicationDate>2013-11-07</PublicationDate>
+<Publisher>Westland</Publisher>
+<Studio>Westland</Studio>
+<Title>
+Shiva Trilogy Collector's Edition Includes Exclusive Free Shiva Trilogy DVD
+</Title>
+</ItemAttributes>
+<OfferSummary>
+<LowestNewPrice>
+<Amount>146500</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 1,465.00</FormattedPrice>
+</LowestNewPrice>
+<TotalNew>18</TotalNew>
+<TotalUsed>0</TotalUsed>
+<TotalCollectible>0</TotalCollectible>
+<TotalRefurbished>0</TotalRefurbished>
+</OfferSummary>
+<Offers>
+<TotalOffers>1</TotalOffers>
+<TotalOfferPages>1</TotalOfferPages>
+<MoreOffersUrl>
+http://www.amazon.in/gp/offer-listing/9383260165%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9383260165
+</MoreOffersUrl>
+<Offer>
+<OfferAttributes>
+<Condition>New</Condition>
+</OfferAttributes>
+<OfferListing>
+<OfferListingId>
+cpiU1KMC38jE%2FgOVFVzzUojVEi%2FKyRU7lcEccccXiJcr%2Bg9RtfFKPGXvWIf53q5vFodNCR1NElv%2BmMjui5RJDCikeyaPsBw1x2ORUznTEIJBk6rvBlNuFapqaQZSYyyFQmHQ0pYfUUhzjcTPrU9zxQ%3D%3D
+</OfferListingId>
+<Price>
+<Amount>146500</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 1,465.00</FormattedPrice>
+</Price>
+<AmountSaved>
+<Amount>103400</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 1,034.00</FormattedPrice>
+</AmountSaved>
+<PercentageSaved>41</PercentageSaved>
+<Availability>Usually dispatched within 1-2 business days</Availability>
+<AvailabilityAttributes>
+<AvailabilityType>now</AvailabilityType>
+<MinimumHours>24</MinimumHours>
+<MaximumHours>48</MaximumHours>
+</AvailabilityAttributes>
+<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+<IsEligibleForPrime>0</IsEligibleForPrime>
+</OfferListing>
+</Offer>
+</Offers>
+</Item>
+<Item>
+<ASIN>9385152149</ASIN>
+<DetailPageURL>
+http://www.amazon.in/Scion-Ikshvaku-Part-Chandra-Series/dp/9385152149%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9385152149
+</DetailPageURL>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51DE-2bLjIL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">49</Width>
+</SmallImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51DE-2bLjIL._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">104</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51DE-2bLjIL.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">325</Width>
+</LargeImage>
+<ImageSets>
+<ImageSet Category="variant">
+<SwatchImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51WL8RqBjVL._SL30_.jpg
+</URL>
+<Height Units="pixels">30</Height>
+<Width Units="pixels">20</Width>
+</SwatchImage>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51WL8RqBjVL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">49</Width>
+</SmallImage>
+<ThumbnailImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51WL8RqBjVL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">49</Width>
+</ThumbnailImage>
+<TinyImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51WL8RqBjVL._SL110_.jpg
+</URL>
+<Height Units="pixels">110</Height>
+<Width Units="pixels">72</Width>
+</TinyImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51WL8RqBjVL._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">105</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51WL8RqBjVL.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">329</Width>
+</LargeImage>
+</ImageSet>
+<ImageSet Category="primary">
+<SwatchImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51DE-2bLjIL._SL30_.jpg
+</URL>
+<Height Units="pixels">30</Height>
+<Width Units="pixels">20</Width>
+</SwatchImage>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51DE-2bLjIL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">49</Width>
+</SmallImage>
+<ThumbnailImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51DE-2bLjIL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">49</Width>
+</ThumbnailImage>
+<TinyImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51DE-2bLjIL._SL110_.jpg
+</URL>
+<Height Units="pixels">110</Height>
+<Width Units="pixels">72</Width>
+</TinyImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51DE-2bLjIL._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">104</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51DE-2bLjIL.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">325</Width>
+</LargeImage>
+</ImageSet>
+</ImageSets>
+<ItemAttributes>
+<Author>Amish Tripathi</Author>
+<Binding>Paperback</Binding>
+<EAN>9789385152146</EAN>
+<EANList>
+<EANListElement>9789385152146</EANListElement>
+</EANList>
+<ISBN>9385152149</ISBN>
+<ItemDimensions>
+<Height Units="hundredths-inches">1500</Height>
+<Length Units="hundredths-inches">3000</Length>
+<Weight Units="hundredths-pounds">64</Weight>
+<Width Units="hundredths-inches">1000</Width>
+</ItemDimensions>
+<Label>Westland Limited</Label>
+<Languages>
+<Language>
+<Name>English</Name>
+<Type>Published</Type>
+</Language>
+<Language>
+<Name>English</Name>
+<Type>Unknown</Type>
+</Language>
+</Languages>
+<LegalDisclaimer>New Edtion ( Only few copies left)</LegalDisclaimer>
+<ListPrice>
+<Amount>35000</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 350.00</FormattedPrice>
+</ListPrice>
+<Manufacturer>Westland Limited</Manufacturer>
+<NumberOfItems>1</NumberOfItems>
+<NumberOfPages>376</NumberOfPages>
+<PackageDimensions>
+<Height Units="hundredths-inches">102</Height>
+<Length Units="hundredths-inches">795</Length>
+<Weight Units="hundredths-pounds">62</Weight>
+<Width Units="hundredths-inches">512</Width>
+</PackageDimensions>
+<PackageQuantity>1</PackageQuantity>
+<ProductGroup>Book</ProductGroup>
+<ProductTypeName>ABIS_BOOK</ProductTypeName>
+<PublicationDate>2015-06-22</PublicationDate>
+<Publisher>Westland Limited</Publisher>
+<ReleaseDate>2015-06-22</ReleaseDate>
+<Studio>Westland Limited</Studio>
+<Title>Scion of Ikshvaku (1st Part in Ram Chandra Series)</Title>
+</ItemAttributes>
+<OfferSummary>
+<LowestNewPrice>
+<Amount>7600</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 76.00</FormattedPrice>
+</LowestNewPrice>
+<TotalNew>96</TotalNew>
+<TotalUsed>0</TotalUsed>
+<TotalCollectible>0</TotalCollectible>
+<TotalRefurbished>0</TotalRefurbished>
+</OfferSummary>
+<Offers>
+<TotalOffers>1</TotalOffers>
+<TotalOfferPages>1</TotalOfferPages>
+<MoreOffersUrl>
+http://www.amazon.in/gp/offer-listing/9385152149%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9385152149
+</MoreOffersUrl>
+<Offer>
+<OfferAttributes>
+<Condition>New</Condition>
+</OfferAttributes>
+<OfferListing>
+<OfferListingId>
+8qaDKJNE9hthTCeMBULyHHn3iYBT4JfmfmZk3k5oIzF1fRdcXWxWsQCdR7ULmXnf65qMGKzDRMFY1VfnN8r%2BBMB366c7lVImzwB%2FYcTGkPbiuSxDsajykjMXAdusvG9gG0VgMalbTVPi%2FWLfrfRXcg%3D%3D
+</OfferListingId>
+<Price>
+<Amount>23100</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 231.00</FormattedPrice>
+</Price>
+<SalePrice>
+<Amount>17500</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 175.00</FormattedPrice>
+</SalePrice>
+<AmountSaved>
+<Amount>5600</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 56.00</FormattedPrice>
+</AmountSaved>
+<PercentageSaved>24</PercentageSaved>
+<Availability>Usually dispatched within 24 hours</Availability>
+<AvailabilityAttributes>
+<AvailabilityType>now</AvailabilityType>
+<MinimumHours>0</MinimumHours>
+<MaximumHours>0</MaximumHours>
+</AvailabilityAttributes>
+<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+<IsEligibleForPrime>1</IsEligibleForPrime>
+</OfferListing>
+</Offer>
+</Offers>
+</Item>
+<Item>
+<ASIN>9380658826</ASIN>
+<DetailPageURL>
+http://www.amazon.in/Meluha-Ke-Mritunjay-Immortals-Hindi/dp/9380658826%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9380658826
+</DetailPageURL>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51iVZbIJybL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">47</Width>
+</SmallImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51iVZbIJybL._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">100</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51iVZbIJybL.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">312</Width>
+</LargeImage>
+<ImageSets>
+<ImageSet Category="variant">
+<SwatchImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51WrD5nxfFL._SL30_.jpg
+</URL>
+<Height Units="pixels">30</Height>
+<Width Units="pixels">18</Width>
+</SwatchImage>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51WrD5nxfFL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">46</Width>
+</SmallImage>
+<ThumbnailImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51WrD5nxfFL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">46</Width>
+</ThumbnailImage>
+<TinyImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51WrD5nxfFL._SL110_.jpg
+</URL>
+<Height Units="pixels">110</Height>
+<Width Units="pixels">68</Width>
+</TinyImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51WrD5nxfFL._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">99</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51WrD5nxfFL.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">308</Width>
+</LargeImage>
+</ImageSet>
+<ImageSet Category="variant">
+<SwatchImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41ii75m5PbL._SL30_.jpg
+</URL>
+<Height Units="pixels">30</Height>
+<Width Units="pixels">22</Width>
+</SwatchImage>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41ii75m5PbL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">56</Width>
+</SmallImage>
+<ThumbnailImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41ii75m5PbL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">56</Width>
+</ThumbnailImage>
+<TinyImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41ii75m5PbL._SL110_.jpg
+</URL>
+<Height Units="pixels">110</Height>
+<Width Units="pixels">82</Width>
+</TinyImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41ii75m5PbL._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">120</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41ii75m5PbL.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">375</Width>
+</LargeImage>
+</ImageSet>
+<ImageSet Category="primary">
+<SwatchImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51iVZbIJybL._SL30_.jpg
+</URL>
+<Height Units="pixels">30</Height>
+<Width Units="pixels">19</Width>
+</SwatchImage>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51iVZbIJybL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">47</Width>
+</SmallImage>
+<ThumbnailImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51iVZbIJybL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">47</Width>
+</ThumbnailImage>
+<TinyImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51iVZbIJybL._SL110_.jpg
+</URL>
+<Height Units="pixels">110</Height>
+<Width Units="pixels">69</Width>
+</TinyImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51iVZbIJybL._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">100</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51iVZbIJybL.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">312</Width>
+</LargeImage>
+</ImageSet>
+</ImageSets>
+<ItemAttributes>
+<Author>Amish Tripathi</Author>
+<Binding>Paperback</Binding>
+<Brand>imusti</Brand>
+<EAN>9789380658827</EAN>
+<EANList>
+<EANListElement>9789380658827</EANListElement>
+</EANList>
+<Edition>Revised Edition</Edition>
+<Feature>Westland</Feature>
+<ISBN>9380658826</ISBN>
+<ItemDimensions>
+<Height Units="hundredths-inches">701</Height>
+<Length Units="hundredths-inches">437</Length>
+<Weight Units="hundredths-pounds">150</Weight>
+<Width Units="hundredths-inches">93</Width>
+</ItemDimensions>
+<Label>Westland</Label>
+<Languages>
+<Language>
+<Name>Hindi</Name>
+<Type>Published</Type>
+</Language>
+<Language>
+<Name>Hindi</Name>
+<Type>Original Language</Type>
+</Language>
+<Language>
+<Name>Hindi</Name>
+<Type>Unknown</Type>
+</Language>
+</Languages>
+<ListPrice>
+<Amount>22500</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 225.00</FormattedPrice>
+</ListPrice>
+<Manufacturer>Westland</Manufacturer>
+<NumberOfItems>1</NumberOfItems>
+<NumberOfPages>472</NumberOfPages>
+<PackageDimensions>
+<Height Units="hundredths-inches">102</Height>
+<Length Units="hundredths-inches">693</Length>
+<Weight Units="hundredths-pounds">49</Weight>
+<Width Units="hundredths-inches">449</Width>
+</PackageDimensions>
+<PackageQuantity>1</PackageQuantity>
+<ProductGroup>Book</ProductGroup>
+<ProductTypeName>ABIS_BOOK</ProductTypeName>
+<PublicationDate>2011-09-05</PublicationDate>
+<Publisher>Westland</Publisher>
+<Studio>Westland</Studio>
+<Title>Meluha Ke Mritunjay (Immortals of Meluha) (Hindi)</Title>
+</ItemAttributes>
+<OfferSummary>
+<LowestNewPrice>
+<Amount>9400</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 94.00</FormattedPrice>
+</LowestNewPrice>
+<TotalNew>61</TotalNew>
+<TotalUsed>0</TotalUsed>
+<TotalCollectible>0</TotalCollectible>
+<TotalRefurbished>0</TotalRefurbished>
+</OfferSummary>
+<Offers>
+<TotalOffers>1</TotalOffers>
+<TotalOfferPages>1</TotalOfferPages>
+<MoreOffersUrl>
+http://www.amazon.in/gp/offer-listing/9380658826%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9380658826
+</MoreOffersUrl>
+<Offer>
+<OfferAttributes>
+<Condition>New</Condition>
+</OfferAttributes>
+<OfferListing>
+<OfferListingId>
+cpiU1KMC38jE%2FgOVFVzzUmcX%2B8ETrjJSIvzgM9pE7lnD6lRObQGPw%2B5TPT6uSmZcHETxXdedezUwLpHQ%2B1qol8r6rfXQ1Jp5mAoJjZT9t5GTI3CnoMg0xtT5YrcoufjukpsTjoDzd%2B2YtnMGSt9q%2Fw%3D%3D
+</OfferListingId>
+<Price>
+<Amount>14900</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 149.00</FormattedPrice>
+</Price>
+<SalePrice>
+<Amount>9400</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 94.00</FormattedPrice>
+</SalePrice>
+<AmountSaved>
+<Amount>5500</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 55.00</FormattedPrice>
+</AmountSaved>
+<PercentageSaved>37</PercentageSaved>
+<Availability>Usually dispatched within 24 hours</Availability>
+<AvailabilityAttributes>
+<AvailabilityType>now</AvailabilityType>
+<MinimumHours>0</MinimumHours>
+<MaximumHours>0</MaximumHours>
+</AvailabilityAttributes>
+<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+<IsEligibleForPrime>1</IsEligibleForPrime>
+</OfferListing>
+</Offer>
+</Offers>
+</Item>
+<Item>
+<ASIN>1623656540</ASIN>
+<DetailPageURL>
+http://www.amazon.in/The-Immortals-Meluha-Shiva-Trilogy/dp/1623656540%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1623656540
+</DetailPageURL>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51RIiVbgH5L._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">50</Width>
+</SmallImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51RIiVbgH5L._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">106</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51RIiVbgH5L.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">330</Width>
+</LargeImage>
+<ImageSets>
+<ImageSet Category="variant">
+<SwatchImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51N6dJdViSL._SL30_.jpg
+</URL>
+<Height Units="pixels">30</Height>
+<Width Units="pixels">20</Width>
+</SwatchImage>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51N6dJdViSL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">50</Width>
+</SmallImage>
+<ThumbnailImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51N6dJdViSL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">50</Width>
+</ThumbnailImage>
+<TinyImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51N6dJdViSL._SL110_.jpg
+</URL>
+<Height Units="pixels">110</Height>
+<Width Units="pixels">73</Width>
+</TinyImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51N6dJdViSL._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">106</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51N6dJdViSL.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">330</Width>
+</LargeImage>
+</ImageSet>
+<ImageSet Category="primary">
+<SwatchImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51RIiVbgH5L._SL30_.jpg
+</URL>
+<Height Units="pixels">30</Height>
+<Width Units="pixels">20</Width>
+</SwatchImage>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51RIiVbgH5L._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">50</Width>
+</SmallImage>
+<ThumbnailImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51RIiVbgH5L._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">50</Width>
+</ThumbnailImage>
+<TinyImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51RIiVbgH5L._SL110_.jpg
+</URL>
+<Height Units="pixels">110</Height>
+<Width Units="pixels">73</Width>
+</TinyImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51RIiVbgH5L._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">106</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51RIiVbgH5L.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">330</Width>
+</LargeImage>
+</ImageSet>
+</ImageSets>
+<ItemAttributes>
+<Author>Amish Tripathi</Author>
+<Binding>Paperback</Binding>
+<EAN>9781623656546</EAN>
+<EANList>
+<EANListElement>9781623656546</EANListElement>
+</EANList>
+<Edition>Reprint</Edition>
+<Format>Import</Format>
+<ISBN>1623656540</ISBN>
+<ItemDimensions>
+<Height Units="hundredths-inches">825</Height>
+<Length Units="hundredths-inches">550</Length>
+<Weight Units="hundredths-pounds">0</Weight>
+<Width Units="hundredths-inches">100</Width>
+</ItemDimensions>
+<Label>Jo Fletcher Books</Label>
+<Languages>
+<Language>
+<Name>English</Name>
+<Type>Published</Type>
+</Language>
+<Language>
+<Name>English</Name>
+<Type>Original Language</Type>
+</Language>
+<Language>
+<Name>English</Name>
+<Type>Unknown</Type>
+</Language>
+</Languages>
+<Manufacturer>Jo Fletcher Books</Manufacturer>
+<NumberOfItems>1</NumberOfItems>
+<NumberOfPages>320</NumberOfPages>
+<PackageDimensions>
+<Height Units="hundredths-inches">100</Height>
+<Length Units="hundredths-inches">810</Length>
+<Weight Units="hundredths-pounds">70</Weight>
+<Width Units="hundredths-inches">540</Width>
+</PackageDimensions>
+<ProductGroup>Book</ProductGroup>
+<ProductTypeName>ABIS_BOOK</ProductTypeName>
+<PublicationDate>2015-11-03</PublicationDate>
+<Publisher>Jo Fletcher Books</Publisher>
+<Studio>Jo Fletcher Books</Studio>
+<Title>The Immortals of Meluha: The Shiva Trilogy: Book 1</Title>
+</ItemAttributes>
+<OfferSummary>
+<LowestNewPrice>
+<Amount>70400</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 704.00</FormattedPrice>
+</LowestNewPrice>
+<TotalNew>8</TotalNew>
+<TotalUsed>0</TotalUsed>
+<TotalCollectible>0</TotalCollectible>
+<TotalRefurbished>0</TotalRefurbished>
+</OfferSummary>
+<Offers>
+<TotalOffers>1</TotalOffers>
+<TotalOfferPages>1</TotalOfferPages>
+<MoreOffersUrl>
+http://www.amazon.in/gp/offer-listing/1623656540%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1623656540
+</MoreOffersUrl>
+<Offer>
+<OfferAttributes>
+<Condition>New</Condition>
+</OfferAttributes>
+<OfferListing>
+<OfferListingId>
+cpiU1KMC38hsDU2N8O5OteVemUmSQ%2Fx%2FR2KC%2BrUuH22KKkjQS6nRV8sYOO5WxqBTwiJhvVKdFb%2B%2F301NU5aKRsPlmJz8krga8Y%2BDGTS8%2FHMuK9NRYvRSOOzyPWTzeKw7m6pF3vI572XcVYn33NE49BHeVmqXI3q%2FmuSlMzRc1uuky4y8j8bXu2SKSrntLMnl
+</OfferListingId>
+<Price>
+<Amount>70400</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 704.00</FormattedPrice>
+</Price>
+<Availability>Usually dispatched within 1-3 weeks</Availability>
+<AvailabilityAttributes>
+<AvailabilityType>now</AvailabilityType>
+<MinimumHours>264</MinimumHours>
+<MaximumHours>360</MaximumHours>
+</AvailabilityAttributes>
+<IsEligibleForSuperSaverShipping>0</IsEligibleForSuperSaverShipping>
+<IsEligibleForPrime>0</IsEligibleForPrime>
+</OfferListing>
+</Offer>
+</Offers>
+</Item>
+<Item>
+<ASIN>B00DJLRTEM</ASIN>
+<DetailPageURL>
+http://www.amazon.in/Shiva-Trilogy-Amish-ebook/dp/B00DJLRTEM%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00DJLRTEM
+</DetailPageURL>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51nCRjLZLhL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">49</Width>
+</SmallImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51nCRjLZLhL._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">104</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51nCRjLZLhL.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">326</Width>
+</LargeImage>
+<ImageSets>
+<ImageSet Category="primary">
+<SwatchImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51nCRjLZLhL._SL30_.jpg
+</URL>
+<Height Units="pixels">30</Height>
+<Width Units="pixels">20</Width>
+</SwatchImage>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51nCRjLZLhL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">49</Width>
+</SmallImage>
+<ThumbnailImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51nCRjLZLhL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">49</Width>
+</ThumbnailImage>
+<TinyImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51nCRjLZLhL._SL110_.jpg
+</URL>
+<Height Units="pixels">110</Height>
+<Width Units="pixels">72</Width>
+</TinyImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51nCRjLZLhL._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">104</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51nCRjLZLhL.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">326</Width>
+</LargeImage>
+</ImageSet>
+</ImageSets>
+<ItemAttributes>
+<Author>Amish</Author>
+<Binding>Kindle Edition</Binding>
+<EISBN>9789383260034</EISBN>
+<Format>Kindle eBook</Format>
+<Label>Westland</Label>
+<Languages>
+<Language>
+<Name>English</Name>
+<Type>Published</Type>
+</Language>
+</Languages>
+<Manufacturer>Westland</Manufacturer>
+<ProductGroup>eBooks</ProductGroup>
+<ProductTypeName>ABIS_EBOOKS</ProductTypeName>
+<Publisher>Westland</Publisher>
+<ReleaseDate>2013-06-21</ReleaseDate>
+<Studio>Westland</Studio>
+<Title>Shiva Trilogy</Title>
+</ItemAttributes>
+</Item>
+<Item>
+<ASIN>9383260009</ASIN>
+<DetailPageURL>
+http://www.amazon.in/Vayuputron-Shapath-Oath-Vayuputras-Hindi/dp/9383260009%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9383260009
+</DetailPageURL>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51BI2WYShcL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">49</Width>
+</SmallImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51BI2WYShcL._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">104</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51BI2WYShcL.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">324</Width>
+</LargeImage>
+<ImageSets>
+<ImageSet Category="variant">
+<SwatchImage>
+<URL>
+http://ecx.images-amazon.com/images/I/516dTKxxzjL._SL30_.jpg
+</URL>
+<Height Units="pixels">30</Height>
+<Width Units="pixels">19</Width>
+</SwatchImage>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/516dTKxxzjL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">49</Width>
+</SmallImage>
+<ThumbnailImage>
+<URL>
+http://ecx.images-amazon.com/images/I/516dTKxxzjL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">49</Width>
+</ThumbnailImage>
+<TinyImage>
+<URL>
+http://ecx.images-amazon.com/images/I/516dTKxxzjL._SL110_.jpg
+</URL>
+<Height Units="pixels">110</Height>
+<Width Units="pixels">71</Width>
+</TinyImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/516dTKxxzjL._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">104</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/516dTKxxzjL.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">324</Width>
+</LargeImage>
+</ImageSet>
+<ImageSet Category="variant">
+<SwatchImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41TEa-WEC-L._SL30_.jpg
+</URL>
+<Height Units="pixels">30</Height>
+<Width Units="pixels">22</Width>
+</SwatchImage>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41TEa-WEC-L._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">56</Width>
+</SmallImage>
+<ThumbnailImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41TEa-WEC-L._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">56</Width>
+</ThumbnailImage>
+<TinyImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41TEa-WEC-L._SL110_.jpg
+</URL>
+<Height Units="pixels">110</Height>
+<Width Units="pixels">82</Width>
+</TinyImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41TEa-WEC-L._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">120</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41TEa-WEC-L.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">375</Width>
+</LargeImage>
+</ImageSet>
+<ImageSet Category="primary">
+<SwatchImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51BI2WYShcL._SL30_.jpg
+</URL>
+<Height Units="pixels">30</Height>
+<Width Units="pixels">19</Width>
+</SwatchImage>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51BI2WYShcL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">49</Width>
+</SmallImage>
+<ThumbnailImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51BI2WYShcL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">49</Width>
+</ThumbnailImage>
+<TinyImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51BI2WYShcL._SL110_.jpg
+</URL>
+<Height Units="pixels">110</Height>
+<Width Units="pixels">71</Width>
+</TinyImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51BI2WYShcL._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">104</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51BI2WYShcL.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">324</Width>
+</LargeImage>
+</ImageSet>
+</ImageSets>
+<ItemAttributes>
+<Author>Amish Tripathi</Author>
+<Binding>Paperback</Binding>
+<Brand>imusti</Brand>
+<EAN>9789383260003</EAN>
+<EANList>
+<EANListElement>9789383260003</EANListElement>
+</EANList>
+<Edition>Revised Edition</Edition>
+<Feature>Yatra/Westland</Feature>
+<ISBN>9383260009</ISBN>
+<ItemDimensions>
+<Height Units="hundredths-inches">780</Height>
+<Length Units="hundredths-inches">508</Length>
+<Weight Units="hundredths-pounds">93</Weight>
+<Width Units="hundredths-inches">117</Width>
+</ItemDimensions>
+<Label>Westland and Yatra</Label>
+<Languages>
+<Language>
+<Name>Hindi</Name>
+<Type>Published</Type>
+</Language>
+<Language>
+<Name>Hindi</Name>
+<Type>Original Language</Type>
+</Language>
+<Language>
+<Name>Hindi</Name>
+<Type>Unknown</Type>
+</Language>
+</Languages>
+<ListPrice>
+<Amount>29500</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 295.00</FormattedPrice>
+</ListPrice>
+<Manufacturer>Westland and Yatra</Manufacturer>
+<MPN>111</MPN>
+<NumberOfItems>1</NumberOfItems>
+<NumberOfPages>552</NumberOfPages>
+<PackageDimensions>
+<Height Units="hundredths-inches">142</Height>
+<Length Units="hundredths-inches">772</Length>
+<Weight Units="hundredths-pounds">88</Weight>
+<Width Units="hundredths-inches">512</Width>
+</PackageDimensions>
+<PartNumber>111</PartNumber>
+<ProductGroup>Book</ProductGroup>
+<ProductTypeName>ABIS_BOOK</ProductTypeName>
+<PublicationDate>2013-06-20</PublicationDate>
+<Publisher>Westland and Yatra</Publisher>
+<ReleaseDate>2013-06-25</ReleaseDate>
+<Studio>Westland and Yatra</Studio>
+<Title>
+Vayuputron Ki Shapath (The Oath of the Vayuputras) (Hindi)
+</Title>
+</ItemAttributes>
+<OfferSummary>
+<LowestNewPrice>
+<Amount>18500</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 185.00</FormattedPrice>
+</LowestNewPrice>
+<TotalNew>72</TotalNew>
+<TotalUsed>0</TotalUsed>
+<TotalCollectible>0</TotalCollectible>
+<TotalRefurbished>0</TotalRefurbished>
+</OfferSummary>
+<Offers>
+<TotalOffers>1</TotalOffers>
+<TotalOfferPages>1</TotalOfferPages>
+<MoreOffersUrl>
+http://www.amazon.in/gp/offer-listing/9383260009%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9383260009
+</MoreOffersUrl>
+<Offer>
+<OfferAttributes>
+<Condition>New</Condition>
+</OfferAttributes>
+<OfferListing>
+<OfferListingId>
+cpiU1KMC38jE%2FgOVFVzzUm3WaVgVP%2Ff53nTaewl1vKBI3gyvieGAyrpNRRjG%2B6VFScx93ln1yHc%2FQPm9Z0JBbG07Sx8WtrHAPSa5KzN2gy7eLVb6ORyiLXg%2BGn3%2FiNEaw6GYGYOMgrL7my%2FCwWjYMQ%3D%3D
+</OfferListingId>
+<Price>
+<Amount>23600</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 236.00</FormattedPrice>
+</Price>
+<SalePrice>
+<Amount>19000</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 190.00</FormattedPrice>
+</SalePrice>
+<AmountSaved>
+<Amount>4600</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 46.00</FormattedPrice>
+</AmountSaved>
+<PercentageSaved>19</PercentageSaved>
+<Availability>Usually dispatched within 24 hours</Availability>
+<AvailabilityAttributes>
+<AvailabilityType>now</AvailabilityType>
+<MinimumHours>0</MinimumHours>
+<MaximumHours>0</MaximumHours>
+</AvailabilityAttributes>
+<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+<IsEligibleForPrime>1</IsEligibleForPrime>
+</OfferListing>
+</Offer>
+</Offers>
+</Item>
+<Item>
+<ASIN>938162660X</ASIN>
+<DetailPageURL>
+http://www.amazon.in/Nagaon-Ka-Rahasya-Amish-Tripathi/dp/938162660X%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D938162660X
+</DetailPageURL>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51pdF4xNSbL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">47</Width>
+</SmallImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51pdF4xNSbL._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">100</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51pdF4xNSbL.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">312</Width>
+</LargeImage>
+<ImageSets>
+<ImageSet Category="variant">
+<SwatchImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51pIKU-TvQL._SL30_.jpg
+</URL>
+<Height Units="pixels">30</Height>
+<Width Units="pixels">19</Width>
+</SwatchImage>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51pIKU-TvQL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">47</Width>
+</SmallImage>
+<ThumbnailImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51pIKU-TvQL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">47</Width>
+</ThumbnailImage>
+<TinyImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51pIKU-TvQL._SL110_.jpg
+</URL>
+<Height Units="pixels">110</Height>
+<Width Units="pixels">69</Width>
+</TinyImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51pIKU-TvQL._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">100</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51pIKU-TvQL.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">312</Width>
+</LargeImage>
+</ImageSet>
+<ImageSet Category="variant">
+<SwatchImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41MjMlYueiL._SL30_.jpg
+</URL>
+<Height Units="pixels">30</Height>
+<Width Units="pixels">22</Width>
+</SwatchImage>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41MjMlYueiL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">56</Width>
+</SmallImage>
+<ThumbnailImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41MjMlYueiL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">56</Width>
+</ThumbnailImage>
+<TinyImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41MjMlYueiL._SL110_.jpg
+</URL>
+<Height Units="pixels">110</Height>
+<Width Units="pixels">82</Width>
+</TinyImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41MjMlYueiL._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">120</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/41MjMlYueiL.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">375</Width>
+</LargeImage>
+</ImageSet>
+<ImageSet Category="primary">
+<SwatchImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51pdF4xNSbL._SL30_.jpg
+</URL>
+<Height Units="pixels">30</Height>
+<Width Units="pixels">19</Width>
+</SwatchImage>
+<SmallImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51pdF4xNSbL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">47</Width>
+</SmallImage>
+<ThumbnailImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51pdF4xNSbL._SL75_.jpg
+</URL>
+<Height Units="pixels">75</Height>
+<Width Units="pixels">47</Width>
+</ThumbnailImage>
+<TinyImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51pdF4xNSbL._SL110_.jpg
+</URL>
+<Height Units="pixels">110</Height>
+<Width Units="pixels">69</Width>
+</TinyImage>
+<MediumImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51pdF4xNSbL._SL160_.jpg
+</URL>
+<Height Units="pixels">160</Height>
+<Width Units="pixels">100</Width>
+</MediumImage>
+<LargeImage>
+<URL>
+http://ecx.images-amazon.com/images/I/51pdF4xNSbL.jpg
+</URL>
+<Height Units="pixels">500</Height>
+<Width Units="pixels">312</Width>
+</LargeImage>
+</ImageSet>
+</ImageSets>
+<ItemAttributes>
+<Author>Amish Tripathi</Author>
+<Binding>Paperback</Binding>
+<Brand>imusti</Brand>
+<EAN>9789381626603</EAN>
+<EANList>
+<EANListElement>9789381626603</EANListElement>
+</EANList>
+<Edition>1</Edition>
+<Feature>Yatra/Westland</Feature>
+<ISBN>938162660X</ISBN>
+<ItemDimensions>
+<Height Units="hundredths-inches">701</Height>
+<Length Units="hundredths-inches">437</Length>
+<Weight Units="hundredths-pounds">75</Weight>
+<Width Units="hundredths-inches">87</Width>
+</ItemDimensions>
+<Label>Westland Books</Label>
+<Languages>
+<Language>
+<Name>Hindi</Name>
+<Type>Published</Type>
+</Language>
+<Language>
+<Name>Hindi</Name>
+<Type>Original Language</Type>
+</Language>
+<Language>
+<Name>Hindi</Name>
+<Type>Unknown</Type>
+</Language>
+</Languages>
+<ListPrice>
+<Amount>19500</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 195.00</FormattedPrice>
+</ListPrice>
+<Manufacturer>Westland Books</Manufacturer>
+<NumberOfItems>1</NumberOfItems>
+<NumberOfPages>403</NumberOfPages>
+<PackageDimensions>
+<Height Units="hundredths-inches">110</Height>
+<Length Units="hundredths-inches">693</Length>
+<Weight Units="hundredths-pounds">49</Weight>
+<Width Units="hundredths-inches">441</Width>
+</PackageDimensions>
+<ProductGroup>Book</ProductGroup>
+<ProductTypeName>ABIS_BOOK</ProductTypeName>
+<PublicationDate>2012-07-05</PublicationDate>
+<Publisher>Westland Books</Publisher>
+<Studio>Westland Books</Studio>
+<Title>Nagaon Ka Rahasya</Title>
+</ItemAttributes>
+<OfferSummary>
+<LowestNewPrice>
+<Amount>13400</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 134.00</FormattedPrice>
+</LowestNewPrice>
+<TotalNew>62</TotalNew>
+<TotalUsed>0</TotalUsed>
+<TotalCollectible>0</TotalCollectible>
+<TotalRefurbished>0</TotalRefurbished>
+</OfferSummary>
+<Offers>
+<TotalOffers>1</TotalOffers>
+<TotalOfferPages>1</TotalOfferPages>
+<MoreOffersUrl>
+http://www.amazon.in/gp/offer-listing/938162660X%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D938162660X
+</MoreOffersUrl>
+<Offer>
+<OfferAttributes>
+<Condition>New</Condition>
+</OfferAttributes>
+<OfferListing>
+<OfferListingId>
+cpiU1KMC38jE%2FgOVFVzzUkxK0lRrKNwL2YIMJfYjAADdSgkStIyW0f3arADy%2F3%2BKnWhawdHONAOqf6SvTKGEJM0V0onXP29DtEMS0Im7s3enJDQSZxw5vjxAQvtQGpuCzEpQyleryFsMK1jjjcIuJQ%3D%3D
+</OfferListingId>
+<Price>
+<Amount>14000</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 140.00</FormattedPrice>
+</Price>
+<AmountSaved>
+<Amount>5500</Amount>
+<CurrencyCode>INR</CurrencyCode>
+<FormattedPrice>INR 55.00</FormattedPrice>
+</AmountSaved>
+<PercentageSaved>28</PercentageSaved>
+<Availability>Usually dispatched within 24 hours</Availability>
+<AvailabilityAttributes>
+<AvailabilityType>now</AvailabilityType>
+<MinimumHours>0</MinimumHours>
+<MaximumHours>0</MaximumHours>
+</AvailabilityAttributes>
+<IsEligibleForSuperSaverShipping>1</IsEligibleForSuperSaverShipping>
+<IsEligibleForPrime>1</IsEligibleForPrime>
+</OfferListing>
+</Offer>
+</Offers>
+</Item>
+</Items>
+</ItemSearchResponse>

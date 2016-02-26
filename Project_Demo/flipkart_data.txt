@@ -1,0 +1,2083 @@
+productInfoList:[object Object],[object Object],[object Object],[object Object],[object Object]
+0:[object Object]
+productBaseInfo:[object Object]
+productIdentifier:[object Object]
+productId:9789380658742
+categoryPaths:[object Object]
+categoryPath:[object Object]
+title:Books_Tree>Dummy
+productAttributes:[object Object]
+title:The Immortals of Meluha (English)
+imageUrls:[object Object]
+0:[object Object]
+0:[object Object]
+productDescription:The Immortals Of Meluha is a thrilling story about a warrior named Shiva, who is given the responsibility to protect the empire of Meluha from dangerous intruders. This mythological novel is fast-paced, and focuses on duty, love, principles and more. Summary Of The Book The land of Meluha is an empire created by Lord Rama, and it is ruled by the Suryavanshis. This empire is powerful and proud, however, the Saraswati river that is their source of water is slowing drying up. On top of that, the empire is at war with the Chandravanshis who have allied with The Nagas, a group of sinister and deformed human beings who have extraordinary martial art skills. The Immortals Of Meluha, published in 2010, is the first story of the trilogy. Daksha, the king of the Suryavanshis, realizes that his empire needs help. He invites a tribe from Tibet to help him fight off the enemies. The Tibetan Guna tribe is lead by Shiva, who is a fearless soldier, and the only one who does not fall ill on arriving at Meluha. To everyone's surprise, Shiva’s throat turns blue. The locals believe that this warrior is their fabled saviour Lord Shiva, also known as Neelkanth. Shiva goes to Devagiri to meet Daksha and his daughter Princess Sati. There, he learns about the dangerous wars and terror attacks that the Chandravanshis have carried out on the Meluhans. The brave warrior gets enraged, and declares a full war on the enemy. Readers will find this mythological fantasy to be gripping and exciting. Questions about Shiva’s duty, destiny, and karma arise throughout the book. The author has written a book that is adventurous, mystifying, and captivating, but at the same time he also has thrown light onto the subjects of what is evil, and who is truly a hero. This page-turner is a treat for readers who enjoy history, fantasy, and adventure. The Immortals Of Meluha received good reviews from leading newspapers, and was a bestseller within its first week of release.  About Amish Tripathi Amish Tripathi, born in 1974, is an Indian author. The second book of the series, The Secret of the Nagas, was published in 2011. The third and the last, The Oath of the Vayuputras, was released in 2013. The author’s books have become the fastest selling book series in the history of Indian publishing. A total of 1.7 million copies have been sold, with a gross retail sale of Rs. 40 crores. Tripathi’s books revolve around religious and mythological topics, as he is a devotee of Lord Shiva. Tripathi graduated from the Indian Institute of Management, Calcutta, and worked in the financial sector for fourteen years in companies such as IDBI Federal Life Insurance, Standard Chartered, and DBS Bank. In 2012, he was ranked at position 85 of Forbes India’s Celebrity 100 list.
+700x700:http://img5a.flixcart.com/image/book/7/4/2/the-immortals-of-meluha-700x700-imadvpb8y9trxgfu.jpeg
+40x40:http://img5a.flixcart.com/image/book/7/4/2/the-immortals-of-meluha-40x40-imadvpb8y9trxgfu.jpeg
+400x400:http://img5a.flixcart.com/image/book/7/4/2/the-immortals-of-meluha-400x400-imadvpb8y9trxgfu.jpeg
+125x125:http://img5a.flixcart.com/image/book/7/4/2/the-immortals-of-meluha-125x125-imadvpb8y9trxgfu.jpeg
+1100x1100:http://img5a.flixcart.com/image/book/7/4/2/the-immortals-of-meluha-1100x1100-imadvpb8y9trxgfu.jpeg
+75x75:http://img5a.flixcart.com/image/book/7/4/2/the-immortals-of-meluha-75x75-imadvpb8y9trxgfu.jpeg
+275x275:http://img5a.flixcart.com/image/book/7/4/2/the-immortals-of-meluha-275x275-imadvpb8y9trxgfu.jpeg
+unknown:http://img5a.flixcart.com/image/book/7/4/2/the-immortals-of-meluha-original-imadvpb8y9trxgfu.jpeg
+200x200:http://img6a.flixcart.com/image/book/7/4/2/the-immortals-of-meluha-200x200-imadvpb8y9trxgfu.jpeg
+100x100:http://img5a.flixcart.com/image/book/7/4/2/the-immortals-of-meluha-100x100-imadvpb8y9trxgfu.jpeg
+currency:INR
+maximumRetailPrice:[object Object]
+amount:147
+sellingPrice:[object Object]
+currency:INR
+productBrand:null
+productUrl:http://dl.flipkart.com/dl/immortals-meluha-english/p/itmdx93rf3nctndh?pid=9789380658742&affid=rakesha74
+codAvailable:true
+emiAvailable:null
+discountPercentage:50
+size:null
+amount:295
+inStock:true
+cashBack:null
+color:
+sizeUnit:
+sizeVariants:[9789383260126]
+productShippingBaseInfo:[object Object]
+styleCode:null
+shippingOptions:null
+1:[object Object]
+offset:null
+productId:9789381626344
+productBaseInfo:[object Object]
+productIdentifier:[object Object]
+categoryPaths:[object Object]
+0:[object Object]
+categoryPath:[object Object]
+0:[object Object]
+productAttributes:[object Object]
+title:[[{nodeId=1, nodeName=Books_Tree}, {nodeId=7839, nodeName=Dummy}], [{nodeId=1, nodeName=Books_Tree}, {nodeId=10513, nodeName=BBD}, {nodeId=10534, nodeName=BBD 21}], [{nodeId=1, nodeName=Books_Tree}, {nodeId=2291, nodeName=Reference}, {nodeId=9125, nodeName=Dummy}, {nodeId=9126, nodeName=Dummy}], [{nodeId=1, nodeName=Books_Tree}, {nodeId=1893, nodeName=Literature & Fiction}, {nodeId=1959, nodeName=Religious}], [{nodeId=1, nodeName=Books_Tree}, {nodeId=7267, nodeName=Dummy}], [{nodeId=1, nodeName=Books_Tree}, {nodeId=1893, nodeName=Literature & Fiction}, {nodeId=1925, nodeName=Fairy Tales, Folk Tales, Legends & Mythology}], [{nodeId=1, nodeName=Books_Tree}, {nodeId=7743, nodeName=Indian Writing}, {nodeId=7748, nodeName=Literature & Fiction}]]
+title:The Secret of the Nagas (English)
+imageUrls:[object Object]
+productDescription:The Secret of The Nagas is the second book in the Shiva trilogy and is a sequel to The Immortals of Meluha. Summary Of The Book The Secret of the Nagas begins with Shiva trying to save Sati from a Naga attack. His quest for the Naga warrior who killed Brahaspati and assaulted Sati leads Shiva and Sati to the land of the Brangas. In The Secret of Nagas, Shiva the prophesied savior of the Meluhan Empire finds himself in a turbulent situation trying to avenge the murder of his friend and saving his clan and the people of Meluha from the evil serpent people. His journey takes him across the lengths and breadths of the ancient India, searching for the truth and answers to all his intriguing questions. He travels to Kashi to find every bit of detail about the Nagas. He comes to learn about the reason behind the alliance between the Brangas and the Nagas. Both Shiva and Sati eventually discover startling secrets that have profound effects on both their lives and relationship. With a war brewing in the backdrop, will Shiva be able to accept the truth and live up to the expectations attached to him? About Amish Tripathi Amish Tripathi, is an Indian author who gave up a flourishing career to fulfill his dream of becoming a writer. He is an alumnus of IIM (Kolkata) and was working in the financial services industry for over 14 years. He has authored the famous Shiva Trilogy, which earned him both commercial and critical appreciation. His style of writing is a fresh blend of philosophy, mythology, karma and myth, which has given birth to a new era of literature in India. He is currently based out of Mumbai where he stays with his wife and son. Amish has sold the movie rights of The Immortals of Meluha to Dharma Productions.
+75x75:http://img5a.flixcart.com/image/book/3/4/4/the-secret-of-the-nagas-75x75-imadj3vhkvzdxjkn.jpeg
+700x700:http://img5a.flixcart.com/image/book/3/4/4/the-secret-of-the-nagas-700x700-imadj3vhkvzdxjkn.jpeg
+400x400:http://img6a.flixcart.com/image/book/3/4/4/the-secret-of-the-nagas-400x400-imadj3vhkvzdxjkn.jpeg
+125x125:http://img5a.flixcart.com/image/book/3/4/4/the-secret-of-the-nagas-125x125-imadj3vhkvzdxjkn.jpeg
+40x40:http://img6a.flixcart.com/image/book/3/4/4/the-secret-of-the-nagas-40x40-imadj3vhkvzdxjkn.jpeg
+275x275:http://img6a.flixcart.com/image/book/3/4/4/the-secret-of-the-nagas-275x275-imadj3vhkvzdxjkn.jpeg
+100x100:http://img5a.flixcart.com/image/book/3/4/4/the-secret-of-the-nagas-100x100-imadj3vhkvzdxjkn.jpeg
+200x200:http://img5a.flixcart.com/image/book/3/4/4/the-secret-of-the-nagas-200x200-imadj3vhkvzdxjkn.jpeg
+maximumRetailPrice:[object Object]
+unknown:http://img5a.flixcart.com/image/book/3/4/4/the-secret-of-the-nagas-original-imadj3vhkvzdxjkn.jpeg
+amount:295
+currency:INR
+1100x1100:http://img5a.flixcart.com/image/book/3/4/4/the-secret-of-the-nagas-1100x1100-imadj3vhkvzdxjkn.jpeg
+sellingPrice:[object Object]
+currency:INR
+colorVariants:null
+inStock:true
+codAvailable:true
+productUrl:http://dl.flipkart.com/dl/secret-nagas-english/p/itme2mypddk9fphk?pid=9789381626344&affid=rakesha74
+productBrand:null
+emiAvailable:null
+discountPercentage:11
+cashBack:null
+offers:
+size:null
+color:
+offers:
+colorVariants:null
+sizeVariants:[9789380658799, DGBDFFRFVGQVVBFW]
+amount:262
+styleCode:null
+productShippingBaseInfo:[object Object]
+offset:null
+2:[object Object]
+productIdentifier:[object Object]
+sizeUnit:
+productBaseInfo:[object Object]
+categoryPath:[object Object]
+categoryPaths:[object Object]
+shippingOptions:null
+title:[[{nodeId=1, nodeName=Books_Tree}, {nodeId=7839, nodeName=Dummy}], [{nodeId=1, nodeName=Books_Tree}, {nodeId=10513, nodeName=BBD}, {nodeId=10534, nodeName=BBD 21}], [{nodeId=1, nodeName=Books_Tree}, {nodeId=1893, nodeName=Literature & Fiction}, {nodeId=1927, nodeName=Fantasy}, {nodeId=9660, nodeName=Mythology}], [{nodeId=1, nodeName=Books_Tree}, {nodeId=2291, nodeName=Reference}, {nodeId=9125, nodeName=Dummy}, {nodeId=9126, nodeName=Dummy}], [{nodeId=1, nodeName=Books_Tree}, {nodeId=7267, nodeName=Dummy}], [{nodeId=1, nodeName=Books_Tree}, {nodeId=1893, nodeName=Literature & Fiction}, {nodeId=1925, nodeName=Fairy Tales, Folk Tales, Legends & Mythology}], [{nodeId=1, nodeName=Books_Tree}, {nodeId=7743, nodeName=Indian Writing}, {nodeId=7748, nodeName=Literature & Fiction}]]
+productAttributes:[object Object]
+title:The Oath of the Vayuputras: Shiva Trilogy 3 (English)
+productDescription:India’s own super hero is finally here. Shiva has risen yet again to destroy the evildoers. The last of the Shiva Trilogy, this book promises to keep the readers gripped while the great warrior discovers who his true enemies are and gives it his all to destroy them. Summary of the Book The Oath of the Vayuputras is the final book of the Shiva Trilogy. In the earlier books of the trilogy, Shiva finds out that the Nagas are not his enemies and joins hands with them to reach the root of all evil. This book will have answers to ‘the Neelkanth’s’ questions about his fate, the choices he made previously and karma. Further, in the concluding book of the trilogy, Shiva reaches Panchavati, the capital of Naga where he will come face to face with his greatest enemy. Will he win the battle over his wicked enemies, who are out to destroy him and his legacy? The Oath of the Vayuputras will also reveal the reason of Shiva’s close friend Brahaspati’s disappearance and reappearance at the end of the second book, The Secret of the Nagas. Further the relationship between Daksha, the king of Meluha and the mysterious temple priests will also be exposed in this last part of the trilogy. Shiva seeks helps from the Vayuputras in the quest to conquer all evil. The great warrior will encounter the real intentions of some characters he deemed to be close to him. Some new characters will add that extra vitality to the entire plot, especially Shiva’s greatest enemy whose name sends shivers down the spines of many great warriors. An interesting journey of a warrior who is turned into a God by his followers because of his deeds and war against the evil, this book is sure to have its readers’ full attention. A good read which will make one reflect on their actions, this book like the two earlier books of the trilogy focuses on philosophy, religion and the never ending battle between the good and the evil. About Amish Tripathi Amish Tripathi, is an author who gave up his banking job to live his dream of becoming a writer. He is an IIM (Kolkata) graduate and worked for 14 years in the financial services industry. He has penned down three books as part of the Shiva Trilogy 3, which have received raving reviews and critical appreciation. His style of writing is fresh and has given birth to a new era of literature in India. With philosophy, religion, karma and myth as his main areas of focus, Amish has weaved his plots around them and conquered the hearts of many readers with his riveting ideas. Amish lives with his wife Preethi and son Neel in Mumbai. As is evident from his books, Amish has a passion for religion, philosophy, mythology and history.
+0:[object Object]
+productId:9789382618348
+400x400:http://img6a.flixcart.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-400x400-imadgmydkbypuwwn.jpeg
+700x700:http://img6a.flixcart.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-700x700-imadgmydkbypuwwn.jpeg
+275x275:http://img5a.flixcart.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-275x275-imadgmydkbypuwwn.jpeg
+40x40:http://img5a.flixcart.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-40x40-imadgmydkbypuwwn.jpeg
+125x125:http://img5a.flixcart.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-125x125-imadgmydkbypuwwn.jpeg
+0:[object Object]
+imageUrls:[object Object]
+unknown:http://img6a.flixcart.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-original-imadgmydkbypuwwn.jpeg
+maximumRetailPrice:[object Object]
+amount:395
+75x75:http://img5a.flixcart.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-75x75-imadgmydkbypuwwn.jpeg
+currency:INR
+200x200:http://img6a.flixcart.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-200x200-imadgmydkbypuwwn.jpeg
+sellingPrice:[object Object]
+amount:276
+currency:INR
+productUrl:http://dl.flipkart.com/dl/oath-vayuputras-shiva-trilogy-3-english/p/itme9r8f4emmwzcz?pid=9789382618348&affid=rakesha74
+productBrand:null
+inStock:true
+codAvailable:true
+emiAvailable:null
+discountPercentage:30
+cashBack:null
+offers:
+size:null
+color:
+sizeUnit:
+sizeVariants:[9789383134007]
+colorVariants:null
+styleCode:null
+productShippingBaseInfo:[object Object]
+shippingOptions:null
+offset:null
+3:[object Object]
+productBaseInfo:[object Object]
+productId:9789383260157
+productIdentifier:[object Object]
+categoryPaths:[object Object]
+categoryPath:[object Object]
+0:[object Object]
+0:[object Object]
+productAttributes:[object Object]
+title:Books_Tree>BBD>BBD 13
+title:The Immortals of Meluha
+imageUrls:[object Object]
+productDescription:The Immortals of Meluha, by Amish Tripathi, is a captivating story of a great empire called Meluha and its saviour, Shiva, a tribal leader pictured as an avatar of Lord Shiva by the people of Meluha. Here, it is translated into Tamil with the title Meluvavin Amarargal. Summary of the Book Meluha, a land ruled by Suryavanshis, is a strong empire founded by Lord Rama. A flourishing empire blessed with unlimited natural resources and devoted citizens has everything going right until the attacks from Chandravanshis catches them off guard. In a very brave attempt at delivering mythological stories as vibrant fantasies, Amish has added an element of thrill to those legends. Here, in The Immortals of Meluha, Shiva, a fierce soldier from the foothills of the Himalayas in Tibet, gets invited by Daksha, the king of Suryavanshis, to lead their warriors in order to defend their holy land from the enemies. In one of the most scintillating mythological fantasies written in the history of Indian literature, Amish paints an unforgettable picture of Shiva, as a tribal leader who goes on to decimate the opposition. Series Reading Order: The Immortals of Meluha, The Secret of the Nagas, and The Oath of the Vayuputra. Apart from the Indian movie rights sold to Dharma Productions, the international movie rights to The Immortals of Meluha are under discussion. About Amish Amish Tripathi has a degree from the Indian Institute of Management, Calcutta. But after becoming a full-time writer, Amish has made history in Indian literature through his mythological fantasies that are amazingly blended with constant exposure on philosophical attributes of our mythological characters. His books have sold more than a staggering 1.7 million copies, making him a living legend in the world of Indian literature.
+400x400:http://img6a.flixcart.com/image/book/1/5/7/the-immortals-of-meluha-400x400-imads3473fdnakfh.jpeg
+100x100:http://img6a.flixcart.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-100x100-imadgmydkbypuwwn.jpeg
+125x125:http://img6a.flixcart.com/image/book/1/5/7/the-immortals-of-meluha-125x125-imads3473fdnakfh.jpeg
+40x40:http://img5a.flixcart.com/image/book/1/5/7/the-immortals-of-meluha-40x40-imads3473fdnakfh.jpeg
+700x700:http://img6a.flixcart.com/image/book/1/5/7/the-immortals-of-meluha-700x700-imads3473fdnakfh.jpeg
+1100x1100:http://img6a.flixcart.com/image/book/1/5/7/the-immortals-of-meluha-1100x1100-imads3473fdnakfh.jpeg
+100x100:http://img6a.flixcart.com/image/book/1/5/7/the-immortals-of-meluha-100x100-imads3473fdnakfh.jpeg
+unknown:http://img5a.flixcart.com/image/book/1/5/7/the-immortals-of-meluha-original-imads3473fdnakfh.jpeg
+maximumRetailPrice:[object Object]
+200x200:http://img5a.flixcart.com/image/book/1/5/7/the-immortals-of-meluha-200x200-imads3473fdnakfh.jpeg
+currency:INR
+75x75:http://img5a.flixcart.com/image/book/1/5/7/the-immortals-of-meluha-75x75-imads3473fdnakfh.jpeg
+275x275:http://img5a.flixcart.com/image/book/1/5/7/the-immortals-of-meluha-275x275-imads3473fdnakfh.jpeg
+amount:250
+currency:INR
+sellingPrice:[object Object]
+productUrl:http://dl.flipkart.com/dl/the-immortals-of-meluha/p/itmds2f5pcxmtv6y?pid=9789383260157&affid=rakesha74
+productBrand:null
+codAvailable:true
+emiAvailable:null
+discountPercentage:30
+cashBack:null
+size:null
+inStock:true
+sizeUnit:
+amount:175
+sizeVariants:[]
+colorVariants:null
+offers:
+productShippingBaseInfo:[object Object]
+offset:null
+styleCode:null
+4:[object Object]
+shippingOptions:null
+productIdentifier:[object Object]
+productId:9789381626603
+categoryPaths:[object Object]
+productBaseInfo:[object Object]
+0:[object Object]
+categoryPath:[object Object]
+0:[object Object]
+productAttributes:[object Object]
+color:
+title:The secret of the nagas
+400x400:http://img6a.flixcart.com/image/book/6/0/3/the-secret-of-the-nagas-400x400-imadypy6skxurzfz.jpeg
+imageUrls:[object Object]
+275x275:http://img5a.flixcart.com/image/book/6/0/3/the-secret-of-the-nagas-275x275-imadypy6skxurzfz.jpeg
+700x700:http://img5a.flixcart.com/image/book/6/0/3/the-secret-of-the-nagas-700x700-imadypy6skxurzfz.jpeg
+75x75:http://img6a.flixcart.com/image/book/6/0/3/the-secret-of-the-nagas-75x75-imadypy6skxurzfz.jpeg
+125x125:http://img5a.flixcart.com/image/book/6/0/3/the-secret-of-the-nagas-125x125-imadypy6skxurzfz.jpeg
+40x40:http://img5a.flixcart.com/image/book/6/0/3/the-secret-of-the-nagas-40x40-imadypy6skxurzfz.jpeg
+100x100:http://img6a.flixcart.com/image/book/6/0/3/the-secret-of-the-nagas-100x100-imadypy6skxurzfz.jpeg
+200x200:http://img6a.flixcart.com/image/book/6/0/3/the-secret-of-the-nagas-200x200-imadypy6skxurzfz.jpeg
+unknown:http://img5a.flixcart.com/image/book/6/0/3/the-secret-of-the-nagas-original-imadypy6skxurzfz.jpeg
+maximumRetailPrice:[object Object]
+amount:225
+currency:INR
+sellingPrice:[object Object]
+amount:187
+currency:INR
+productBrand:null
+productUrl:http://dl.flipkart.com/dl/the-secret-of-the-nagas/p/itmdbt2g6f2z3z2e?pid=9789381626603&affid=rakesha74
+inStock:true
+codAvailable:true
+emiAvailable:null
+discountPercentage:16
+cashBack:null
+offers:
+size:null
+color:
+sizeUnit:
+sizeVariants:[DGBDN37NMGZRGZTS, DGBDXHKB2NWY5KKA]
+styleCode:null
+colorVariants:null
+productShippingBaseInfo:[object Object]
+productDescription:Today, He is a God. 4000 years ago, He was just a man. The hunt is on. The sinister Naga warrior has killed his friend Brahaspati and now stalks his wife Sati. Shiva, the Tibetan immigrant who is the prophesied destroyer of evil, will not rest till he finds his demonic adversary. His vengeance and the path to evil will lead him to the door of the Nagas, the serpent people. Of that he is certain. The evidence of the malevolent rise of evil is everywhere. A kingdom is dying as it is held to ransom for a miracle drug. A crown prince is murdered. The Vasudevs – Shiva’s philosopher guides – betray his unquestioning faith as they take the aid of the dark side. Even the perfect empire, Meluha is riddled with a terrible secret in Maika, the city of births. Unknown to Shiva, a master puppeteer is playing a grand game. In a journey that will take him across the length and breadth of ancient India, Shiva searches for the truth in a land of deadly mysteries – only to find that nothing is what it seems. Fierce battles will be fought. Surprising alliances will be forged. Unbelievable secrets will be revealed in this second book of the Shiva Trilogy, the sequel to the #1 national bestseller, The Immortals of Meluha. About The Author Amish Tripathi is a 36-year-old, IIM (Kolkata) educated boring banker turned happy author. The success of his debut book, The Immortals of Meluha (Book 1 of the Shiva Trilogy), encouraged him to give up a fourteen year old career in financial services to focus on writing. He is passionate about history, mythology and philosophy. He believes there is beauty and meaning in all world cultures and religions. The Secret of the Nagas is the second book of the Shiva Trilogy. Amish lives in Mumbai with his wife Preeti and son Neel. He is presently working on the third book of the Shiva Trilogy, The Oath of the Vayuputras.
+title:Books_Tree>BBD>BBD 13
+offset:null
+shippingOptions:null
+productInfoList:[object Object],[object Object],[object Object],[object Object],[object Object]
+0:[object Object]
+productBaseInfo:[object Object]
+productIdentifier:[object Object]
+0:[object Object]
+productId:9789381626603
+0:[object Object]
+categoryPath:[object Object]
+title:The secret of the nagas
+productAttributes:[object Object]
+productDescription:Today, He is a God. 4000 years ago, He was just a man. The hunt is on. The sinister Naga warrior has killed his friend Brahaspati and now stalks his wife Sati. Shiva, the Tibetan immigrant who is the prophesied destroyer of evil, will not rest till he finds his demonic adversary. His vengeance and the path to evil will lead him to the door of the Nagas, the serpent people. Of that he is certain. The evidence of the malevolent rise of evil is everywhere. A kingdom is dying as it is held to ransom for a miracle drug. A crown prince is murdered. The Vasudevs – Shiva’s philosopher guides – betray his unquestioning faith as they take the aid of the dark side. Even the perfect empire, Meluha is riddled with a terrible secret in Maika, the city of births. Unknown to Shiva, a master puppeteer is playing a grand game. In a journey that will take him across the length and breadth of ancient India, Shiva searches for the truth in a land of deadly mysteries – only to find that nothing is what it seems. Fierce battles will be fought. Surprising alliances will be forged. Unbelievable secrets will be revealed in this second book of the Shiva Trilogy, the sequel to the #1 national bestseller, The Immortals of Meluha. About The Author Amish Tripathi is a 36-year-old, IIM (Kolkata) educated boring banker turned happy author. The success of his debut book, The Immortals of Meluha (Book 1 of the Shiva Trilogy), encouraged him to give up a fourteen year old career in financial services to focus on writing. He is passionate about history, mythology and philosophy. He believes there is beauty and meaning in all world cultures and religions. The Secret of the Nagas is the second book of the Shiva Trilogy. Amish lives in Mumbai with his wife Preeti and son Neel. He is presently working on the third book of the Shiva Trilogy, The Oath of the Vayuputras.
+imageUrls:[object Object]
+400x400:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-400x400-imadypy6skxurzfz.jpeg
+800x800:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-800x800-imadypy6skxurzfz.jpeg
+unknown:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-original-imadypy6skxurzfz.jpeg
+200x200:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-200x200-imadypy6skxurzfz.jpeg
+categoryPaths:[object Object]
+maximumRetailPrice:[object Object]
+amount:225
+currency:INR
+currency:INR
+sellingPrice:[object Object]
+productUrl:http://dl.flipkart.com/dl/the-secret-of-the-nagas/p/itmdbt2g6f2z3z2e?pid=9789381626603&affid=rakesha74
+inStock:true
+productBrand:null
+isAvailable:true
+codAvailable:true
+emiAvailable:null
+discountPercentage:4
+offers:
+amount:214
+sizeUnit:
+cashBack:null
+size:null
+sizeVariants:[DGBDN37NMGZRGZTS, 9789381626603]
+color:
+colorVariants:[]
+shippingOptions:null
+title:
+styleCode:null
+productShippingBaseInfo:[object Object]
+productBaseInfo:[object Object]
+productIdentifier:[object Object]
+1:[object Object]
+productId:9789383260126
+categoryPaths:[object Object]
+categoryPath:[object Object]
+0:[object Object]
+0:[object Object]
+productAttributes:[object Object]
+offset:null
+title:The Immortals of Meluha (English)
+imageUrls:[object Object]
+productDescription:The story of a man whose fate led him to be considered a God. The mythical story of Shiva is brought into a new perspective in The Immortals of Meluha, the first in a fantasy trilogy. Summary of the Book When Meluha, an empire created centuries earlier by Lord Ram, is under threat from the Chandravanshis and the Nagas, her king, Daksha, sends emissaries to Tibet and asks the tribe there to help him. Among these tribes are the Gunas, and their chief Shiva is a mighty warrior. He moves to Srinagar and in a curious coincidence that sees him alone of all his tribe unaffected by a high fever, Shiva’s throat turns blue and the Meluhans announce him as Neelakanth, their fabled mythic savior. The book begins the story of his life, and how he comes to accept the title given to him, that of the God of Gods. About Amish Tripathi Amish Tripathi is a former Indian banker turned writer. The Secret of the Nagas and The Oath of the Vayuputras complete his Shiva Trilogy, which has since become a bestselling collection. An alumnus of St. Xavier’s College, Mumbai and the Indian Institute of Management Calcutta, he currently lives in Mumbai with his wife and son.
+title:
+200x200:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-200x200-imadmt3hypzqmufa.jpeg
+unknown:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-original-imadmt3hypzqmufa.jpeg
+800x800:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-800x800-imadmt3hypzqmufa.jpeg
+maximumRetailPrice:[object Object]
+400x400:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-400x400-imadmt3hypzqmufa.jpeg
+currency:INR
+sellingPrice:[object Object]
+currency:INR
+productBrand:null
+amount:495
+productUrl:http://dl.flipkart.com/dl/immortals-meluha-english/p/itmdx93rf3nctndh?pid=9789383260126&affid=rakesha74
+inStock:true
+emiAvailable:null
+codAvailable:true
+cashBack:null
+isAvailable:true
+discountPercentage:50
+offers:
+amount:245
+size:null
+sizeVariants:[9789380658742, 9789383260126]
+color:
+sizeUnit:
+styleCode:null
+colorVariants:[]
+productShippingBaseInfo:[object Object]
+2:[object Object]
+shippingOptions:null
+productBaseInfo:[object Object]
+productIdentifier:[object Object]
+productId:9789381626344
+categoryPaths:[object Object]
+categoryPath:[object Object]
+title:
+offset:null
+productAttributes:[object Object]
+productDescription:The Secret of The Nagas is the second book in the Shiva trilogy and is a sequel to The Immortals of Meluha. Summary Of The Book The Secret of the Nagas begins with Shiva trying to save Sati from a Naga attack. His quest for the Naga warrior who killed Brahaspati and assaulted Sati leads Shiva and Sati to the land of the Brangas. In The Secret of Nagas, Shiva the prophesied savior of the Meluhan Empire finds himself in a turbulent situation trying to avenge the murder of his friend and saving his clan and the people of Meluha from the evil serpent people. His journey takes him across the lengths and breadths of the ancient India, searching for the truth and answers to all his intriguing questions. He travels to Kashi to find every bit of detail about the Nagas. He comes to learn about the reason behind the alliance between the Brangas and the Nagas. Both Shiva and Sati eventually discover startling secrets that have profound effects on both their lives and relationship. With a war brewing in the backdrop, will Shiva be able to accept the truth and live up to the expectations attached to him? About Amish Tripathi Amish Tripathi, is an Indian author who gave up a flourishing career to fulfill his dream of becoming a writer. He is an alumnus of IIM (Kolkata) and was working in the financial services industry for over 14 years. He has authored the famous Shiva Trilogy, which earned him both commercial and critical appreciation. His style of writing is a fresh blend of philosophy, mythology, karma and myth, which has given birth to a new era of literature in India. He is currently based out of Mumbai where he stays with his wife and son. Amish has sold the movie rights of The Immortals of Meluha to Dharma Productions.
+unknown:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-original-imadj3vhkvzdxjkn.jpeg
+0:[object Object]
+title:The Secret of the Nagas (English)
+imageUrls:[object Object]
+0:[object Object]
+800x800:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-800x800-imadj3vhkvzdxjkn.jpeg
+200x200:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-200x200-imadj3vhkvzdxjkn.jpeg
+maximumRetailPrice:[object Object]
+amount:295
+currency:INR
+400x400:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-400x400-imadj3vhkvzdxjkn.jpeg
+amount:280
+sellingPrice:[object Object]
+productUrl:http://dl.flipkart.com/dl/secret-nagas-english/p/itme2mypddk9fphk?pid=9789381626344&affid=rakesha74
+codAvailable:true
+currency:INR
+productBrand:null
+isAvailable:true
+emiAvailable:null
+discountPercentage:5
+size:null
+cashBack:null
+inStock:true
+sizeVariants:[9789380658799, DGBDFFRFVGQVVBFW, 9789381626344]
+offers:
+sizeUnit:
+colorVariants:[]
+productShippingBaseInfo:[object Object]
+shippingOptions:null
+3:[object Object]
+productIdentifier:[object Object]
+productBaseInfo:[object Object]
+productId:9789384030087
+categoryPaths:[object Object]
+styleCode:null
+categoryPath:[object Object]
+0:[object Object]
+color:
+title:
+title:The Secret of the Nagas
+0:[object Object]
+productDescription:The Shiva Trilogy continues with The Secret of the Nagas. This edition presents the Bengali translation of the English version. Summary of the Book There was a time when even the mighty Shiva, Destroyer of Worlds, was just a man. 4000 years ago, he was a Tibetan immigrant, long prophesied to become a god. He reels from the anger at the death of his friend Brihaspati. Now that very Naga assassin stalks his beloved wife, Sati. However, Shiva does not have time to rest. A kingdom is held to ransom even as it is dying. It needs a miracle drug, and only Shiva can find the answers. The seemingly ideal kingdom of Meluha seems to About Amish Tripathi Amish Tripathi is a former Indian banker turned writer. The Shiva Trilogy began with The Immortals of Meluha and ends with The Oath of the Vayuputras. An alumnus of St. Xavier’s College, Mumbai and the Indian Institute of Management Calcutta, he currently lives in Mumbai with his wife and son.
+productAttributes:[object Object]
+400x400:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-400x400-imadzyfxzhfdhhzv.jpeg
+200x200:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-200x200-imadzyfxzhfdhhzv.jpeg
+amount:250
+unknown:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-original-imadzyfxzhfdhhzv.jpeg
+maximumRetailPrice:[object Object]
+amount:250
+currency:INR
+imageUrls:[object Object]
+sellingPrice:[object Object]
+productUrl:http://dl.flipkart.com/dl/the-secret-of-the-nagas/p/itmdzvmxkvr6pt2p?pid=9789384030087&affid=rakesha74
+offset:null
+currency:INR
+emiAvailable:null
+inStock:true
+productBrand:null
+discountPercentage:0
+isAvailable:true
+codAvailable:true
+size:null
+800x800:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-800x800-imadzyfxzhfdhhzv.jpeg
+color:
+styleCode:null
+sizeVariants:[9789384030087]
+colorVariants:[]
+shippingOptions:null
+cashBack:null
+productShippingBaseInfo:[object Object]
+sizeUnit:
+offset:null
+productBaseInfo:[object Object]
+offers:
+4:[object Object]
+productIdentifier:[object Object]
+categoryPaths:[object Object]
+productId:9789382618348
+categoryPath:[object Object]
+0:[object Object]
+title:The Oath of the Vayuputras: Shiva Trilogy 3 (English)
+productDescription:India’s own super hero is finally here. Shiva has risen yet again to destroy the evildoers. The last of the Shiva Trilogy, this book promises to keep the readers gripped while the great warrior discovers who his true enemies are and gives it his all to destroy them. Summary of the Book The Oath of the Vayuputras is the final book of the Shiva Trilogy. In the earlier books of the trilogy, Shiva finds out that the Nagas are not his enemies and joins hands with them to reach the root of all evil. This book will have answers to ‘the Neelkanth’s’ questions about his fate, the choices he made previously and karma. Further, in the concluding book of the trilogy, Shiva reaches Panchavati, the capital of Naga where he will come face to face with his greatest enemy. Will he win the battle over his wicked enemies, who are out to destroy him and his legacy? The Oath of the Vayuputras will also reveal the reason of Shiva’s close friend Brahaspati’s disappearance and reappearance at the end of the second book, The Secret of the Nagas. Further the relationship between Daksha, the king of Meluha and the mysterious temple priests will also be exposed in this last part of the trilogy. Shiva seeks helps from the Vayuputras in the quest to conquer all evil. The great warrior will encounter the real intentions of some characters he deemed to be close to him. Some new characters will add that extra vitality to the entire plot, especially Shiva’s greatest enemy whose name sends shivers down the spines of many great warriors. An interesting journey of a warrior who is turned into a God by his followers because of his deeds and war against the evil, this book is sure to have its readers’ full attention. A good read which will make one reflect on their actions, this book like the two earlier books of the trilogy focuses on philosophy, religion and the never ending battle between the good and the evil. About Amish Tripathi Amish Tripathi, is an author who gave up his banking job to live his dream of becoming a writer. He is an IIM (Kolkata) graduate and worked for 14 years in the financial services industry. He has penned down three books as part of the Shiva Trilogy 3, which have received raving reviews and critical appreciation. His style of writing is fresh and has given birth to a new era of literature in India. With philosophy, religion, karma and myth as his main areas of focus, Amish has weaved his plots around them and conquered the hearts of many readers with his riveting ideas. Amish lives with his wife Preethi and son Neel in Mumbai. As is evident from his books, Amish has a passion for religion, philosophy, mythology and history.
+400x400:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-400x400-imadgmydkbypuwwn.jpeg
+productAttributes:[object Object]
+200x200:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-200x200-imadgmydkbypuwwn.jpeg
+unknown:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-original-imadgmydkbypuwwn.jpeg
+imageUrls:[object Object]
+800x800:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-800x800-imadgmydkbypuwwn.jpeg
+title:
+maximumRetailPrice:[object Object]
+0:[object Object]
+sellingPrice:[object Object]
+currency:INR
+productUrl:http://dl.flipkart.com/dl/oath-vayuputras-shiva-trilogy-3-english/p/itmedwknqyp4ezaz?pid=9789382618348&affid=rakesha74
+amount:395
+currency:INR
+productBrand:null
+isAvailable:true
+codAvailable:true
+emiAvailable:null
+offers:
+amount:336
+cashBack:null
+discountPercentage:14
+sizeUnit:
+inStock:true
+colorVariants:[]
+sizeVariants:[9789383134007, DGBDGHYAQM3XRRV6, DGBDYCPRKHGXZ3Y8, 9789382618348]
+color:
+size:null
+productShippingBaseInfo:[object Object]
+styleCode:null
+shippingOptions:null
+offset:null
+productInfoList:[object Object],[object Object],[object Object],[object Object],[object Object]
+0:[object Object]
+productBaseInfo:[object Object]
+productIdentifier:[object Object]
+productId:9789381626603
+categoryPaths:[object Object]
+categoryPath:[object Object]
+0:[object Object]
+0:[object Object]
+title:
+productAttributes:[object Object]
+imageUrls:[object Object]
+productDescription:Today, He is a God. 4000 years ago, He was just a man. The hunt is on. The sinister Naga warrior has killed his friend Brahaspati and now stalks his wife Sati. Shiva, the Tibetan immigrant who is the prophesied destroyer of evil, will not rest till he finds his demonic adversary. His vengeance and the path to evil will lead him to the door of the Nagas, the serpent people. Of that he is certain. The evidence of the malevolent rise of evil is everywhere. A kingdom is dying as it is held to ransom for a miracle drug. A crown prince is murdered. The Vasudevs – Shiva’s philosopher guides – betray his unquestioning faith as they take the aid of the dark side. Even the perfect empire, Meluha is riddled with a terrible secret in Maika, the city of births. Unknown to Shiva, a master puppeteer is playing a grand game. In a journey that will take him across the length and breadth of ancient India, Shiva searches for the truth in a land of deadly mysteries – only to find that nothing is what it seems. Fierce battles will be fought. Surprising alliances will be forged. Unbelievable secrets will be revealed in this second book of the Shiva Trilogy, the sequel to the #1 national bestseller, The Immortals of Meluha. About The Author Amish Tripathi is a 36-year-old, IIM (Kolkata) educated boring banker turned happy author. The success of his debut book, The Immortals of Meluha (Book 1 of the Shiva Trilogy), encouraged him to give up a fourteen year old career in financial services to focus on writing. He is passionate about history, mythology and philosophy. He believes there is beauty and meaning in all world cultures and religions. The Secret of the Nagas is the second book of the Shiva Trilogy. Amish lives in Mumbai with his wife Preeti and son Neel. He is presently working on the third book of the Shiva Trilogy, The Oath of the Vayuputras.
+400x400:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-400x400-imadypy6skxurzfz.jpeg
+title:The secret of the nagas
+unknown:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-original-imadypy6skxurzfz.jpeg
+200x200:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-200x200-imadypy6skxurzfz.jpeg
+maximumRetailPrice:[object Object]
+800x800:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-800x800-imadypy6skxurzfz.jpeg
+amount:225
+sellingPrice:[object Object]
+currency:INR
+currency:INR
+productUrl:http://dl.flipkart.com/dl/the-secret-of-the-nagas/p/itmdbt2g6f2z3z2e?pid=9789381626603&affid=rakesha74
+isAvailable:true
+productBrand:null
+codAvailable:true
+emiAvailable:null
+discountPercentage:4
+cashBack:null
+offers:
+size:null
+color:
+sizeUnit:
+sizeVariants:[DGBDN37NMGZRGZTS, 9789381626603]
+colorVariants:[]
+styleCode:null
+productShippingBaseInfo:[object Object]
+shippingOptions:null
+1:[object Object]
+productBaseInfo:[object Object]
+amount:214
+productIdentifier:[object Object]
+productId:9789383260126
+categoryPath:[object Object]
+categoryPaths:[object Object]
+offset:null
+0:[object Object]
+0:[object Object]
+productAttributes:[object Object]
+title:The Immortals of Meluha (English)
+imageUrls:[object Object]
+productDescription:The story of a man whose fate led him to be considered a God. The mythical story of Shiva is brought into a new perspective in The Immortals of Meluha, the first in a fantasy trilogy. Summary of the Book When Meluha, an empire created centuries earlier by Lord Ram, is under threat from the Chandravanshis and the Nagas, her king, Daksha, sends emissaries to Tibet and asks the tribe there to help him. Among these tribes are the Gunas, and their chief Shiva is a mighty warrior. He moves to Srinagar and in a curious coincidence that sees him alone of all his tribe unaffected by a high fever, Shiva’s throat turns blue and the Meluhans announce him as Neelakanth, their fabled mythic savior. The book begins the story of his life, and how he comes to accept the title given to him, that of the God of Gods. About Amish Tripathi Amish Tripathi is a former Indian banker turned writer. The Secret of the Nagas and The Oath of the Vayuputras complete his Shiva Trilogy, which has since become a bestselling collection. An alumnus of St. Xavier’s College, Mumbai and the Indian Institute of Management Calcutta, he currently lives in Mumbai with his wife and son.
+inStock:true
+400x400:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-400x400-imadmt3hypzqmufa.jpeg
+800x800:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-800x800-imadmt3hypzqmufa.jpeg
+unknown:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-original-imadmt3hypzqmufa.jpeg
+200x200:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-200x200-imadmt3hypzqmufa.jpeg
+amount:495
+maximumRetailPrice:[object Object]
+amount:245
+currency:INR
+sellingPrice:[object Object]
+productBrand:null
+productUrl:http://dl.flipkart.com/dl/immortals-meluha-english/p/itmdx93rf3nctndh?pid=9789383260126&affid=rakesha74
+currency:INR
+isAvailable:true
+codAvailable:true
+discountPercentage:50
+offers:
+emiAvailable:null
+title:
+inStock:true
+color:
+cashBack:null
+sizeVariants:[9789380658742, 9789383260126]
+sizeUnit:
+colorVariants:[]
+styleCode:null
+productShippingBaseInfo:[object Object]
+2:[object Object]
+shippingOptions:null
+productBaseInfo:[object Object]
+productId:9789381626344
+categoryPaths:[object Object]
+size:null
+offset:null
+productIdentifier:[object Object]
+0:[object Object]
+title:
+0:[object Object]
+productAttributes:[object Object]
+title:The Secret of the Nagas (English)
+imageUrls:[object Object]
+productDescription:The Secret of The Nagas is the second book in the Shiva trilogy and is a sequel to The Immortals of Meluha. Summary Of The Book The Secret of the Nagas begins with Shiva trying to save Sati from a Naga attack. His quest for the Naga warrior who killed Brahaspati and assaulted Sati leads Shiva and Sati to the land of the Brangas. In The Secret of Nagas, Shiva the prophesied savior of the Meluhan Empire finds himself in a turbulent situation trying to avenge the murder of his friend and saving his clan and the people of Meluha from the evil serpent people. His journey takes him across the lengths and breadths of the ancient India, searching for the truth and answers to all his intriguing questions. He travels to Kashi to find every bit of detail about the Nagas. He comes to learn about the reason behind the alliance between the Brangas and the Nagas. Both Shiva and Sati eventually discover startling secrets that have profound effects on both their lives and relationship. With a war brewing in the backdrop, will Shiva be able to accept the truth and live up to the expectations attached to him? About Amish Tripathi Amish Tripathi, is an Indian author who gave up a flourishing career to fulfill his dream of becoming a writer. He is an alumnus of IIM (Kolkata) and was working in the financial services industry for over 14 years. He has authored the famous Shiva Trilogy, which earned him both commercial and critical appreciation. His style of writing is a fresh blend of philosophy, mythology, karma and myth, which has given birth to a new era of literature in India. He is currently based out of Mumbai where he stays with his wife and son. Amish has sold the movie rights of The Immortals of Meluha to Dharma Productions.
+400x400:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-400x400-imadj3vhkvzdxjkn.jpeg
+unknown:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-original-imadj3vhkvzdxjkn.jpeg
+categoryPath:[object Object]
+maximumRetailPrice:[object Object]
+amount:295
+800x800:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-800x800-imadj3vhkvzdxjkn.jpeg
+currency:INR
+sellingPrice:[object Object]
+currency:INR
+productUrl:http://dl.flipkart.com/dl/secret-nagas-english/p/itme2mypddk9fphk?pid=9789381626344&affid=rakesha74
+productBrand:null
+200x200:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-200x200-imadj3vhkvzdxjkn.jpeg
+inStock:true
+codAvailable:true
+emiAvailable:null
+cashBack:null
+isAvailable:true
+amount:280
+offers:
+sizeUnit:
+sizeVariants:[9789380658799, DGBDFFRFVGQVVBFW, 9789381626344]
+color:
+styleCode:null
+colorVariants:[]
+productShippingBaseInfo:[object Object]
+size:null
+shippingOptions:null
+productBaseInfo:[object Object]
+offset:null
+productId:9789384030087
+3:[object Object]
+categoryPath:[object Object]
+0:[object Object]
+discountPercentage:5
+0:[object Object]
+productAttributes:[object Object]
+title:The Secret of the Nagas
+imageUrls:[object Object]
+productDescription:The Shiva Trilogy continues with The Secret of the Nagas. This edition presents the Bengali translation of the English version. Summary of the Book There was a time when even the mighty Shiva, Destroyer of Worlds, was just a man. 4000 years ago, he was a Tibetan immigrant, long prophesied to become a god. He reels from the anger at the death of his friend Brihaspati. Now that very Naga assassin stalks his beloved wife, Sati. However, Shiva does not have time to rest. A kingdom is held to ransom even as it is dying. It needs a miracle drug, and only Shiva can find the answers. The seemingly ideal kingdom of Meluha seems to About Amish Tripathi Amish Tripathi is a former Indian banker turned writer. The Shiva Trilogy began with The Immortals of Meluha and ends with The Oath of the Vayuputras. An alumnus of St. Xavier’s College, Mumbai and the Indian Institute of Management Calcutta, he currently lives in Mumbai with his wife and son.
+productIdentifier:[object Object]
+unknown:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-original-imadzyfxzhfdhhzv.jpeg
+400x400:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-400x400-imadzyfxzhfdhhzv.jpeg
+800x800:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-800x800-imadzyfxzhfdhhzv.jpeg
+200x200:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-200x200-imadzyfxzhfdhhzv.jpeg
+currency:INR
+amount:250
+sellingPrice:[object Object]
+maximumRetailPrice:[object Object]
+title:
+categoryPaths:[object Object]
+amount:250
+productBrand:null
+productUrl:http://dl.flipkart.com/dl/the-secret-of-the-nagas/p/itmdzvmxkvr6pt2p?pid=9789384030087&affid=rakesha74
+currency:INR
+emiAvailable:null
+discountPercentage:0
+offers:
+isAvailable:true
+color:
+size:null
+codAvailable:true
+inStock:true
+sizeUnit:
+sizeVariants:[9789384030087]
+colorVariants:[]
+cashBack:null
+styleCode:null
+shippingOptions:null
+productShippingBaseInfo:[object Object]
+productBaseInfo:[object Object]
+offset:null
+productIdentifier:[object Object]
+categoryPath:[object Object]
+0:[object Object]
+productId:9789382618348
+title:
+productAttributes:[object Object]
+0:[object Object]
+categoryPaths:[object Object]
+title:The Oath of the Vayuputras: Shiva Trilogy 3 (English)
+4:[object Object]
+400x400:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-400x400-imadgmydkbypuwwn.jpeg
+amount:395
+imageUrls:[object Object]
+currency:INR
+sellingPrice:[object Object]
+amount:336
+productUrl:http://dl.flipkart.com/dl/oath-vayuputras-shiva-trilogy-3-english/p/itmedwknqyp4ezaz?pid=9789382618348&affid=rakesha74
+currency:INR
+productBrand:null
+inStock:true
+isAvailable:true
+emiAvailable:null
+codAvailable:true
+discountPercentage:14
+cashBack:null
+offers:
+color:
+size:null
+sizeUnit:
+sizeVariants:[9789383134007, DGBDGHYAQM3XRRV6, DGBDYCPRKHGXZ3Y8, 9789382618348]
+200x200:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-200x200-imadgmydkbypuwwn.jpeg
+colorVariants:[]
+styleCode:null
+shippingOptions:null
+productShippingBaseInfo:[object Object]
+800x800:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-800x800-imadgmydkbypuwwn.jpeg
+productDescription:India’s own super hero is finally here. Shiva has risen yet again to destroy the evildoers. The last of the Shiva Trilogy, this book promises to keep the readers gripped while the great warrior discovers who his true enemies are and gives it his all to destroy them. Summary of the Book The Oath of the Vayuputras is the final book of the Shiva Trilogy. In the earlier books of the trilogy, Shiva finds out that the Nagas are not his enemies and joins hands with them to reach the root of all evil. This book will have answers to ‘the Neelkanth’s’ questions about his fate, the choices he made previously and karma. Further, in the concluding book of the trilogy, Shiva reaches Panchavati, the capital of Naga where he will come face to face with his greatest enemy. Will he win the battle over his wicked enemies, who are out to destroy him and his legacy? The Oath of the Vayuputras will also reveal the reason of Shiva’s close friend Brahaspati’s disappearance and reappearance at the end of the second book, The Secret of the Nagas. Further the relationship between Daksha, the king of Meluha and the mysterious temple priests will also be exposed in this last part of the trilogy. Shiva seeks helps from the Vayuputras in the quest to conquer all evil. The great warrior will encounter the real intentions of some characters he deemed to be close to him. Some new characters will add that extra vitality to the entire plot, especially Shiva’s greatest enemy whose name sends shivers down the spines of many great warriors. An interesting journey of a warrior who is turned into a God by his followers because of his deeds and war against the evil, this book is sure to have its readers’ full attention. A good read which will make one reflect on their actions, this book like the two earlier books of the trilogy focuses on philosophy, religion and the never ending battle between the good and the evil. About Amish Tripathi Amish Tripathi, is an author who gave up his banking job to live his dream of becoming a writer. He is an IIM (Kolkata) graduate and worked for 14 years in the financial services industry. He has penned down three books as part of the Shiva Trilogy 3, which have received raving reviews and critical appreciation. His style of writing is fresh and has given birth to a new era of literature in India. With philosophy, religion, karma and myth as his main areas of focus, Amish has weaved his plots around them and conquered the hearts of many readers with his riveting ideas. Amish lives with his wife Preethi and son Neel in Mumbai. As is evident from his books, Amish has a passion for religion, philosophy, mythology and history.
+offset:null
+unknown:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-original-imadgmydkbypuwwn.jpeg
+maximumRetailPrice:[object Object]
+productInfoList:[object Object],[object Object],[object Object],[object Object],[object Object]
+0:[object Object]
+productBaseInfo:[object Object]
+productIdentifier:[object Object]
+categoryPaths:[object Object]
+productId:9789381626603
+0:[object Object]
+0:[object Object]
+title:
+productAttributes:[object Object]
+title:The secret of the nagas
+imageUrls:[object Object]
+productDescription:Today, He is a God. 4000 years ago, He was just a man. The hunt is on. The sinister Naga warrior has killed his friend Brahaspati and now stalks his wife Sati. Shiva, the Tibetan immigrant who is the prophesied destroyer of evil, will not rest till he finds his demonic adversary. His vengeance and the path to evil will lead him to the door of the Nagas, the serpent people. Of that he is certain. The evidence of the malevolent rise of evil is everywhere. A kingdom is dying as it is held to ransom for a miracle drug. A crown prince is murdered. The Vasudevs – Shiva’s philosopher guides – betray his unquestioning faith as they take the aid of the dark side. Even the perfect empire, Meluha is riddled with a terrible secret in Maika, the city of births. Unknown to Shiva, a master puppeteer is playing a grand game. In a journey that will take him across the length and breadth of ancient India, Shiva searches for the truth in a land of deadly mysteries – only to find that nothing is what it seems. Fierce battles will be fought. Surprising alliances will be forged. Unbelievable secrets will be revealed in this second book of the Shiva Trilogy, the sequel to the #1 national bestseller, The Immortals of Meluha. About The Author Amish Tripathi is a 36-year-old, IIM (Kolkata) educated boring banker turned happy author. The success of his debut book, The Immortals of Meluha (Book 1 of the Shiva Trilogy), encouraged him to give up a fourteen year old career in financial services to focus on writing. He is passionate about history, mythology and philosophy. He believes there is beauty and meaning in all world cultures and religions. The Secret of the Nagas is the second book of the Shiva Trilogy. Amish lives in Mumbai with his wife Preeti and son Neel. He is presently working on the third book of the Shiva Trilogy, The Oath of the Vayuputras.
+categoryPath:[object Object]
+200x200:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-200x200-imadypy6skxurzfz.jpeg
+unknown:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-original-imadypy6skxurzfz.jpeg
+800x800:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-800x800-imadypy6skxurzfz.jpeg
+maximumRetailPrice:[object Object]
+400x400:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-400x400-imadypy6skxurzfz.jpeg
+amount:225
+sellingPrice:[object Object]
+amount:214
+currency:INR
+productUrl:http://dl.flipkart.com/dl/the-secret-of-the-nagas/p/itmdbt2g6f2z3z2e?pid=9789381626603&affid=rakesha74
+productBrand:null
+inStock:true
+isAvailable:true
+codAvailable:true
+emiAvailable:null
+discountPercentage:4
+currency:INR
+cashBack:null
+size:null
+color:
+sizeUnit:
+sizeVariants:[DGBDN37NMGZRGZTS, 9789381626603]
+shippingOptions:null
+styleCode:null
+colorVariants:[]
+productShippingBaseInfo:[object Object]
+offset:null
+1:[object Object]
+productBaseInfo:[object Object]
+productId:9789383260126
+productIdentifier:[object Object]
+categoryPath:[object Object]
+categoryPaths:[object Object]
+offers:
+0:[object Object]
+productAttributes:[object Object]
+0:[object Object]
+title:
+imageUrls:[object Object]
+productDescription:The story of a man whose fate led him to be considered a God. The mythical story of Shiva is brought into a new perspective in The Immortals of Meluha, the first in a fantasy trilogy. Summary of the Book When Meluha, an empire created centuries earlier by Lord Ram, is under threat from the Chandravanshis and the Nagas, her king, Daksha, sends emissaries to Tibet and asks the tribe there to help him. Among these tribes are the Gunas, and their chief Shiva is a mighty warrior. He moves to Srinagar and in a curious coincidence that sees him alone of all his tribe unaffected by a high fever, Shiva’s throat turns blue and the Meluhans announce him as Neelakanth, their fabled mythic savior. The book begins the story of his life, and how he comes to accept the title given to him, that of the God of Gods. About Amish Tripathi Amish Tripathi is a former Indian banker turned writer. The Secret of the Nagas and The Oath of the Vayuputras complete his Shiva Trilogy, which has since become a bestselling collection. An alumnus of St. Xavier’s College, Mumbai and the Indian Institute of Management Calcutta, he currently lives in Mumbai with his wife and son.
+200x200:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-200x200-imadmt3hypzqmufa.jpeg
+unknown:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-original-imadmt3hypzqmufa.jpeg
+400x400:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-400x400-imadmt3hypzqmufa.jpeg
+800x800:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-800x800-imadmt3hypzqmufa.jpeg
+title:The Immortals of Meluha (English)
+maximumRetailPrice:[object Object]
+currency:INR
+sellingPrice:[object Object]
+amount:495
+productUrl:http://dl.flipkart.com/dl/immortals-meluha-english/p/itmdx93rf3nctndh?pid=9789383260126&affid=rakesha74
+amount:245
+currency:INR
+isAvailable:true
+discountPercentage:50
+codAvailable:true
+offers:
+productBrand:null
+sizeUnit:
+inStock:true
+emiAvailable:null
+color:
+sizeVariants:[9789380658742, 9789383260126]
+productShippingBaseInfo:[object Object]
+styleCode:null
+colorVariants:[]
+shippingOptions:null
+offset:null
+productBaseInfo:[object Object]
+size:null
+2:[object Object]
+productIdentifier:[object Object]
+categoryPaths:[object Object]
+cashBack:null
+productId:9789381626344
+productAttributes:[object Object]
+categoryPath:[object Object]
+title:The Secret of the Nagas (English)
+0:[object Object]
+productDescription:The Secret of The Nagas is the second book in the Shiva trilogy and is a sequel to The Immortals of Meluha. Summary Of The Book The Secret of the Nagas begins with Shiva trying to save Sati from a Naga attack. His quest for the Naga warrior who killed Brahaspati and assaulted Sati leads Shiva and Sati to the land of the Brangas. In The Secret of Nagas, Shiva the prophesied savior of the Meluhan Empire finds himself in a turbulent situation trying to avenge the murder of his friend and saving his clan and the people of Meluha from the evil serpent people. His journey takes him across the lengths and breadths of the ancient India, searching for the truth and answers to all his intriguing questions. He travels to Kashi to find every bit of detail about the Nagas. He comes to learn about the reason behind the alliance between the Brangas and the Nagas. Both Shiva and Sati eventually discover startling secrets that have profound effects on both their lives and relationship. With a war brewing in the backdrop, will Shiva be able to accept the truth and live up to the expectations attached to him? About Amish Tripathi Amish Tripathi, is an Indian author who gave up a flourishing career to fulfill his dream of becoming a writer. He is an alumnus of IIM (Kolkata) and was working in the financial services industry for over 14 years. He has authored the famous Shiva Trilogy, which earned him both commercial and critical appreciation. His style of writing is a fresh blend of philosophy, mythology, karma and myth, which has given birth to a new era of literature in India. He is currently based out of Mumbai where he stays with his wife and son. Amish has sold the movie rights of The Immortals of Meluha to Dharma Productions.
+0:[object Object]
+200x200:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-200x200-imadj3vhkvzdxjkn.jpeg
+unknown:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-original-imadj3vhkvzdxjkn.jpeg
+maximumRetailPrice:[object Object]
+400x400:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-400x400-imadj3vhkvzdxjkn.jpeg
+title:
+amount:295
+imageUrls:[object Object]
+sellingPrice:[object Object]
+currency:INR
+productUrl:http://dl.flipkart.com/dl/secret-nagas-english/p/itme2mypddk9fphk?pid=9789381626344&affid=rakesha74
+productBrand:null
+inStock:true
+amount:280
+currency:INR
+800x800:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-800x800-imadj3vhkvzdxjkn.jpeg
+emiAvailable:null
+codAvailable:true
+cashBack:null
+isAvailable:true
+offers:
+size:null
+discountPercentage:5
+styleCode:null
+colorVariants:[]
+sizeVariants:[9789380658799, DGBDFFRFVGQVVBFW, 9789381626344]
+productShippingBaseInfo:[object Object]
+shippingOptions:null
+offset:null
+productBaseInfo:[object Object]
+productIdentifier:[object Object]
+productId:9789384030087
+sizeUnit:
+categoryPaths:[object Object]
+color:
+3:[object Object]
+title:
+0:[object Object]
+productAttributes:[object Object]
+0:[object Object]
+productDescription:The Shiva Trilogy continues with The Secret of the Nagas. This edition presents the Bengali translation of the English version. Summary of the Book There was a time when even the mighty Shiva, Destroyer of Worlds, was just a man. 4000 years ago, he was a Tibetan immigrant, long prophesied to become a god. He reels from the anger at the death of his friend Brihaspati. Now that very Naga assassin stalks his beloved wife, Sati. However, Shiva does not have time to rest. A kingdom is held to ransom even as it is dying. It needs a miracle drug, and only Shiva can find the answers. The seemingly ideal kingdom of Meluha seems to About Amish Tripathi Amish Tripathi is a former Indian banker turned writer. The Shiva Trilogy began with The Immortals of Meluha and ends with The Oath of the Vayuputras. An alumnus of St. Xavier’s College, Mumbai and the Indian Institute of Management Calcutta, he currently lives in Mumbai with his wife and son.
+categoryPath:[object Object]
+title:The Secret of the Nagas
+400x400:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-400x400-imadzyfxzhfdhhzv.jpeg
+800x800:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-800x800-imadzyfxzhfdhhzv.jpeg
+200x200:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-200x200-imadzyfxzhfdhhzv.jpeg
+unknown:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-original-imadzyfxzhfdhhzv.jpeg
+currency:INR
+imageUrls:[object Object]
+sellingPrice:[object Object]
+maximumRetailPrice:[object Object]
+productUrl:http://dl.flipkart.com/dl/the-secret-of-the-nagas/p/itmdzvmxkvr6pt2p?pid=9789384030087&affid=rakesha74
+currency:INR
+productBrand:null
+amount:250
+emiAvailable:null
+discountPercentage:0
+inStock:true
+codAvailable:true
+offers:
+sizeUnit:
+size:null
+amount:250
+color:
+sizeVariants:[9789384030087]
+colorVariants:[]
+productShippingBaseInfo:[object Object]
+shippingOptions:null
+styleCode:null
+isAvailable:true
+4:[object Object]
+productBaseInfo:[object Object]
+productIdentifier:[object Object]
+productId:9789382618348
+categoryPaths:[object Object]
+cashBack:null
+categoryPath:[object Object]
+productAttributes:[object Object]
+0:[object Object]
+0:[object Object]
+title:The Oath of the Vayuputras: Shiva Trilogy 3 (English)
+title:
+offset:null
+imageUrls:[object Object]
+productDescription:India’s own super hero is finally here. Shiva has risen yet again to destroy the evildoers. The last of the Shiva Trilogy, this book promises to keep the readers gripped while the great warrior discovers who his true enemies are and gives it his all to destroy them. Summary of the Book The Oath of the Vayuputras is the final book of the Shiva Trilogy. In the earlier books of the trilogy, Shiva finds out that the Nagas are not his enemies and joins hands with them to reach the root of all evil. This book will have answers to ‘the Neelkanth’s’ questions about his fate, the choices he made previously and karma. Further, in the concluding book of the trilogy, Shiva reaches Panchavati, the capital of Naga where he will come face to face with his greatest enemy. Will he win the battle over his wicked enemies, who are out to destroy him and his legacy? The Oath of the Vayuputras will also reveal the reason of Shiva’s close friend Brahaspati’s disappearance and reappearance at the end of the second book, The Secret of the Nagas. Further the relationship between Daksha, the king of Meluha and the mysterious temple priests will also be exposed in this last part of the trilogy. Shiva seeks helps from the Vayuputras in the quest to conquer all evil. The great warrior will encounter the real intentions of some characters he deemed to be close to him. Some new characters will add that extra vitality to the entire plot, especially Shiva’s greatest enemy whose name sends shivers down the spines of many great warriors. An interesting journey of a warrior who is turned into a God by his followers because of his deeds and war against the evil, this book is sure to have its readers’ full attention. A good read which will make one reflect on their actions, this book like the two earlier books of the trilogy focuses on philosophy, religion and the never ending battle between the good and the evil. About Amish Tripathi Amish Tripathi, is an author who gave up his banking job to live his dream of becoming a writer. He is an IIM (Kolkata) graduate and worked for 14 years in the financial services industry. He has penned down three books as part of the Shiva Trilogy 3, which have received raving reviews and critical appreciation. His style of writing is fresh and has given birth to a new era of literature in India. With philosophy, religion, karma and myth as his main areas of focus, Amish has weaved his plots around them and conquered the hearts of many readers with his riveting ideas. Amish lives with his wife Preethi and son Neel in Mumbai. As is evident from his books, Amish has a passion for religion, philosophy, mythology and history.
+400x400:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-400x400-imadgmydkbypuwwn.jpeg
+unknown:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-original-imadgmydkbypuwwn.jpeg
+maximumRetailPrice:[object Object]
+800x800:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-800x800-imadgmydkbypuwwn.jpeg
+200x200:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-200x200-imadgmydkbypuwwn.jpeg
+amount:395
+currency:INR
+sellingPrice:[object Object]
+productUrl:http://dl.flipkart.com/dl/oath-vayuputras-shiva-trilogy-3-english/p/itmedwknqyp4ezaz?pid=9789382618348&affid=rakesha74
+currency:INR
+productBrand:null
+codAvailable:true
+amount:336
+inStock:true
+isAvailable:true
+cashBack:null
+discountPercentage:14
+sizeUnit:
+emiAvailable:null
+offers:
+sizeVariants:[9789383134007, DGBDGHYAQM3XRRV6, DGBDYCPRKHGXZ3Y8, 9789382618348]
+size:null
+colorVariants:[]
+productShippingBaseInfo:[object Object]
+styleCode:null
+shippingOptions:null
+offset:null
+color:
+productInfoList:[object Object],[object Object],[object Object],[object Object],[object Object]
+0:[object Object]
+productBaseInfo:[object Object]
+productIdentifier:[object Object]
+productId:9789381626603
+categoryPaths:[object Object]
+categoryPath:[object Object]
+0:[object Object]
+0:[object Object]
+productAttributes:[object Object]
+title:The secret of the nagas
+productDescription:Today, He is a God. 4000 years ago, He was just a man. The hunt is on. The sinister Naga warrior has killed his friend Brahaspati and now stalks his wife Sati. Shiva, the Tibetan immigrant who is the prophesied destroyer of evil, will not rest till he finds his demonic adversary. His vengeance and the path to evil will lead him to the door of the Nagas, the serpent people. Of that he is certain. The evidence of the malevolent rise of evil is everywhere. A kingdom is dying as it is held to ransom for a miracle drug. A crown prince is murdered. The Vasudevs – Shiva’s philosopher guides – betray his unquestioning faith as they take the aid of the dark side. Even the perfect empire, Meluha is riddled with a terrible secret in Maika, the city of births. Unknown to Shiva, a master puppeteer is playing a grand game. In a journey that will take him across the length and breadth of ancient India, Shiva searches for the truth in a land of deadly mysteries – only to find that nothing is what it seems. Fierce battles will be fought. Surprising alliances will be forged. Unbelievable secrets will be revealed in this second book of the Shiva Trilogy, the sequel to the #1 national bestseller, The Immortals of Meluha. About The Author Amish Tripathi is a 36-year-old, IIM (Kolkata) educated boring banker turned happy author. The success of his debut book, The Immortals of Meluha (Book 1 of the Shiva Trilogy), encouraged him to give up a fourteen year old career in financial services to focus on writing. He is passionate about history, mythology and philosophy. He believes there is beauty and meaning in all world cultures and religions. The Secret of the Nagas is the second book of the Shiva Trilogy. Amish lives in Mumbai with his wife Preeti and son Neel. He is presently working on the third book of the Shiva Trilogy, The Oath of the Vayuputras.
+200x200:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-200x200-imadypy6skxurzfz.jpeg
+title:
+imageUrls:[object Object]
+400x400:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-400x400-imadypy6skxurzfz.jpeg
+800x800:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-800x800-imadypy6skxurzfz.jpeg
+unknown:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-original-imadypy6skxurzfz.jpeg
+currency:INR
+maximumRetailPrice:[object Object]
+amount:214
+currency:INR
+sellingPrice:[object Object]
+productUrl:http://dl.flipkart.com/dl/the-secret-of-the-nagas/p/itmdbt2g6f2z3z2e?pid=9789381626603&affid=rakesha74
+productBrand:null
+isAvailable:true
+codAvailable:true
+discountPercentage:4
+amount:225
+inStock:true
+cashBack:null
+emiAvailable:null
+color:
+offers:
+sizeVariants:[DGBDN37NMGZRGZTS, 9789381626603]
+sizeUnit:
+colorVariants:[]
+shippingOptions:null
+productShippingBaseInfo:[object Object]
+styleCode:null
+1:[object Object]
+productBaseInfo:[object Object]
+productIdentifier:[object Object]
+offset:null
+productId:9789383260126
+categoryPath:[object Object]
+categoryPaths:[object Object]
+size:null
+0:[object Object]
+productAttributes:[object Object]
+title:The Immortals of Meluha (English)
+productDescription:The story of a man whose fate led him to be considered a God. The mythical story of Shiva is brought into a new perspective in The Immortals of Meluha, the first in a fantasy trilogy. Summary of the Book When Meluha, an empire created centuries earlier by Lord Ram, is under threat from the Chandravanshis and the Nagas, her king, Daksha, sends emissaries to Tibet and asks the tribe there to help him. Among these tribes are the Gunas, and their chief Shiva is a mighty warrior. He moves to Srinagar and in a curious coincidence that sees him alone of all his tribe unaffected by a high fever, Shiva’s throat turns blue and the Meluhans announce him as Neelakanth, their fabled mythic savior. The book begins the story of his life, and how he comes to accept the title given to him, that of the God of Gods. About Amish Tripathi Amish Tripathi is a former Indian banker turned writer. The Secret of the Nagas and The Oath of the Vayuputras complete his Shiva Trilogy, which has since become a bestselling collection. An alumnus of St. Xavier’s College, Mumbai and the Indian Institute of Management Calcutta, he currently lives in Mumbai with his wife and son.
+400x400:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-400x400-imadmt3hypzqmufa.jpeg
+0:[object Object]
+imageUrls:[object Object]
+200x200:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-200x200-imadmt3hypzqmufa.jpeg
+title:
+maximumRetailPrice:[object Object]
+800x800:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-800x800-imadmt3hypzqmufa.jpeg
+amount:495
+currency:INR
+sellingPrice:[object Object]
+amount:245
+currency:INR
+productUrl:http://dl.flipkart.com/dl/immortals-meluha-english/p/itmdx93rf3nctndh?pid=9789383260126&affid=rakesha74
+productBrand:null
+inStock:true
+codAvailable:true
+unknown:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-original-imadmt3hypzqmufa.jpeg
+isAvailable:true
+emiAvailable:null
+cashBack:null
+discountPercentage:50
+colorVariants:[]
+sizeUnit:
+color:
+offers:
+sizeVariants:[9789380658742, 9789383260126]
+size:null
+styleCode:null
+shippingOptions:null
+offset:null
+2:[object Object]
+productBaseInfo:[object Object]
+productIdentifier:[object Object]
+categoryPaths:[object Object]
+productShippingBaseInfo:[object Object]
+productId:9789381626344
+categoryPath:[object Object]
+0:[object Object]
+0:[object Object]
+title:
+title:The Secret of the Nagas (English)
+imageUrls:[object Object]
+productDescription:The Secret of The Nagas is the second book in the Shiva trilogy and is a sequel to The Immortals of Meluha. Summary Of The Book The Secret of the Nagas begins with Shiva trying to save Sati from a Naga attack. His quest for the Naga warrior who killed Brahaspati and assaulted Sati leads Shiva and Sati to the land of the Brangas. In The Secret of Nagas, Shiva the prophesied savior of the Meluhan Empire finds himself in a turbulent situation trying to avenge the murder of his friend and saving his clan and the people of Meluha from the evil serpent people. His journey takes him across the lengths and breadths of the ancient India, searching for the truth and answers to all his intriguing questions. He travels to Kashi to find every bit of detail about the Nagas. He comes to learn about the reason behind the alliance between the Brangas and the Nagas. Both Shiva and Sati eventually discover startling secrets that have profound effects on both their lives and relationship. With a war brewing in the backdrop, will Shiva be able to accept the truth and live up to the expectations attached to him? About Amish Tripathi Amish Tripathi, is an Indian author who gave up a flourishing career to fulfill his dream of becoming a writer. He is an alumnus of IIM (Kolkata) and was working in the financial services industry for over 14 years. He has authored the famous Shiva Trilogy, which earned him both commercial and critical appreciation. His style of writing is a fresh blend of philosophy, mythology, karma and myth, which has given birth to a new era of literature in India. He is currently based out of Mumbai where he stays with his wife and son. Amish has sold the movie rights of The Immortals of Meluha to Dharma Productions.
+200x200:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-200x200-imadj3vhkvzdxjkn.jpeg
+unknown:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-original-imadj3vhkvzdxjkn.jpeg
+productAttributes:[object Object]
+400x400:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-400x400-imadj3vhkvzdxjkn.jpeg
+800x800:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-800x800-imadj3vhkvzdxjkn.jpeg
+currency:INR
+maximumRetailPrice:[object Object]
+sellingPrice:[object Object]
+productUrl:http://dl.flipkart.com/dl/secret-nagas-english/p/itme2mypddk9fphk?pid=9789381626344&affid=rakesha74
+currency:INR
+productBrand:null
+amount:266
+inStock:true
+isAvailable:true
+discountPercentage:9
+emiAvailable:null
+amount:295
+cashBack:null
+size:null
+codAvailable:true
+offers:
+sizeUnit:
+sizeVariants:[9789380658799, DGBDFFRFVGQVVBFW, 9789381626344]
+offset:null
+colorVariants:[]
+productShippingBaseInfo:[object Object]
+styleCode:null
+3:[object Object]
+productBaseInfo:[object Object]
+productId:9789384030087
+productIdentifier:[object Object]
+color:
+shippingOptions:null
+categoryPaths:[object Object]
+categoryPath:[object Object]
+title:
+0:[object Object]
+productAttributes:[object Object]
+productDescription:The Shiva Trilogy continues with The Secret of the Nagas. This edition presents the Bengali translation of the English version. Summary of the Book There was a time when even the mighty Shiva, Destroyer of Worlds, was just a man. 4000 years ago, he was a Tibetan immigrant, long prophesied to become a god. He reels from the anger at the death of his friend Brihaspati. Now that very Naga assassin stalks his beloved wife, Sati. However, Shiva does not have time to rest. A kingdom is held to ransom even as it is dying. It needs a miracle drug, and only Shiva can find the answers. The seemingly ideal kingdom of Meluha seems to About Amish Tripathi Amish Tripathi is a former Indian banker turned writer. The Shiva Trilogy began with The Immortals of Meluha and ends with The Oath of the Vayuputras. An alumnus of St. Xavier’s College, Mumbai and the Indian Institute of Management Calcutta, he currently lives in Mumbai with his wife and son.
+400x400:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-400x400-imadzyfxzhfdhhzv.jpeg
+200x200:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-200x200-imadzyfxzhfdhhzv.jpeg
+unknown:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-original-imadzyfxzhfdhhzv.jpeg
+amount:250
+imageUrls:[object Object]
+800x800:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-800x800-imadzyfxzhfdhhzv.jpeg
+0:[object Object]
+title:The Secret of the Nagas
+sellingPrice:[object Object]
+maximumRetailPrice:[object Object]
+productUrl:http://dl.flipkart.com/dl/the-secret-of-the-nagas/p/itmdzvmxkvr6pt2p?pid=9789384030087&affid=rakesha74
+currency:INR
+productBrand:null
+currency:INR
+codAvailable:true
+inStock:true
+discountPercentage:0
+emiAvailable:null
+size:null
+cashBack:null
+color:
+offers:
+isAvailable:true
+colorVariants:[]
+styleCode:null
+productShippingBaseInfo:[object Object]
+4:[object Object]
+shippingOptions:null
+amount:250
+offset:null
+productBaseInfo:[object Object]
+productIdentifier:[object Object]
+sizeUnit:
+categoryPaths:[object Object]
+0:[object Object]
+categoryPath:[object Object]
+0:[object Object]
+productId:9789382618348
+productAttributes:[object Object]
+title:The Oath of the Vayuputras: Shiva Trilogy 3 (English)
+productDescription:India’s own super hero is finally here. Shiva has risen yet again to destroy the evildoers. The last of the Shiva Trilogy, this book promises to keep the readers gripped while the great warrior discovers who his true enemies are and gives it his all to destroy them. Summary of the Book The Oath of the Vayuputras is the final book of the Shiva Trilogy. In the earlier books of the trilogy, Shiva finds out that the Nagas are not his enemies and joins hands with them to reach the root of all evil. This book will have answers to ‘the Neelkanth’s’ questions about his fate, the choices he made previously and karma. Further, in the concluding book of the trilogy, Shiva reaches Panchavati, the capital of Naga where he will come face to face with his greatest enemy. Will he win the battle over his wicked enemies, who are out to destroy him and his legacy? The Oath of the Vayuputras will also reveal the reason of Shiva’s close friend Brahaspati’s disappearance and reappearance at the end of the second book, The Secret of the Nagas. Further the relationship between Daksha, the king of Meluha and the mysterious temple priests will also be exposed in this last part of the trilogy. Shiva seeks helps from the Vayuputras in the quest to conquer all evil. The great warrior will encounter the real intentions of some characters he deemed to be close to him. Some new characters will add that extra vitality to the entire plot, especially Shiva’s greatest enemy whose name sends shivers down the spines of many great warriors. An interesting journey of a warrior who is turned into a God by his followers because of his deeds and war against the evil, this book is sure to have its readers’ full attention. A good read which will make one reflect on their actions, this book like the two earlier books of the trilogy focuses on philosophy, religion and the never ending battle between the good and the evil. About Amish Tripathi Amish Tripathi, is an author who gave up his banking job to live his dream of becoming a writer. He is an IIM (Kolkata) graduate and worked for 14 years in the financial services industry. He has penned down three books as part of the Shiva Trilogy 3, which have received raving reviews and critical appreciation. His style of writing is fresh and has given birth to a new era of literature in India. With philosophy, religion, karma and myth as his main areas of focus, Amish has weaved his plots around them and conquered the hearts of many readers with his riveting ideas. Amish lives with his wife Preethi and son Neel in Mumbai. As is evident from his books, Amish has a passion for religion, philosophy, mythology and history.
+imageUrls:[object Object]
+400x400:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-400x400-imadgmydkbypuwwn.jpeg
+200x200:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-200x200-imadgmydkbypuwwn.jpeg
+sizeVariants:[9789384030087]
+maximumRetailPrice:[object Object]
+amount:395
+currency:INR
+sellingPrice:[object Object]
+unknown:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-original-imadgmydkbypuwwn.jpeg
+amount:336
+800x800:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-800x800-imadgmydkbypuwwn.jpeg
+currency:INR
+productUrl:http://dl.flipkart.com/dl/oath-vayuputras-shiva-trilogy-3-english/p/itmedwknqyp4ezaz?pid=9789382618348&affid=rakesha74
+emiAvailable:null
+productBrand:null
+title:
+inStock:true
+discountPercentage:14
+cashBack:null
+isAvailable:true
+offers:
+size:null
+sizeVariants:[9789383134007, DGBDGHYAQM3XRRV6, DGBDYCPRKHGXZ3Y8, 9789382618348]
+colorVariants:[]
+productShippingBaseInfo:[object Object]
+styleCode:null
+sizeUnit:
+color:
+shippingOptions:null
+offset:null
+codAvailable:true
+productInfoList:[object Object],[object Object],[object Object],[object Object],[object Object]
+0:[object Object]
+productBaseInfo:[object Object]
+productIdentifier:[object Object]
+categoryPaths:[object Object]
+categoryPath:[object Object]
+0:[object Object]
+0:[object Object]
+productAttributes:[object Object]
+title:The secret of the nagas
+productDescription:Today, He is a God. 4000 years ago, He was just a man. The hunt is on. The sinister Naga warrior has killed his friend Brahaspati and now stalks his wife Sati. Shiva, the Tibetan immigrant who is the prophesied destroyer of evil, will not rest till he finds his demonic adversary. His vengeance and the path to evil will lead him to the door of the Nagas, the serpent people. Of that he is certain. The evidence of the malevolent rise of evil is everywhere. A kingdom is dying as it is held to ransom for a miracle drug. A crown prince is murdered. The Vasudevs – Shiva’s philosopher guides – betray his unquestioning faith as they take the aid of the dark side. Even the perfect empire, Meluha is riddled with a terrible secret in Maika, the city of births. Unknown to Shiva, a master puppeteer is playing a grand game. In a journey that will take him across the length and breadth of ancient India, Shiva searches for the truth in a land of deadly mysteries – only to find that nothing is what it seems. Fierce battles will be fought. Surprising alliances will be forged. Unbelievable secrets will be revealed in this second book of the Shiva Trilogy, the sequel to the #1 national bestseller, The Immortals of Meluha. About The Author Amish Tripathi is a 36-year-old, IIM (Kolkata) educated boring banker turned happy author. The success of his debut book, The Immortals of Meluha (Book 1 of the Shiva Trilogy), encouraged him to give up a fourteen year old career in financial services to focus on writing. He is passionate about history, mythology and philosophy. He believes there is beauty and meaning in all world cultures and religions. The Secret of the Nagas is the second book of the Shiva Trilogy. Amish lives in Mumbai with his wife Preeti and son Neel. He is presently working on the third book of the Shiva Trilogy, The Oath of the Vayuputras.
+imageUrls:[object Object]
+400x400:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-400x400-imadypy6skxurzfz.jpeg
+200x200:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-200x200-imadypy6skxurzfz.jpeg
+unknown:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-original-imadypy6skxurzfz.jpeg
+800x800:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-800x800-imadypy6skxurzfz.jpeg
+productId:9789381626603
+maximumRetailPrice:[object Object]
+amount:225
+sellingPrice:[object Object]
+currency:INR
+currency:INR
+productUrl:http://dl.flipkart.com/dl/the-secret-of-the-nagas/p/itmdbt2g6f2z3z2e?pid=9789381626603&affid=rakesha74
+productBrand:null
+inStock:true
+isAvailable:true
+codAvailable:true
+title:
+amount:214
+discountPercentage:4
+emiAvailable:null
+cashBack:null
+color:
+sizeUnit:
+sizeVariants:[DGBDN37NMGZRGZTS, 9789381626603]
+size:null
+colorVariants:[]
+styleCode:null
+productShippingBaseInfo:[object Object]
+offset:null
+productId:9789383260126
+1:[object Object]
+categoryPaths:[object Object]
+categoryPath:[object Object]
+offers:
+0:[object Object]
+productAttributes:[object Object]
+title:The Immortals of Meluha (English)
+productDescription:The story of a man whose fate led him to be considered a God. The mythical story of Shiva is brought into a new perspective in The Immortals of Meluha, the first in a fantasy trilogy. Summary of the Book When Meluha, an empire created centuries earlier by Lord Ram, is under threat from the Chandravanshis and the Nagas, her king, Daksha, sends emissaries to Tibet and asks the tribe there to help him. Among these tribes are the Gunas, and their chief Shiva is a mighty warrior. He moves to Srinagar and in a curious coincidence that sees him alone of all his tribe unaffected by a high fever, Shiva’s throat turns blue and the Meluhans announce him as Neelakanth, their fabled mythic savior. The book begins the story of his life, and how he comes to accept the title given to him, that of the God of Gods. About Amish Tripathi Amish Tripathi is a former Indian banker turned writer. The Secret of the Nagas and The Oath of the Vayuputras complete his Shiva Trilogy, which has since become a bestselling collection. An alumnus of St. Xavier’s College, Mumbai and the Indian Institute of Management Calcutta, he currently lives in Mumbai with his wife and son.
+0:[object Object]
+400x400:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-400x400-imadmt3hypzqmufa.jpeg
+imageUrls:[object Object]
+title:
+800x800:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-800x800-imadmt3hypzqmufa.jpeg
+unknown:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-original-imadmt3hypzqmufa.jpeg
+maximumRetailPrice:[object Object]
+amount:495
+currency:INR
+sellingPrice:[object Object]
+amount:245
+currency:INR
+productUrl:http://dl.flipkart.com/dl/immortals-meluha-english/p/itmdx93rf3nctndh?pid=9789383260126&affid=rakesha74
+productBrand:null
+inStock:true
+isAvailable:true
+codAvailable:true
+productBaseInfo:[object Object]
+emiAvailable:null
+cashBack:null
+size:null
+offers:
+color:
+sizeVariants:[9789380658742, 9789383260126]
+200x200:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-200x200-imadmt3hypzqmufa.jpeg
+colorVariants:[]
+discountPercentage:50
+productShippingBaseInfo:[object Object]
+shippingOptions:null
+2:[object Object]
+styleCode:null
+productIdentifier:[object Object]
+sizeUnit:
+offset:null
+productBaseInfo:[object Object]
+productId:9789381626344
+categoryPaths:[object Object]
+categoryPath:[object Object]
+title:
+0:[object Object]
+productAttributes:[object Object]
+title:The Secret of the Nagas (English)
+productDescription:The Secret of The Nagas is the second book in the Shiva trilogy and is a sequel to The Immortals of Meluha. Summary Of The Book The Secret of the Nagas begins with Shiva trying to save Sati from a Naga attack. His quest for the Naga warrior who killed Brahaspati and assaulted Sati leads Shiva and Sati to the land of the Brangas. In The Secret of Nagas, Shiva the prophesied savior of the Meluhan Empire finds himself in a turbulent situation trying to avenge the murder of his friend and saving his clan and the people of Meluha from the evil serpent people. His journey takes him across the lengths and breadths of the ancient India, searching for the truth and answers to all his intriguing questions. He travels to Kashi to find every bit of detail about the Nagas. He comes to learn about the reason behind the alliance between the Brangas and the Nagas. Both Shiva and Sati eventually discover startling secrets that have profound effects on both their lives and relationship. With a war brewing in the backdrop, will Shiva be able to accept the truth and live up to the expectations attached to him? About Amish Tripathi Amish Tripathi, is an Indian author who gave up a flourishing career to fulfill his dream of becoming a writer. He is an alumnus of IIM (Kolkata) and was working in the financial services industry for over 14 years. He has authored the famous Shiva Trilogy, which earned him both commercial and critical appreciation. His style of writing is a fresh blend of philosophy, mythology, karma and myth, which has given birth to a new era of literature in India. He is currently based out of Mumbai where he stays with his wife and son. Amish has sold the movie rights of The Immortals of Meluha to Dharma Productions.
+0:[object Object]
+400x400:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-400x400-imadj3vhkvzdxjkn.jpeg
+unknown:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-original-imadj3vhkvzdxjkn.jpeg
+imageUrls:[object Object]
+800x800:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-800x800-imadj3vhkvzdxjkn.jpeg
+200x200:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-200x200-imadj3vhkvzdxjkn.jpeg
+maximumRetailPrice:[object Object]
+amount:295
+currency:INR
+sellingPrice:[object Object]
+productUrl:http://dl.flipkart.com/dl/secret-nagas-english/p/itme2mypddk9fphk?pid=9789381626344&affid=rakesha74
+amount:280
+currency:INR
+productBrand:null
+shippingOptions:null
+productIdentifier:[object Object]
+inStock:true
+codAvailable:true
+emiAvailable:null
+discountPercentage:5
+cashBack:null
+isAvailable:true
+offers:
+size:null
+color:
+sizeUnit:
+sizeVariants:[9789380658799, DGBDFFRFVGQVVBFW, 9789381626344]
+colorVariants:[]
+productShippingBaseInfo:[object Object]
+3:[object Object]
+shippingOptions:null
+styleCode:null
+productBaseInfo:[object Object]
+productId:9789384030087
+productIdentifier:[object Object]
+categoryPath:[object Object]
+offset:null
+0:[object Object]
+productAttributes:[object Object]
+categoryPaths:[object Object]
+imageUrls:[object Object]
+title:The Secret of the Nagas
+productDescription:The Shiva Trilogy continues with The Secret of the Nagas. This edition presents the Bengali translation of the English version. Summary of the Book There was a time when even the mighty Shiva, Destroyer of Worlds, was just a man. 4000 years ago, he was a Tibetan immigrant, long prophesied to become a god. He reels from the anger at the death of his friend Brihaspati. Now that very Naga assassin stalks his beloved wife, Sati. However, Shiva does not have time to rest. A kingdom is held to ransom even as it is dying. It needs a miracle drug, and only Shiva can find the answers. The seemingly ideal kingdom of Meluha seems to About Amish Tripathi Amish Tripathi is a former Indian banker turned writer. The Shiva Trilogy began with The Immortals of Meluha and ends with The Oath of the Vayuputras. An alumnus of St. Xavier’s College, Mumbai and the Indian Institute of Management Calcutta, he currently lives in Mumbai with his wife and son.
+unknown:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-original-imadzyfxzhfdhhzv.jpeg
+0:[object Object]
+200x200:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-200x200-imadzyfxzhfdhhzv.jpeg
+800x800:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-800x800-imadzyfxzhfdhhzv.jpeg
+400x400:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-400x400-imadzyfxzhfdhhzv.jpeg
+maximumRetailPrice:[object Object]
+title:
+amount:250
+currency:INR
+sellingPrice:[object Object]
+productUrl:http://dl.flipkart.com/dl/the-secret-of-the-nagas/p/itmdzvmxkvr6pt2p?pid=9789384030087&affid=rakesha74
+currency:INR
+productBrand:null
+codAvailable:true
+emiAvailable:null
+discountPercentage:0
+cashBack:null
+color:
+inStock:true
+sizeVariants:[9789384030087]
+sizeUnit:
+amount:250
+colorVariants:[]
+offers:
+styleCode:null
+isAvailable:true
+productShippingBaseInfo:[object Object]
+4:[object Object]
+productBaseInfo:[object Object]
+productIdentifier:[object Object]
+productId:9789382618348
+categoryPaths:[object Object]
+offset:null
+categoryPath:[object Object]
+0:[object Object]
+size:null
+0:[object Object]
+productAttributes:[object Object]
+title:The Oath of the Vayuputras: Shiva Trilogy 3 (English)
+productDescription:India’s own super hero is finally here. Shiva has risen yet again to destroy the evildoers. The last of the Shiva Trilogy, this book promises to keep the readers gripped while the great warrior discovers who his true enemies are and gives it his all to destroy them. Summary of the Book The Oath of the Vayuputras is the final book of the Shiva Trilogy. In the earlier books of the trilogy, Shiva finds out that the Nagas are not his enemies and joins hands with them to reach the root of all evil. This book will have answers to ‘the Neelkanth’s’ questions about his fate, the choices he made previously and karma. Further, in the concluding book of the trilogy, Shiva reaches Panchavati, the capital of Naga where he will come face to face with his greatest enemy. Will he win the battle over his wicked enemies, who are out to destroy him and his legacy? The Oath of the Vayuputras will also reveal the reason of Shiva’s close friend Brahaspati’s disappearance and reappearance at the end of the second book, The Secret of the Nagas. Further the relationship between Daksha, the king of Meluha and the mysterious temple priests will also be exposed in this last part of the trilogy. Shiva seeks helps from the Vayuputras in the quest to conquer all evil. The great warrior will encounter the real intentions of some characters he deemed to be close to him. Some new characters will add that extra vitality to the entire plot, especially Shiva’s greatest enemy whose name sends shivers down the spines of many great warriors. An interesting journey of a warrior who is turned into a God by his followers because of his deeds and war against the evil, this book is sure to have its readers’ full attention. A good read which will make one reflect on their actions, this book like the two earlier books of the trilogy focuses on philosophy, religion and the never ending battle between the good and the evil. About Amish Tripathi Amish Tripathi, is an author who gave up his banking job to live his dream of becoming a writer. He is an IIM (Kolkata) graduate and worked for 14 years in the financial services industry. He has penned down three books as part of the Shiva Trilogy 3, which have received raving reviews and critical appreciation. His style of writing is fresh and has given birth to a new era of literature in India. With philosophy, religion, karma and myth as his main areas of focus, Amish has weaved his plots around them and conquered the hearts of many readers with his riveting ideas. Amish lives with his wife Preethi and son Neel in Mumbai. As is evident from his books, Amish has a passion for religion, philosophy, mythology and history.
+400x400:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-400x400-imadgmydkbypuwwn.jpeg
+200x200:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-200x200-imadgmydkbypuwwn.jpeg
+800x800:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-800x800-imadgmydkbypuwwn.jpeg
+title:
+imageUrls:[object Object]
+unknown:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-original-imadgmydkbypuwwn.jpeg
+maximumRetailPrice:[object Object]
+amount:336
+shippingOptions:null
+sellingPrice:[object Object]
+currency:INR
+amount:395
+productUrl:http://dl.flipkart.com/dl/oath-vayuputras-shiva-trilogy-3-english/p/itmedwknqyp4ezaz?pid=9789382618348&affid=rakesha74
+inStock:true
+productBrand:null
+codAvailable:true
+currency:INR
+emiAvailable:null
+discountPercentage:14
+offers:
+isAvailable:true
+color:
+cashBack:null
+sizeVariants:[9789383134007, DGBDGHYAQM3XRRV6, DGBDYCPRKHGXZ3Y8, 9789382618348]
+colorVariants:[]
+productShippingBaseInfo:[object Object]
+sizeUnit:
+styleCode:null
+size:null
+shippingOptions:null
+offset:null
+productInfoList:[object Object],[object Object],[object Object],[object Object],[object Object]
+0:[object Object]
+productIdentifier:[object Object]
+productId:9789381626603
+productBaseInfo:[object Object]
+categoryPath:[object Object]
+categoryPaths:[object Object]
+0:[object Object]
+0:[object Object]
+productAttributes:[object Object]
+title:
+title:The secret of the nagas
+productDescription:Today, He is a God. 4000 years ago, He was just a man. The hunt is on. The sinister Naga warrior has killed his friend Brahaspati and now stalks his wife Sati. Shiva, the Tibetan immigrant who is the prophesied destroyer of evil, will not rest till he finds his demonic adversary. His vengeance and the path to evil will lead him to the door of the Nagas, the serpent people. Of that he is certain. The evidence of the malevolent rise of evil is everywhere. A kingdom is dying as it is held to ransom for a miracle drug. A crown prince is murdered. The Vasudevs – Shiva’s philosopher guides – betray his unquestioning faith as they take the aid of the dark side. Even the perfect empire, Meluha is riddled with a terrible secret in Maika, the city of births. Unknown to Shiva, a master puppeteer is playing a grand game. In a journey that will take him across the length and breadth of ancient India, Shiva searches for the truth in a land of deadly mysteries – only to find that nothing is what it seems. Fierce battles will be fought. Surprising alliances will be forged. Unbelievable secrets will be revealed in this second book of the Shiva Trilogy, the sequel to the #1 national bestseller, The Immortals of Meluha. About The Author Amish Tripathi is a 36-year-old, IIM (Kolkata) educated boring banker turned happy author. The success of his debut book, The Immortals of Meluha (Book 1 of the Shiva Trilogy), encouraged him to give up a fourteen year old career in financial services to focus on writing. He is passionate about history, mythology and philosophy. He believes there is beauty and meaning in all world cultures and religions. The Secret of the Nagas is the second book of the Shiva Trilogy. Amish lives in Mumbai with his wife Preeti and son Neel. He is presently working on the third book of the Shiva Trilogy, The Oath of the Vayuputras.
+imageUrls:[object Object]
+unknown:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-original-imadypy6skxurzfz.jpeg
+800x800:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-800x800-imadypy6skxurzfz.jpeg
+maximumRetailPrice:[object Object]
+400x400:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-400x400-imadypy6skxurzfz.jpeg
+currency:INR
+200x200:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-200x200-imadypy6skxurzfz.jpeg
+amount:225
+currency:INR
+sellingPrice:[object Object]
+amount:214
+productUrl:http://dl.flipkart.com/dl/the-secret-of-the-nagas/p/itmdbt2g6f2z3z2e?pid=9789381626603&affid=rakesha74
+productBrand:null
+emiAvailable:null
+inStock:true
+codAvailable:true
+isAvailable:true
+offers:
+cashBack:null
+discountPercentage:4
+color:
+sizeUnit:
+sizeVariants:[DGBDN37NMGZRGZTS, 9789381626603]
+styleCode:null
+colorVariants:[]
+1:[object Object]
+productShippingBaseInfo:[object Object]
+size:null
+productBaseInfo:[object Object]
+productIdentifier:[object Object]
+productId:9789383260126
+categoryPaths:[object Object]
+0:[object Object]
+shippingOptions:null
+title:
+offset:null
+categoryPath:[object Object]
+title:The Immortals of Meluha (English)
+0:[object Object]
+productAttributes:[object Object]
+400x400:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-400x400-imadmt3hypzqmufa.jpeg
+200x200:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-200x200-imadmt3hypzqmufa.jpeg
+productDescription:The story of a man whose fate led him to be considered a God. The mythical story of Shiva is brought into a new perspective in The Immortals of Meluha, the first in a fantasy trilogy. Summary of the Book When Meluha, an empire created centuries earlier by Lord Ram, is under threat from the Chandravanshis and the Nagas, her king, Daksha, sends emissaries to Tibet and asks the tribe there to help him. Among these tribes are the Gunas, and their chief Shiva is a mighty warrior. He moves to Srinagar and in a curious coincidence that sees him alone of all his tribe unaffected by a high fever, Shiva’s throat turns blue and the Meluhans announce him as Neelakanth, their fabled mythic savior. The book begins the story of his life, and how he comes to accept the title given to him, that of the God of Gods. About Amish Tripathi Amish Tripathi is a former Indian banker turned writer. The Secret of the Nagas and The Oath of the Vayuputras complete his Shiva Trilogy, which has since become a bestselling collection. An alumnus of St. Xavier’s College, Mumbai and the Indian Institute of Management Calcutta, he currently lives in Mumbai with his wife and son.
+800x800:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-800x800-imadmt3hypzqmufa.jpeg
+imageUrls:[object Object]
+maximumRetailPrice:[object Object]
+sellingPrice:[object Object]
+currency:INR
+amount:245
+productUrl:http://dl.flipkart.com/dl/immortals-meluha-english/p/itmdx93rf3nctndh?pid=9789383260126&affid=rakesha74
+currency:INR
+productBrand:null
+inStock:true
+codAvailable:true
+discountPercentage:50
+isAvailable:true
+emiAvailable:null
+cashBack:null
+size:null
+amount:495
+sizeVariants:[9789380658742, 9789383260126]
+offers:
+sizeUnit:
+colorVariants:[]
+shippingOptions:null
+productShippingBaseInfo:[object Object]
+color:
+styleCode:null
+offset:null
+productBaseInfo:[object Object]
+unknown:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-original-imadmt3hypzqmufa.jpeg
+productId:9789381626344
+categoryPaths:[object Object]
+0:[object Object]
+categoryPath:[object Object]
+title:
+2:[object Object]
+productAttributes:[object Object]
+productDescription:The Secret of The Nagas is the second book in the Shiva trilogy and is a sequel to The Immortals of Meluha. Summary Of The Book The Secret of the Nagas begins with Shiva trying to save Sati from a Naga attack. His quest for the Naga warrior who killed Brahaspati and assaulted Sati leads Shiva and Sati to the land of the Brangas. In The Secret of Nagas, Shiva the prophesied savior of the Meluhan Empire finds himself in a turbulent situation trying to avenge the murder of his friend and saving his clan and the people of Meluha from the evil serpent people. His journey takes him across the lengths and breadths of the ancient India, searching for the truth and answers to all his intriguing questions. He travels to Kashi to find every bit of detail about the Nagas. He comes to learn about the reason behind the alliance between the Brangas and the Nagas. Both Shiva and Sati eventually discover startling secrets that have profound effects on both their lives and relationship. With a war brewing in the backdrop, will Shiva be able to accept the truth and live up to the expectations attached to him? About Amish Tripathi Amish Tripathi, is an Indian author who gave up a flourishing career to fulfill his dream of becoming a writer. He is an alumnus of IIM (Kolkata) and was working in the financial services industry for over 14 years. He has authored the famous Shiva Trilogy, which earned him both commercial and critical appreciation. His style of writing is a fresh blend of philosophy, mythology, karma and myth, which has given birth to a new era of literature in India. He is currently based out of Mumbai where he stays with his wife and son. Amish has sold the movie rights of The Immortals of Meluha to Dharma Productions.
+title:The Secret of the Nagas (English)
+400x400:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-400x400-imadj3vhkvzdxjkn.jpeg
+imageUrls:[object Object]
+unknown:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-original-imadj3vhkvzdxjkn.jpeg
+0:[object Object]
+200x200:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-200x200-imadj3vhkvzdxjkn.jpeg
+maximumRetailPrice:[object Object]
+800x800:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-800x800-imadj3vhkvzdxjkn.jpeg
+sellingPrice:[object Object]
+amount:280
+productUrl:http://dl.flipkart.com/dl/secret-nagas-english/p/itme2mypddk9fphk?pid=9789381626344&affid=rakesha74
+currency:INR
+currency:INR
+productBrand:null
+isAvailable:true
+codAvailable:true
+inStock:true
+discountPercentage:5
+offers:
+amount:295
+cashBack:null
+emiAvailable:null
+size:null
+sizeVariants:[9789380658799, DGBDFFRFVGQVVBFW, 9789381626344]
+sizeUnit:
+colorVariants:[]
+productShippingBaseInfo:[object Object]
+offset:null
+styleCode:null
+shippingOptions:null
+3:[object Object]
+productBaseInfo:[object Object]
+productIdentifier:[object Object]
+categoryPaths:[object Object]
+categoryPath:[object Object]
+0:[object Object]
+productId:9789384030087
+productAttributes:[object Object]
+color:
+0:[object Object]
+title:The Secret of the Nagas
+productDescription:The Shiva Trilogy continues with The Secret of the Nagas. This edition presents the Bengali translation of the English version. Summary of the Book There was a time when even the mighty Shiva, Destroyer of Worlds, was just a man. 4000 years ago, he was a Tibetan immigrant, long prophesied to become a god. He reels from the anger at the death of his friend Brihaspati. Now that very Naga assassin stalks his beloved wife, Sati. However, Shiva does not have time to rest. A kingdom is held to ransom even as it is dying. It needs a miracle drug, and only Shiva can find the answers. The seemingly ideal kingdom of Meluha seems to About Amish Tripathi Amish Tripathi is a former Indian banker turned writer. The Shiva Trilogy began with The Immortals of Meluha and ends with The Oath of the Vayuputras. An alumnus of St. Xavier’s College, Mumbai and the Indian Institute of Management Calcutta, he currently lives in Mumbai with his wife and son.
+imageUrls:[object Object]
+200x200:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-200x200-imadzyfxzhfdhhzv.jpeg
+unknown:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-original-imadzyfxzhfdhhzv.jpeg
+maximumRetailPrice:[object Object]
+productIdentifier:[object Object]
+800x800:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-800x800-imadzyfxzhfdhhzv.jpeg
+400x400:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-400x400-imadzyfxzhfdhhzv.jpeg
+amount:250
+currency:INR
+sellingPrice:[object Object]
+productBrand:null
+productUrl:http://dl.flipkart.com/dl/the-secret-of-the-nagas/p/itmdzvmxkvr6pt2p?pid=9789384030087&affid=rakesha74
+isAvailable:true
+inStock:true
+codAvailable:true
+emiAvailable:null
+discountPercentage:0
+cashBack:null
+offers:
+size:null
+sizeUnit:
+amount:250
+colorVariants:[]
+currency:INR
+sizeVariants:[9789384030087]
+styleCode:null
+productShippingBaseInfo:[object Object]
+shippingOptions:null
+offset:null
+productBaseInfo:[object Object]
+title:
+4:[object Object]
+productIdentifier:[object Object]
+color:
+categoryPaths:[object Object]
+categoryPath:[object Object]
+0:[object Object]
+0:[object Object]
+productAttributes:[object Object]
+title:
+title:The Oath of the Vayuputras: Shiva Trilogy 3 (English)
+productDescription:India’s own super hero is finally here. Shiva has risen yet again to destroy the evildoers. The last of the Shiva Trilogy, this book promises to keep the readers gripped while the great warrior discovers who his true enemies are and gives it his all to destroy them. Summary of the Book The Oath of the Vayuputras is the final book of the Shiva Trilogy. In the earlier books of the trilogy, Shiva finds out that the Nagas are not his enemies and joins hands with them to reach the root of all evil. This book will have answers to ‘the Neelkanth’s’ questions about his fate, the choices he made previously and karma. Further, in the concluding book of the trilogy, Shiva reaches Panchavati, the capital of Naga where he will come face to face with his greatest enemy. Will he win the battle over his wicked enemies, who are out to destroy him and his legacy? The Oath of the Vayuputras will also reveal the reason of Shiva’s close friend Brahaspati’s disappearance and reappearance at the end of the second book, The Secret of the Nagas. Further the relationship between Daksha, the king of Meluha and the mysterious temple priests will also be exposed in this last part of the trilogy. Shiva seeks helps from the Vayuputras in the quest to conquer all evil. The great warrior will encounter the real intentions of some characters he deemed to be close to him. Some new characters will add that extra vitality to the entire plot, especially Shiva’s greatest enemy whose name sends shivers down the spines of many great warriors. An interesting journey of a warrior who is turned into a God by his followers because of his deeds and war against the evil, this book is sure to have its readers’ full attention. A good read which will make one reflect on their actions, this book like the two earlier books of the trilogy focuses on philosophy, religion and the never ending battle between the good and the evil. About Amish Tripathi Amish Tripathi, is an author who gave up his banking job to live his dream of becoming a writer. He is an IIM (Kolkata) graduate and worked for 14 years in the financial services industry. He has penned down three books as part of the Shiva Trilogy 3, which have received raving reviews and critical appreciation. His style of writing is fresh and has given birth to a new era of literature in India. With philosophy, religion, karma and myth as his main areas of focus, Amish has weaved his plots around them and conquered the hearts of many readers with his riveting ideas. Amish lives with his wife Preethi and son Neel in Mumbai. As is evident from his books, Amish has a passion for religion, philosophy, mythology and history.
+imageUrls:[object Object]
+400x400:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-400x400-imadgmydkbypuwwn.jpeg
+200x200:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-200x200-imadgmydkbypuwwn.jpeg
+unknown:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-original-imadgmydkbypuwwn.jpeg
+maximumRetailPrice:[object Object]
+800x800:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-800x800-imadgmydkbypuwwn.jpeg
+sellingPrice:[object Object]
+productId:9789382618348
+currency:INR
+productUrl:http://dl.flipkart.com/dl/oath-vayuputras-shiva-trilogy-3-english/p/itmedwknqyp4ezaz?pid=9789382618348&affid=rakesha74
+amount:395
+productBrand:null
+amount:336
+isAvailable:true
+emiAvailable:null
+codAvailable:true
+currency:INR
+cashBack:null
+color:
+inStock:true
+sizeUnit:
+sizeVariants:[9789383134007, DGBDGHYAQM3XRRV6, DGBDYCPRKHGXZ3Y8, 9789382618348]
+offers:
+size:null
+colorVariants:[]
+discountPercentage:14
+productShippingBaseInfo:[object Object]
+styleCode:null
+offset:null
+shippingOptions:null
+productInfoList:[object Object],[object Object],[object Object],[object Object],[object Object]
+0:[object Object]
+productBaseInfo:[object Object]
+productIdentifier:[object Object]
+productId:9789381626603
+categoryPaths:[object Object]
+categoryPath:[object Object]
+0:[object Object]
+0:[object Object]
+title:
+productAttributes:[object Object]
+title:The secret of the nagas
+imageUrls:[object Object]
+400x400:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-400x400-imadypy6skxurzfz.jpeg
+200x200:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-200x200-imadypy6skxurzfz.jpeg
+productDescription:Today, He is a God. 4000 years ago, He was just a man. The hunt is on. The sinister Naga warrior has killed his friend Brahaspati and now stalks his wife Sati. Shiva, the Tibetan immigrant who is the prophesied destroyer of evil, will not rest till he finds his demonic adversary. His vengeance and the path to evil will lead him to the door of the Nagas, the serpent people. Of that he is certain. The evidence of the malevolent rise of evil is everywhere. A kingdom is dying as it is held to ransom for a miracle drug. A crown prince is murdered. The Vasudevs – Shiva’s philosopher guides – betray his unquestioning faith as they take the aid of the dark side. Even the perfect empire, Meluha is riddled with a terrible secret in Maika, the city of births. Unknown to Shiva, a master puppeteer is playing a grand game. In a journey that will take him across the length and breadth of ancient India, Shiva searches for the truth in a land of deadly mysteries – only to find that nothing is what it seems. Fierce battles will be fought. Surprising alliances will be forged. Unbelievable secrets will be revealed in this second book of the Shiva Trilogy, the sequel to the #1 national bestseller, The Immortals of Meluha. About The Author Amish Tripathi is a 36-year-old, IIM (Kolkata) educated boring banker turned happy author. The success of his debut book, The Immortals of Meluha (Book 1 of the Shiva Trilogy), encouraged him to give up a fourteen year old career in financial services to focus on writing. He is passionate about history, mythology and philosophy. He believes there is beauty and meaning in all world cultures and religions. The Secret of the Nagas is the second book of the Shiva Trilogy. Amish lives in Mumbai with his wife Preeti and son Neel. He is presently working on the third book of the Shiva Trilogy, The Oath of the Vayuputras.
+800x800:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-800x800-imadypy6skxurzfz.jpeg
+unknown:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-original-imadypy6skxurzfz.jpeg
+amount:225
+maximumRetailPrice:[object Object]
+currency:INR
+amount:214
+sellingPrice:[object Object]
+currency:INR
+productBrand:null
+productUrl:http://dl.flipkart.com/dl/the-secret-of-the-nagas/p/itmdbt2g6f2z3z2e?pid=9789381626603&affid=rakesha74
+inStock:true
+codAvailable:true
+isAvailable:true
+emiAvailable:null
+cashBack:null
+discountPercentage:4
+offers:
+sizeUnit:
+size:null
+sizeVariants:[DGBDN37NMGZRGZTS, 9789381626603]
+colorVariants:[]
+styleCode:null
+shippingOptions:null
+productShippingBaseInfo:[object Object]
+offset:null
+1:[object Object]
+productBaseInfo:[object Object]
+productId:9789383260126
+productIdentifier:[object Object]
+categoryPaths:[object Object]
+0:[object Object]
+categoryPath:[object Object]
+0:[object Object]
+title:
+productAttributes:[object Object]
+title:The Immortals of Meluha (English)
+productDescription:The story of a man whose fate led him to be considered a God. The mythical story of Shiva is brought into a new perspective in The Immortals of Meluha, the first in a fantasy trilogy. Summary of the Book When Meluha, an empire created centuries earlier by Lord Ram, is under threat from the Chandravanshis and the Nagas, her king, Daksha, sends emissaries to Tibet and asks the tribe there to help him. Among these tribes are the Gunas, and their chief Shiva is a mighty warrior. He moves to Srinagar and in a curious coincidence that sees him alone of all his tribe unaffected by a high fever, Shiva’s throat turns blue and the Meluhans announce him as Neelakanth, their fabled mythic savior. The book begins the story of his life, and how he comes to accept the title given to him, that of the God of Gods. About Amish Tripathi Amish Tripathi is a former Indian banker turned writer. The Secret of the Nagas and The Oath of the Vayuputras complete his Shiva Trilogy, which has since become a bestselling collection. An alumnus of St. Xavier’s College, Mumbai and the Indian Institute of Management Calcutta, he currently lives in Mumbai with his wife and son.
+imageUrls:[object Object]
+400x400:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-400x400-imadmt3hypzqmufa.jpeg
+200x200:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-200x200-imadmt3hypzqmufa.jpeg
+unknown:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-original-imadmt3hypzqmufa.jpeg
+800x800:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-800x800-imadmt3hypzqmufa.jpeg
+maximumRetailPrice:[object Object]
+amount:495
+currency:INR
+sellingPrice:[object Object]
+amount:245
+currency:INR
+productUrl:http://dl.flipkart.com/dl/immortals-meluha-english/p/itmdx93rf3nctndh?pid=9789383260126&affid=rakesha74
+productBrand:null
+inStock:true
+isAvailable:true
+codAvailable:true
+emiAvailable:null
+discountPercentage:50
+cashBack:null
+offers:
+size:null
+color:
+sizeUnit:
+sizeVariants:[9789380658742, 9789383260126]
+colorVariants:[]
+styleCode:null
+productShippingBaseInfo:[object Object]
+shippingOptions:null
+offset:null
+2:[object Object]
+productBaseInfo:[object Object]
+productIdentifier:[object Object]
+productId:9789381626344
+categoryPaths:[object Object]
+categoryPath:[object Object]
+0:[object Object]
+0:[object Object]
+title:
+productAttributes:[object Object]
+title:The Secret of the Nagas (English)
+productDescription:The Secret of The Nagas is the second book in the Shiva trilogy and is a sequel to The Immortals of Meluha. Summary Of The Book The Secret of the Nagas begins with Shiva trying to save Sati from a Naga attack. His quest for the Naga warrior who killed Brahaspati and assaulted Sati leads Shiva and Sati to the land of the Brangas. In The Secret of Nagas, Shiva the prophesied savior of the Meluhan Empire finds himself in a turbulent situation trying to avenge the murder of his friend and saving his clan and the people of Meluha from the evil serpent people. His journey takes him across the lengths and breadths of the ancient India, searching for the truth and answers to all his intriguing questions. He travels to Kashi to find every bit of detail about the Nagas. He comes to learn about the reason behind the alliance between the Brangas and the Nagas. Both Shiva and Sati eventually discover startling secrets that have profound effects on both their lives and relationship. With a war brewing in the backdrop, will Shiva be able to accept the truth and live up to the expectations attached to him? About Amish Tripathi Amish Tripathi, is an Indian author who gave up a flourishing career to fulfill his dream of becoming a writer. He is an alumnus of IIM (Kolkata) and was working in the financial services industry for over 14 years. He has authored the famous Shiva Trilogy, which earned him both commercial and critical appreciation. His style of writing is a fresh blend of philosophy, mythology, karma and myth, which has given birth to a new era of literature in India. He is currently based out of Mumbai where he stays with his wife and son. Amish has sold the movie rights of The Immortals of Meluha to Dharma Productions.
+imageUrls:[object Object]
+400x400:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-400x400-imadj3vhkvzdxjkn.jpeg
+200x200:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-200x200-imadj3vhkvzdxjkn.jpeg
+unknown:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-original-imadj3vhkvzdxjkn.jpeg
+800x800:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-800x800-imadj3vhkvzdxjkn.jpeg
+maximumRetailPrice:[object Object]
+amount:295
+currency:INR
+sellingPrice:[object Object]
+amount:280
+currency:INR
+productUrl:http://dl.flipkart.com/dl/secret-nagas-english/p/itme2mypddk9fphk?pid=9789381626344&affid=rakesha74
+productBrand:null
+inStock:true
+isAvailable:true
+codAvailable:true
+emiAvailable:null
+cashBack:null
+offers:
+discountPercentage:5
+size:null
+sizeUnit:
+color:
+sizeVariants:[9789380658799, DGBDFFRFVGQVVBFW, 9789381626344]
+styleCode:null
+colorVariants:[]
+productShippingBaseInfo:[object Object]
+shippingOptions:null
+offset:null
+productBaseInfo:[object Object]
+3:[object Object]
+productIdentifier:[object Object]
+categoryPaths:[object Object]
+productId:9789384030087
+categoryPath:[object Object]
+0:[object Object]
+0:[object Object]
+title:
+productAttributes:[object Object]
+productDescription:The Shiva Trilogy continues with The Secret of the Nagas. This edition presents the Bengali translation of the English version. Summary of the Book There was a time when even the mighty Shiva, Destroyer of Worlds, was just a man. 4000 years ago, he was a Tibetan immigrant, long prophesied to become a god. He reels from the anger at the death of his friend Brihaspati. Now that very Naga assassin stalks his beloved wife, Sati. However, Shiva does not have time to rest. A kingdom is held to ransom even as it is dying. It needs a miracle drug, and only Shiva can find the answers. The seemingly ideal kingdom of Meluha seems to About Amish Tripathi Amish Tripathi is a former Indian banker turned writer. The Shiva Trilogy began with The Immortals of Meluha and ends with The Oath of the Vayuputras. An alumnus of St. Xavier’s College, Mumbai and the Indian Institute of Management Calcutta, he currently lives in Mumbai with his wife and son.
+title:The Secret of the Nagas
+imageUrls:[object Object]
+400x400:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-400x400-imadzyfxzhfdhhzv.jpeg
+200x200:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-200x200-imadzyfxzhfdhhzv.jpeg
+unknown:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-original-imadzyfxzhfdhhzv.jpeg
+800x800:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-800x800-imadzyfxzhfdhhzv.jpeg
+currency:INR
+amount:250
+sellingPrice:[object Object]
+amount:250
+currency:INR
+productBrand:null
+productUrl:http://dl.flipkart.com/dl/the-secret-of-the-nagas/p/itmdzvmxkvr6pt2p?pid=9789384030087&affid=rakesha74
+inStock:true
+isAvailable:true
+codAvailable:true
+discountPercentage:0
+emiAvailable:null
+cashBack:null
+offers:
+size:null
+sizeUnit:
+color:
+sizeVariants:[9789384030087]
+colorVariants:[]
+styleCode:null
+shippingOptions:null
+productShippingBaseInfo:[object Object]
+offset:null
+productBaseInfo:[object Object]
+maximumRetailPrice:[object Object]
+categoryPaths:[object Object]
+productIdentifier:[object Object]
+0:[object Object]
+productId:9789382618348
+title:
+categoryPath:[object Object]
+productAttributes:[object Object]
+title:The Oath of the Vayuputras: Shiva Trilogy 3 (English)
+productDescription:India’s own super hero is finally here. Shiva has risen yet again to destroy the evildoers. The last of the Shiva Trilogy, this book promises to keep the readers gripped while the great warrior discovers who his true enemies are and gives it his all to destroy them. Summary of the Book The Oath of the Vayuputras is the final book of the Shiva Trilogy. In the earlier books of the trilogy, Shiva finds out that the Nagas are not his enemies and joins hands with them to reach the root of all evil. This book will have answers to ‘the Neelkanth’s’ questions about his fate, the choices he made previously and karma. Further, in the concluding book of the trilogy, Shiva reaches Panchavati, the capital of Naga where he will come face to face with his greatest enemy. Will he win the battle over his wicked enemies, who are out to destroy him and his legacy? The Oath of the Vayuputras will also reveal the reason of Shiva’s close friend Brahaspati’s disappearance and reappearance at the end of the second book, The Secret of the Nagas. Further the relationship between Daksha, the king of Meluha and the mysterious temple priests will also be exposed in this last part of the trilogy. Shiva seeks helps from the Vayuputras in the quest to conquer all evil. The great warrior will encounter the real intentions of some characters he deemed to be close to him. Some new characters will add that extra vitality to the entire plot, especially Shiva’s greatest enemy whose name sends shivers down the spines of many great warriors. An interesting journey of a warrior who is turned into a God by his followers because of his deeds and war against the evil, this book is sure to have its readers’ full attention. A good read which will make one reflect on their actions, this book like the two earlier books of the trilogy focuses on philosophy, religion and the never ending battle between the good and the evil. About Amish Tripathi Amish Tripathi, is an author who gave up his banking job to live his dream of becoming a writer. He is an IIM (Kolkata) graduate and worked for 14 years in the financial services industry. He has penned down three books as part of the Shiva Trilogy 3, which have received raving reviews and critical appreciation. His style of writing is fresh and has given birth to a new era of literature in India. With philosophy, religion, karma and myth as his main areas of focus, Amish has weaved his plots around them and conquered the hearts of many readers with his riveting ideas. Amish lives with his wife Preethi and son Neel in Mumbai. As is evident from his books, Amish has a passion for religion, philosophy, mythology and history.
+400x400:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-400x400-imadgmydkbypuwwn.jpeg
+imageUrls:[object Object]
+200x200:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-200x200-imadgmydkbypuwwn.jpeg
+800x800:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-800x800-imadgmydkbypuwwn.jpeg
+unknown:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-original-imadgmydkbypuwwn.jpeg
+4:[object Object]
+maximumRetailPrice:[object Object]
+currency:INR
+0:[object Object]
+sellingPrice:[object Object]
+currency:INR
+amount:336
+productUrl:http://dl.flipkart.com/dl/oath-vayuputras-shiva-trilogy-3-english/p/itmedwknqyp4ezaz?pid=9789382618348&affid=rakesha74
+color:
+productBrand:null
+inStock:true
+isAvailable:true
+amount:395
+codAvailable:true
+emiAvailable:null
+discountPercentage:14
+cashBack:null
+offers:
+size:null
+color:
+sizeUnit:
+sizeVariants:[9789383134007, DGBDGHYAQM3XRRV6, DGBDYCPRKHGXZ3Y8, 9789382618348]
+colorVariants:[]
+styleCode:null
+productShippingBaseInfo:[object Object]
+shippingOptions:null
+offset:null
+productInfoList:[object Object],[object Object],[object Object],[object Object],[object Object]
+0:[object Object]
+productBaseInfo:[object Object]
+productIdentifier:[object Object]
+categoryPaths:[object Object]
+productId:9789381626603
+categoryPath:[object Object]
+title:
+0:[object Object]
+productAttributes:[object Object]
+productDescription:Today, He is a God. 4000 years ago, He was just a man. The hunt is on. The sinister Naga warrior has killed his friend Brahaspati and now stalks his wife Sati. Shiva, the Tibetan immigrant who is the prophesied destroyer of evil, will not rest till he finds his demonic adversary. His vengeance and the path to evil will lead him to the door of the Nagas, the serpent people. Of that he is certain. The evidence of the malevolent rise of evil is everywhere. A kingdom is dying as it is held to ransom for a miracle drug. A crown prince is murdered. The Vasudevs – Shiva’s philosopher guides – betray his unquestioning faith as they take the aid of the dark side. Even the perfect empire, Meluha is riddled with a terrible secret in Maika, the city of births. Unknown to Shiva, a master puppeteer is playing a grand game. In a journey that will take him across the length and breadth of ancient India, Shiva searches for the truth in a land of deadly mysteries – only to find that nothing is what it seems. Fierce battles will be fought. Surprising alliances will be forged. Unbelievable secrets will be revealed in this second book of the Shiva Trilogy, the sequel to the #1 national bestseller, The Immortals of Meluha. About The Author Amish Tripathi is a 36-year-old, IIM (Kolkata) educated boring banker turned happy author. The success of his debut book, The Immortals of Meluha (Book 1 of the Shiva Trilogy), encouraged him to give up a fourteen year old career in financial services to focus on writing. He is passionate about history, mythology and philosophy. He believes there is beauty and meaning in all world cultures and religions. The Secret of the Nagas is the second book of the Shiva Trilogy. Amish lives in Mumbai with his wife Preeti and son Neel. He is presently working on the third book of the Shiva Trilogy, The Oath of the Vayuputras.
+title:The secret of the nagas
+400x400:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-400x400-imadypy6skxurzfz.jpeg
+200x200:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-200x200-imadypy6skxurzfz.jpeg
+unknown:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-original-imadypy6skxurzfz.jpeg
+800x800:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-800x800-imadypy6skxurzfz.jpeg
+maximumRetailPrice:[object Object]
+amount:225
+0:[object Object]
+sellingPrice:[object Object]
+imageUrls:[object Object]
+currency:INR
+amount:214
+currency:INR
+productUrl:http://dl.flipkart.com/dl/the-secret-of-the-nagas/p/itmdbt2g6f2z3z2e?pid=9789381626603&affid=rakesha74
+productBrand:null
+isAvailable:true
+codAvailable:true
+discountPercentage:4
+inStock:true
+emiAvailable:null
+cashBack:null
+color:
+offers:
+size:null
+sizeUnit:
+colorVariants:[]
+productShippingBaseInfo:[object Object]
+sizeVariants:[DGBDN37NMGZRGZTS, 9789381626603]
+shippingOptions:null
+styleCode:null
+1:[object Object]
+productBaseInfo:[object Object]
+productId:9789383260126
+categoryPaths:[object Object]
+0:[object Object]
+productIdentifier:[object Object]
+productAttributes:[object Object]
+title:The Immortals of Meluha (English)
+title:
+productDescription:The story of a man whose fate led him to be considered a God. The mythical story of Shiva is brought into a new perspective in The Immortals of Meluha, the first in a fantasy trilogy. Summary of the Book When Meluha, an empire created centuries earlier by Lord Ram, is under threat from the Chandravanshis and the Nagas, her king, Daksha, sends emissaries to Tibet and asks the tribe there to help him. Among these tribes are the Gunas, and their chief Shiva is a mighty warrior. He moves to Srinagar and in a curious coincidence that sees him alone of all his tribe unaffected by a high fever, Shiva’s throat turns blue and the Meluhans announce him as Neelakanth, their fabled mythic savior. The book begins the story of his life, and how he comes to accept the title given to him, that of the God of Gods. About Amish Tripathi Amish Tripathi is a former Indian banker turned writer. The Secret of the Nagas and The Oath of the Vayuputras complete his Shiva Trilogy, which has since become a bestselling collection. An alumnus of St. Xavier’s College, Mumbai and the Indian Institute of Management Calcutta, he currently lives in Mumbai with his wife and son.
+400x400:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-400x400-imadmt3hypzqmufa.jpeg
+offset:null
+imageUrls:[object Object]
+unknown:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-original-imadmt3hypzqmufa.jpeg
+800x800:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-800x800-imadmt3hypzqmufa.jpeg
+currency:INR
+200x200:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-200x200-imadmt3hypzqmufa.jpeg
+sellingPrice:[object Object]
+maximumRetailPrice:[object Object]
+amount:495
+currency:INR
+productUrl:http://dl.flipkart.com/dl/immortals-meluha-english/p/itmdx93rf3nctndh?pid=9789383260126&affid=rakesha74
+productBrand:null
+inStock:true
+isAvailable:true
+codAvailable:true
+emiAvailable:null
+discountPercentage:50
+cashBack:null
+size:null
+amount:245
+color:
+sizeUnit:
+sizeVariants:[9789380658742, 9789383260126]
+colorVariants:[]
+productShippingBaseInfo:[object Object]
+styleCode:null
+shippingOptions:null
+2:[object Object]
+offset:null
+productBaseInfo:[object Object]
+categoryPath:[object Object]
+offers:
+0:[object Object]
+productIdentifier:[object Object]
+categoryPath:[object Object]
+categoryPaths:[object Object]
+productId:9789381626344
+0:[object Object]
+title:The Secret of the Nagas (English)
+productDescription:The Secret of The Nagas is the second book in the Shiva trilogy and is a sequel to The Immortals of Meluha. Summary Of The Book The Secret of the Nagas begins with Shiva trying to save Sati from a Naga attack. His quest for the Naga warrior who killed Brahaspati and assaulted Sati leads Shiva and Sati to the land of the Brangas. In The Secret of Nagas, Shiva the prophesied savior of the Meluhan Empire finds himself in a turbulent situation trying to avenge the murder of his friend and saving his clan and the people of Meluha from the evil serpent people. His journey takes him across the lengths and breadths of the ancient India, searching for the truth and answers to all his intriguing questions. He travels to Kashi to find every bit of detail about the Nagas. He comes to learn about the reason behind the alliance between the Brangas and the Nagas. Both Shiva and Sati eventually discover startling secrets that have profound effects on both their lives and relationship. With a war brewing in the backdrop, will Shiva be able to accept the truth and live up to the expectations attached to him? About Amish Tripathi Amish Tripathi, is an Indian author who gave up a flourishing career to fulfill his dream of becoming a writer. He is an alumnus of IIM (Kolkata) and was working in the financial services industry for over 14 years. He has authored the famous Shiva Trilogy, which earned him both commercial and critical appreciation. His style of writing is a fresh blend of philosophy, mythology, karma and myth, which has given birth to a new era of literature in India. He is currently based out of Mumbai where he stays with his wife and son. Amish has sold the movie rights of The Immortals of Meluha to Dharma Productions.
+imageUrls:[object Object]
+400x400:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-400x400-imadj3vhkvzdxjkn.jpeg
+200x200:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-200x200-imadj3vhkvzdxjkn.jpeg
+productAttributes:[object Object]
+800x800:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-800x800-imadj3vhkvzdxjkn.jpeg
+title:
+0:[object Object]
+unknown:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-original-imadj3vhkvzdxjkn.jpeg
+maximumRetailPrice:[object Object]
+sellingPrice:[object Object]
+currency:INR
+productUrl:http://dl.flipkart.com/dl/secret-nagas-english/p/itme2mypddk9fphk?pid=9789381626344&affid=rakesha74
+inStock:true
+productBrand:null
+currency:INR
+isAvailable:true
+emiAvailable:null
+codAvailable:true
+cashBack:null
+discountPercentage:5
+amount:295
+size:null
+offers:
+sizeUnit:
+sizeVariants:[9789380658799, DGBDFFRFVGQVVBFW, 9789381626344]
+color:
+styleCode:null
+productShippingBaseInfo:[object Object]
+shippingOptions:null
+colorVariants:[]
+offset:null
+amount:280
+productIdentifier:[object Object]
+categoryPaths:[object Object]
+0:[object Object]
+categoryPath:[object Object]
+productId:9789384030087
+productBaseInfo:[object Object]
+3:[object Object]
+title:The Secret of the Nagas
+0:[object Object]
+productDescription:The Shiva Trilogy continues with The Secret of the Nagas. This edition presents the Bengali translation of the English version. Summary of the Book There was a time when even the mighty Shiva, Destroyer of Worlds, was just a man. 4000 years ago, he was a Tibetan immigrant, long prophesied to become a god. He reels from the anger at the death of his friend Brihaspati. Now that very Naga assassin stalks his beloved wife, Sati. However, Shiva does not have time to rest. A kingdom is held to ransom even as it is dying. It needs a miracle drug, and only Shiva can find the answers. The seemingly ideal kingdom of Meluha seems to About Amish Tripathi Amish Tripathi is a former Indian banker turned writer. The Shiva Trilogy began with The Immortals of Meluha and ends with The Oath of the Vayuputras. An alumnus of St. Xavier’s College, Mumbai and the Indian Institute of Management Calcutta, he currently lives in Mumbai with his wife and son.
+400x400:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-400x400-imadzyfxzhfdhhzv.jpeg
+title:
+productAttributes:[object Object]
+unknown:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-original-imadzyfxzhfdhhzv.jpeg
+200x200:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-200x200-imadzyfxzhfdhhzv.jpeg
+imageUrls:[object Object]
+maximumRetailPrice:[object Object]
+800x800:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-800x800-imadzyfxzhfdhhzv.jpeg
+amount:250
+currency:INR
+productUrl:http://dl.flipkart.com/dl/the-secret-of-the-nagas/p/itmdzvmxkvr6pt2p?pid=9789384030087&affid=rakesha74
+productBrand:null
+amount:250
+currency:INR
+codAvailable:true
+emiAvailable:null
+discountPercentage:0
+offers:
+inStock:true
+sellingPrice:[object Object]
+cashBack:null
+isAvailable:true
+color:
+sizeVariants:[9789384030087]
+styleCode:null
+colorVariants:[]
+sizeUnit:
+shippingOptions:null
+productShippingBaseInfo:[object Object]
+offset:null
+productBaseInfo:[object Object]
+4:[object Object]
+productId:9789382618348
+categoryPaths:[object Object]
+productIdentifier:[object Object]
+categoryPath:[object Object]
+0:[object Object]
+size:null
+0:[object Object]
+productAttributes:[object Object]
+title:The Oath of the Vayuputras: Shiva Trilogy 3 (English)
+productDescription:India’s own super hero is finally here. Shiva has risen yet again to destroy the evildoers. The last of the Shiva Trilogy, this book promises to keep the readers gripped while the great warrior discovers who his true enemies are and gives it his all to destroy them. Summary of the Book The Oath of the Vayuputras is the final book of the Shiva Trilogy. In the earlier books of the trilogy, Shiva finds out that the Nagas are not his enemies and joins hands with them to reach the root of all evil. This book will have answers to ‘the Neelkanth’s’ questions about his fate, the choices he made previously and karma. Further, in the concluding book of the trilogy, Shiva reaches Panchavati, the capital of Naga where he will come face to face with his greatest enemy. Will he win the battle over his wicked enemies, who are out to destroy him and his legacy? The Oath of the Vayuputras will also reveal the reason of Shiva’s close friend Brahaspati’s disappearance and reappearance at the end of the second book, The Secret of the Nagas. Further the relationship between Daksha, the king of Meluha and the mysterious temple priests will also be exposed in this last part of the trilogy. Shiva seeks helps from the Vayuputras in the quest to conquer all evil. The great warrior will encounter the real intentions of some characters he deemed to be close to him. Some new characters will add that extra vitality to the entire plot, especially Shiva’s greatest enemy whose name sends shivers down the spines of many great warriors. An interesting journey of a warrior who is turned into a God by his followers because of his deeds and war against the evil, this book is sure to have its readers’ full attention. A good read which will make one reflect on their actions, this book like the two earlier books of the trilogy focuses on philosophy, religion and the never ending battle between the good and the evil. About Amish Tripathi Amish Tripathi, is an author who gave up his banking job to live his dream of becoming a writer. He is an IIM (Kolkata) graduate and worked for 14 years in the financial services industry. He has penned down three books as part of the Shiva Trilogy 3, which have received raving reviews and critical appreciation. His style of writing is fresh and has given birth to a new era of literature in India. With philosophy, religion, karma and myth as his main areas of focus, Amish has weaved his plots around them and conquered the hearts of many readers with his riveting ideas. Amish lives with his wife Preethi and son Neel in Mumbai. As is evident from his books, Amish has a passion for religion, philosophy, mythology and history.
+title:
+imageUrls:[object Object]
+200x200:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-200x200-imadgmydkbypuwwn.jpeg
+unknown:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-original-imadgmydkbypuwwn.jpeg
+amount:395
+800x800:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-800x800-imadgmydkbypuwwn.jpeg
+currency:INR
+400x400:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-400x400-imadgmydkbypuwwn.jpeg
+maximumRetailPrice:[object Object]
+amount:336
+currency:INR
+sellingPrice:[object Object]
+productUrl:http://dl.flipkart.com/dl/oath-vayuputras-shiva-trilogy-3-english/p/itmedwknqyp4ezaz?pid=9789382618348&affid=rakesha74
+productBrand:null
+emiAvailable:null
+discountPercentage:14
+cashBack:null
+codAvailable:true
+inStock:true
+isAvailable:true
+size:null
+color:
+colorVariants:[]
+sizeUnit:
+styleCode:null
+productShippingBaseInfo:[object Object]
+sizeVariants:[9789383134007, DGBDGHYAQM3XRRV6, DGBDYCPRKHGXZ3Y8, 9789382618348]
+shippingOptions:null
+offset:null
+offers:
+productInfoList:[object Object],[object Object],[object Object],[object Object],[object Object]
+0:[object Object]
+productIdentifier:[object Object]
+productId:9789381626603
+categoryPaths:[object Object]
+categoryPath:[object Object]
+0:[object Object]
+0:[object Object]
+title:
+productAttributes:[object Object]
+title:The secret of the nagas
+productDescription:Today, He is a God. 4000 years ago, He was just a man. The hunt is on. The sinister Naga warrior has killed his friend Brahaspati and now stalks his wife Sati. Shiva, the Tibetan immigrant who is the prophesied destroyer of evil, will not rest till he finds his demonic adversary. His vengeance and the path to evil will lead him to the door of the Nagas, the serpent people. Of that he is certain. The evidence of the malevolent rise of evil is everywhere. A kingdom is dying as it is held to ransom for a miracle drug. A crown prince is murdered. The Vasudevs – Shiva’s philosopher guides – betray his unquestioning faith as they take the aid of the dark side. Even the perfect empire, Meluha is riddled with a terrible secret in Maika, the city of births. Unknown to Shiva, a master puppeteer is playing a grand game. In a journey that will take him across the length and breadth of ancient India, Shiva searches for the truth in a land of deadly mysteries – only to find that nothing is what it seems. Fierce battles will be fought. Surprising alliances will be forged. Unbelievable secrets will be revealed in this second book of the Shiva Trilogy, the sequel to the #1 national bestseller, The Immortals of Meluha. About The Author Amish Tripathi is a 36-year-old, IIM (Kolkata) educated boring banker turned happy author. The success of his debut book, The Immortals of Meluha (Book 1 of the Shiva Trilogy), encouraged him to give up a fourteen year old career in financial services to focus on writing. He is passionate about history, mythology and philosophy. He believes there is beauty and meaning in all world cultures and religions. The Secret of the Nagas is the second book of the Shiva Trilogy. Amish lives in Mumbai with his wife Preeti and son Neel. He is presently working on the third book of the Shiva Trilogy, The Oath of the Vayuputras.
+400x400:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-400x400-imadypy6skxurzfz.jpeg
+200x200:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-200x200-imadypy6skxurzfz.jpeg
+unknown:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-original-imadypy6skxurzfz.jpeg
+800x800:http://img.fkcdn.com/image/book/6/0/3/the-secret-of-the-nagas-800x800-imadypy6skxurzfz.jpeg
+amount:225
+maximumRetailPrice:[object Object]
+sellingPrice:[object Object]
+productBaseInfo:[object Object]
+currency:INR
+imageUrls:[object Object]
+productUrl:http://dl.flipkart.com/dl/the-secret-of-the-nagas/p/itmdbt2g6f2z3z2e?pid=9789381626603&affid=rakesha74
+productBrand:null
+isAvailable:true
+codAvailable:true
+emiAvailable:null
+inStock:true
+discountPercentage:4
+offers:
+cashBack:null
+color:
+currency:INR
+sizeUnit:
+sizeVariants:[DGBDN37NMGZRGZTS, 9789381626603]
+amount:214
+colorVariants:[]
+productShippingBaseInfo:[object Object]
+size:null
+offset:null
+productBaseInfo:[object Object]
+productIdentifier:[object Object]
+1:[object Object]
+productId:9789383260126
+categoryPaths:[object Object]
+0:[object Object]
+shippingOptions:null
+styleCode:null
+0:[object Object]
+title:The Immortals of Meluha (English)
+productDescription:The story of a man whose fate led him to be considered a God. The mythical story of Shiva is brought into a new perspective in The Immortals of Meluha, the first in a fantasy trilogy. Summary of the Book When Meluha, an empire created centuries earlier by Lord Ram, is under threat from the Chandravanshis and the Nagas, her king, Daksha, sends emissaries to Tibet and asks the tribe there to help him. Among these tribes are the Gunas, and their chief Shiva is a mighty warrior. He moves to Srinagar and in a curious coincidence that sees him alone of all his tribe unaffected by a high fever, Shiva’s throat turns blue and the Meluhans announce him as Neelakanth, their fabled mythic savior. The book begins the story of his life, and how he comes to accept the title given to him, that of the God of Gods. About Amish Tripathi Amish Tripathi is a former Indian banker turned writer. The Secret of the Nagas and The Oath of the Vayuputras complete his Shiva Trilogy, which has since become a bestselling collection. An alumnus of St. Xavier’s College, Mumbai and the Indian Institute of Management Calcutta, he currently lives in Mumbai with his wife and son.
+productAttributes:[object Object]
+200x200:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-200x200-imadmt3hypzqmufa.jpeg
+title:
+imageUrls:[object Object]
+400x400:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-400x400-imadmt3hypzqmufa.jpeg
+unknown:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-original-imadmt3hypzqmufa.jpeg
+800x800:http://img.fkcdn.com/image/book/1/2/6/the-immortals-of-meluha-800x800-imadmt3hypzqmufa.jpeg
+categoryPath:[object Object]
+maximumRetailPrice:[object Object]
+sellingPrice:[object Object]
+amount:245
+currency:INR
+productUrl:http://dl.flipkart.com/dl/immortals-meluha-english/p/itmdx93rf3nctndh?pid=9789383260126&affid=rakesha74
+productBrand:null
+inStock:true
+isAvailable:true
+codAvailable:true
+amount:495
+currency:INR
+discountPercentage:50
+size:null
+emiAvailable:null
+sizeUnit:
+cashBack:null
+sizeVariants:[9789380658742, 9789383260126]
+color:
+offers:
+colorVariants:[]
+productShippingBaseInfo:[object Object]
+styleCode:null
+productBaseInfo:[object Object]
+shippingOptions:null
+productIdentifier:[object Object]
+2:[object Object]
+productId:9789381626344
+0:[object Object]
+categoryPaths:[object Object]
+0:[object Object]
+productDescription:The Secret of The Nagas is the second book in the Shiva trilogy and is a sequel to The Immortals of Meluha. Summary Of The Book The Secret of the Nagas begins with Shiva trying to save Sati from a Naga attack. His quest for the Naga warrior who killed Brahaspati and assaulted Sati leads Shiva and Sati to the land of the Brangas. In The Secret of Nagas, Shiva the prophesied savior of the Meluhan Empire finds himself in a turbulent situation trying to avenge the murder of his friend and saving his clan and the people of Meluha from the evil serpent people. His journey takes him across the lengths and breadths of the ancient India, searching for the truth and answers to all his intriguing questions. He travels to Kashi to find every bit of detail about the Nagas. He comes to learn about the reason behind the alliance between the Brangas and the Nagas. Both Shiva and Sati eventually discover startling secrets that have profound effects on both their lives and relationship. With a war brewing in the backdrop, will Shiva be able to accept the truth and live up to the expectations attached to him? About Amish Tripathi Amish Tripathi, is an Indian author who gave up a flourishing career to fulfill his dream of becoming a writer. He is an alumnus of IIM (Kolkata) and was working in the financial services industry for over 14 years. He has authored the famous Shiva Trilogy, which earned him both commercial and critical appreciation. His style of writing is a fresh blend of philosophy, mythology, karma and myth, which has given birth to a new era of literature in India. He is currently based out of Mumbai where he stays with his wife and son. Amish has sold the movie rights of The Immortals of Meluha to Dharma Productions.
+offset:null
+imageUrls:[object Object]
+title:The Secret of the Nagas (English)
+400x400:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-400x400-imadj3vhkvzdxjkn.jpeg
+200x200:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-200x200-imadj3vhkvzdxjkn.jpeg
+productAttributes:[object Object]
+title:
+categoryPath:[object Object]
+800x800:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-800x800-imadj3vhkvzdxjkn.jpeg
+unknown:http://img.fkcdn.com/image/book/3/4/4/the-secret-of-the-nagas-original-imadj3vhkvzdxjkn.jpeg
+currency:INR
+maximumRetailPrice:[object Object]
+amount:280
+sellingPrice:[object Object]
+productUrl:http://dl.flipkart.com/dl/secret-nagas-english/p/itme2mypddk9fphk?pid=9789381626344&affid=rakesha74
+inStock:true
+productBrand:null
+currency:INR
+isAvailable:true
+emiAvailable:null
+discountPercentage:5
+codAvailable:true
+amount:295
+cashBack:null
+offers:
+sizeUnit:
+colorVariants:[]
+styleCode:null
+sizeVariants:[9789380658799, DGBDFFRFVGQVVBFW, 9789381626344]
+productShippingBaseInfo:[object Object]
+color:
+shippingOptions:null
+3:[object Object]
+productIdentifier:[object Object]
+productBaseInfo:[object Object]
+size:null
+productId:9789384030087
+categoryPath:[object Object]
+categoryPaths:[object Object]
+offset:null
+0:[object Object]
+productAttributes:[object Object]
+productDescription:The Shiva Trilogy continues with The Secret of the Nagas. This edition presents the Bengali translation of the English version. Summary of the Book There was a time when even the mighty Shiva, Destroyer of Worlds, was just a man. 4000 years ago, he was a Tibetan immigrant, long prophesied to become a god. He reels from the anger at the death of his friend Brihaspati. Now that very Naga assassin stalks his beloved wife, Sati. However, Shiva does not have time to rest. A kingdom is held to ransom even as it is dying. It needs a miracle drug, and only Shiva can find the answers. The seemingly ideal kingdom of Meluha seems to About Amish Tripathi Amish Tripathi is a former Indian banker turned writer. The Shiva Trilogy began with The Immortals of Meluha and ends with The Oath of the Vayuputras. An alumnus of St. Xavier’s College, Mumbai and the Indian Institute of Management Calcutta, he currently lives in Mumbai with his wife and son.
+imageUrls:[object Object]
+title:The Secret of the Nagas
+400x400:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-400x400-imadzyfxzhfdhhzv.jpeg
+unknown:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-original-imadzyfxzhfdhhzv.jpeg
+800x800:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-800x800-imadzyfxzhfdhhzv.jpeg
+maximumRetailPrice:[object Object]
+200x200:http://img.fkcdn.com/image/book/0/8/7/the-secret-of-the-nagas-200x200-imadzyfxzhfdhhzv.jpeg
+currency:INR
+0:[object Object]
+sellingPrice:[object Object]
+amount:250
+currency:INR
+productUrl:http://dl.flipkart.com/dl/the-secret-of-the-nagas/p/itmdzvmxkvr6pt2p?pid=9789384030087&affid=rakesha74
+productBrand:null
+inStock:true
+isAvailable:true
+codAvailable:true
+discountPercentage:0
+emiAvailable:null
+cashBack:null
+size:null
+amount:250
+offers:
+sizeUnit:
+sizeVariants:[9789384030087]
+colorVariants:[]
+productShippingBaseInfo:[object Object]
+title:
+styleCode:null
+offset:null
+4:[object Object]
+productBaseInfo:[object Object]
+productIdentifier:[object Object]
+productId:9789382618348
+categoryPaths:[object Object]
+color:
+categoryPath:[object Object]
+0:[object Object]
+shippingOptions:null
+title:The Oath of the Vayuputras: Shiva Trilogy 3 (English)
+title:
+0:[object Object]
+productAttributes:[object Object]
+productDescription:India’s own super hero is finally here. Shiva has risen yet again to destroy the evildoers. The last of the Shiva Trilogy, this book promises to keep the readers gripped while the great warrior discovers who his true enemies are and gives it his all to destroy them. Summary of the Book The Oath of the Vayuputras is the final book of the Shiva Trilogy. In the earlier books of the trilogy, Shiva finds out that the Nagas are not his enemies and joins hands with them to reach the root of all evil. This book will have answers to ‘the Neelkanth’s’ questions about his fate, the choices he made previously and karma. Further, in the concluding book of the trilogy, Shiva reaches Panchavati, the capital of Naga where he will come face to face with his greatest enemy. Will he win the battle over his wicked enemies, who are out to destroy him and his legacy? The Oath of the Vayuputras will also reveal the reason of Shiva’s close friend Brahaspati’s disappearance and reappearance at the end of the second book, The Secret of the Nagas. Further the relationship between Daksha, the king of Meluha and the mysterious temple priests will also be exposed in this last part of the trilogy. Shiva seeks helps from the Vayuputras in the quest to conquer all evil. The great warrior will encounter the real intentions of some characters he deemed to be close to him. Some new characters will add that extra vitality to the entire plot, especially Shiva’s greatest enemy whose name sends shivers down the spines of many great warriors. An interesting journey of a warrior who is turned into a God by his followers because of his deeds and war against the evil, this book is sure to have its readers’ full attention. A good read which will make one reflect on their actions, this book like the two earlier books of the trilogy focuses on philosophy, religion and the never ending battle between the good and the evil. About Amish Tripathi Amish Tripathi, is an author who gave up his banking job to live his dream of becoming a writer. He is an IIM (Kolkata) graduate and worked for 14 years in the financial services industry. He has penned down three books as part of the Shiva Trilogy 3, which have received raving reviews and critical appreciation. His style of writing is fresh and has given birth to a new era of literature in India. With philosophy, religion, karma and myth as his main areas of focus, Amish has weaved his plots around them and conquered the hearts of many readers with his riveting ideas. Amish lives with his wife Preethi and son Neel in Mumbai. As is evident from his books, Amish has a passion for religion, philosophy, mythology and history.
+imageUrls:[object Object]
+200x200:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-200x200-imadgmydkbypuwwn.jpeg
+unknown:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-original-imadgmydkbypuwwn.jpeg
+400x400:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-400x400-imadgmydkbypuwwn.jpeg
+amount:395
+maximumRetailPrice:[object Object]
+800x800:http://img.fkcdn.com/image/book/3/4/8/the-oath-of-the-vayuputras-shiva-trilogy-3-800x800-imadgmydkbypuwwn.jpeg
+currency:INR
+sellingPrice:[object Object]
+productUrl:http://dl.flipkart.com/dl/oath-vayuputras-shiva-trilogy-3-english/p/itmedwknqyp4ezaz?pid=9789382618348&affid=rakesha74
+inStock:true
+productBrand:null
+isAvailable:true
+codAvailable:true
+amount:336
+currency:INR
+cashBack:null
+emiAvailable:null
+offers:
+discountPercentage:14
+sizeUnit:
+sizeVariants:[9789383134007, DGBDGHYAQM3XRRV6, DGBDYCPRKHGXZ3Y8, 9789382618348]
+colorVariants:[]
+size:null
+productShippingBaseInfo:[object Object]
+styleCode:null
+shippingOptions:null
+color:
+offset:null

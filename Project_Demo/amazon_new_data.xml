@@ -1,0 +1,6141 @@
+ItemSearchResponse:[object Object]
+xmlns:http://webservices.amazon.com/AWSECommerceService/2011-08-01
+$:[object Object]
+OperationRequest:[object Object]
+0:[object Object]
+Arguments:[object Object]
+0:[object Object]
+Argument:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+0:[object Object]
+$:[object Object]
+0:6bcb4ac5-1768-4f09-8a02-a7e3f200f257
+Value:AKIAIEMV6LX5RSO7JDTA
+1:[object Object]
+$:[object Object]
+Name:AssociateTag
+Value:comaprebook09-21
+2:[object Object]
+$:[object Object]
+RequestId:6bcb4ac5-1768-4f09-8a02-a7e3f200f257
+Name:Keywords
+Name:AWSAccessKeyId
+$:[object Object]
+3:[object Object]
+Value:ItemSearch
+4:[object Object]
+Name:ResponseGroup
+Value:Images,ItemAttributes,Offers
+5:[object Object]
+$:[object Object]
+Name:SearchIndex
+$:[object Object]
+Value:Books
+Name:Operation
+$:[object Object]
+Name:Service
+Value:AWSECommerceService
+$:[object Object]
+Name:Timestamp
+6:[object Object]
+Value:2015-11-22T14:12:33.204Z
+8:[object Object]
+Value:Shiva Trilogy
+7:[object Object]
+9:[object Object]
+$:[object Object]
+Name:Signature
+Value:2011-08-01
+Value:IoK2dyNQDhGepr2AqWyrDo1fWl7wuTYiwUwGGJdAA7A=
+RequestProcessingTime:0.0719760000000000
+0:0.0719760000000000
+Items:[object Object]
+Request:[object Object]
+0:[object Object]
+0:[object Object]
+0:True
+IsValid:True
+0:[object Object]
+Keywords:Shiva Trilogy
+0:Shiva Trilogy
+ItemSearchRequest:[object Object]
+0:Images
+ResponseGroup:Images,ItemAttributes,Offers
+Name:Version
+1:ItemAttributes
+SearchIndex:Books
+2:Offers
+TotalResults:55
+TotalPages:6
+0:6
+0:55
+MoreSearchResultsUrl:http://www.amazon.in/gp/redirect.html?linkCode=xm2&SubscriptionId=AKIAIEMV6LX5RSO7JDTA&location=http%3A%2F%2Fwww.amazon.in%2Fgp%2Fsearch%3Fkeywords%3DShiva%2BTrilogy%26url%3Dsearch-alias%253Dstripbooks&tag=comaprebook09-21&creative=165953&camp=2025
+0:http://www.amazon.in/gp/redirect.html?linkCode=xm2&SubscriptionId=AKIAIEMV6LX5RSO7JDTA&location=http%3A%2F%2Fwww.amazon.in%2Fgp%2Fsearch%3Fkeywords%3DShiva%2BTrilogy%26url%3Dsearch-alias%253Dstripbooks&tag=comaprebook09-21&creative=165953&camp=2025
+0:[object Object]
+Item:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+0:Books
+ASIN:9380658745
+0:9380658745
+DetailPageURL:http://www.amazon.in/The-Immortals-Meluha-Shiva-Trilogy/dp/9380658745%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9380658745
+SmallImage:[object Object]
+0:http://www.amazon.in/The-Immortals-Meluha-Shiva-Trilogy/dp/9380658745%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9380658745
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL75_.jpg
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL75_.jpg
+_:75
+$:[object Object]
+Height:[object Object]
+Width:[object Object]
+_:48
+Units:pixels
+$:[object Object]
+0:[object Object]
+MediumImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL160_.jpg
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL160_.jpg
+0:[object Object]
+Units:pixels
+$:[object Object]
+$:[object Object]
+Width:[object Object]
+0:[object Object]
+_:160
+Units:pixels
+_:103
+$:[object Object]
+LargeImage:[object Object]
+0:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L.jpg
+Height:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L.jpg
+_:500
+$:[object Object]
+0:[object Object]
+Width:[object Object]
+Units:pixels
+0:[object Object]
+Units:pixels
+$:[object Object]
+_:321
+0:[object Object]
+ImageSet:[object Object],[object Object],[object Object]
+0:[object Object]
+$:[object Object]
+SwatchImage:[object Object]
+ImageSets:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL30_.jpg
+0:[object Object]
+Units:pixels
+0:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL30_.jpg
+Height:[object Object]
+_:30
+Category:variant
+$:[object Object]
+0:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:19
+Units:pixels
+0:[object Object]
+SmallImage:[object Object]
+0:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL75_.jpg
+0:[object Object]
+Height:[object Object]
+_:75
+$:[object Object]
+Width:[object Object]
+_:48
+0:[object Object]
+Units:pixels
+Units:pixels
+URL:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL75_.jpg
+$:[object Object]
+ThumbnailImage:[object Object]
+0:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL75_.jpg
+URL:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+_:75
+Width:[object Object]
+$:[object Object]
+0:[object Object]
+Units:pixels
+0:[object Object]
+_:48
+$:[object Object]
+Units:pixels
+TinyImage:[object Object]
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL110_.jpg
+URL:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL110_.jpg
+Height:[object Object]
+0:[object Object]
+_:110
+$:[object Object]
+Units:pixels
+Width:[object Object]
+MediumImage:[object Object]
+_:71
+0:[object Object]
+$:[object Object]
+Units:pixels
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL160_.jpg
+0:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL160_.jpg
+_:160
+Height:[object Object]
+0:[object Object]
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+Units:pixels
+_:103
+$:[object Object]
+0:[object Object]
+LargeImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51FMv7stxmL.jpg
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/51FMv7stxmL.jpg
+_:500
+0:[object Object]
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:323
+Units:pixels
+$:[object Object]
+1:[object Object]
+Category:variant
+$:[object Object]
+SwatchImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL30_.jpg
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL30_.jpg
+_:30
+0:[object Object]
+$:[object Object]
+Units:pixels
+Width:[object Object]
+Height:[object Object]
+$:[object Object]
+0:[object Object]
+$:[object Object]
+Units:pixels
+_:22
+0:[object Object]
+SmallImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+$:[object Object]
+_:75
+0:[object Object]
+Units:pixels
+Width:[object Object]
+$:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL75_.jpg
+_:56
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL75_.jpg
+0:[object Object]
+0:[object Object]
+_:75
+Width:[object Object]
+ThumbnailImage:[object Object]
+0:[object Object]
+$:[object Object]
+_:56
+$:[object Object]
+Units:pixels
+TinyImage:[object Object]
+0:[object Object]
+Units:pixels
+Height:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL110_.jpg
+_:110
+Units:pixels
+0:[object Object]
+$:[object Object]
+Width:[object Object]
+_:82
+Units:pixels
+0:[object Object]
+Units:pixels
+$:[object Object]
+MediumImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL160_.jpg
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL160_.jpg
+$:[object Object]
+0:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL110_.jpg
+0:[object Object]
+Height:[object Object]
+Width:[object Object]
+Units:pixels
+_:160
+0:[object Object]
+_:120
+$:[object Object]
+0:[object Object]
+Units:pixels
+LargeImage:[object Object]
+0:http://ecx.images-amazon.com/images/I/41ammhSEZ4L.jpg
+URL:http://ecx.images-amazon.com/images/I/41ammhSEZ4L.jpg
+0:[object Object]
+_:500
+Height:[object Object]
+Units:pixels
+0:[object Object]
+$:[object Object]
+Width:[object Object]
+_:375
+$:[object Object]
+$:[object Object]
+Units:pixels
+Category:primary
+2:[object Object]
+SwatchImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL30_.jpg
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL30_.jpg
+0:[object Object]
+_:30
+$:[object Object]
+Width:[object Object]
+Units:pixels
+_:19
+0:[object Object]
+SmallImage:[object Object]
+Units:pixels
+$:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL75_.jpg
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL75_.jpg
+0:[object Object]
+_:75
+$:[object Object]
+Width:[object Object]
+Units:pixels
+0:[object Object]
+_:48
+$:[object Object]
+ThumbnailImage:[object Object]
+Units:pixels
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL75_.jpg
+URL:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL75_.jpg
+0:[object Object]
+Height:[object Object]
+_:75
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:48
+$:[object Object]
+Units:pixels
+TinyImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL110_.jpg
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL110_.jpg
+Height:[object Object]
+_:110
+0:[object Object]
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:71
+Units:pixels
+$:[object Object]
+MediumImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL160_.jpg
+0:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL160_.jpg
+Height:[object Object]
+_:160
+0:[object Object]
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:103
+$:[object Object]
+Units:pixels
+LargeImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L.jpg
+0:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L.jpg
+0:[object Object]
+Height:[object Object]
+_:500
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:321
+$:[object Object]
+Units:pixels
+ItemAttributes:[object Object]
+0:[object Object]
+Author:Amish
+Binding:Paperback
+0:Amish
+0:Paperback
+EAN:9789380658742
+0:9789380658742
+EANList:[object Object]
+0:[object Object]
+EANListElement:9789380658742,8601401193951
+0:9789380658742
+1:8601401193951
+ISBN:9380658745
+0:9380658745
+ItemDimensions:[object Object]
+0:[object Object]
+Height:[object Object]
+0:[object Object]
+Length:[object Object]
+_:453
+$:[object Object]
+Units:hundredths-inches
+0:[object Object]
+_:709
+Weight:[object Object]
+Units:hundredths-inches
+$:[object Object]
+0:[object Object]
+_:86
+$:[object Object]
+Units:hundredths-pounds
+Width:[object Object]
+0:[object Object]
+$:[object Object]
+_:106
+Units:hundredths-inches
+Label:Westland
+0:Westland
+Languages:[object Object]
+Language:[object Object],[object Object],[object Object]
+0:[object Object]
+Name:English
+0:[object Object]
+0:English
+0:Published
+Type:Published
+1:[object Object]
+Name:English
+0:English
+Type:Original Language
+0:Original Language
+2:[object Object]
+Name:English
+Type:Unknown
+0:English
+0:Unknown
+LegalDisclaimer:New Edition
+0:New Edition
+ListPrice:[object Object]
+0:[object Object]
+Amount:29500
+0:INR
+0:29500
+CurrencyCode:INR
+FormattedPrice:INR 295.00
+0:INR 295.00
+Manufacturer:Westland
+0:Westland
+NumberOfItems:1
+0:1
+NumberOfPages:415
+0:415
+0:[object Object]
+PackageDimensions:[object Object]
+Height:[object Object]
+0:[object Object]
+_:118
+$:[object Object]
+Units:hundredths-inches
+Length:[object Object]
+0:[object Object]
+_:764
+$:[object Object]
+Units:hundredths-inches
+Weight:[object Object]
+0:[object Object]
+_:71
+$:[object Object]
+Units:hundredths-pounds
+Width:[object Object]
+0:[object Object]
+_:512
+$:[object Object]
+Units:hundredths-inches
+PackageQuantity:1
+0:1
+ProductGroup:Book
+0:Book
+ProductTypeName:ABIS_BOOK
+0:ABIS_BOOK
+PublicationDate:2011-05-17
+0:2011-05-17
+Publisher:Westland
+0:Westland
+Studio:Westland
+0:Westland
+Title:The Immortals of Meluha (Shiva Trilogy)
+0:The Immortals of Meluha (Shiva Trilogy)
+OfferSummary:[object Object]
+0:[object Object]
+0:[object Object]
+Amount:14600
+LowestNewPrice:[object Object]
+0:14600
+CurrencyCode:INR
+0:INR
+0:INR 146.00
+FormattedPrice:INR 146.00
+TotalNew:102
+0:102
+TotalUsed:0
+0:0
+TotalCollectible:0
+TotalRefurbished:0
+0:0
+0:0
+Offers:[object Object]
+0:[object Object]
+TotalOffers:1
+0:1
+TotalOfferPages:1
+0:1
+0:http://www.amazon.in/gp/offer-listing/9380658745%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9380658745
+MoreOffersUrl:http://www.amazon.in/gp/offer-listing/9380658745%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9380658745
+Offer:[object Object]
+OfferAttributes:[object Object]
+0:[object Object]
+0:[object Object]
+0:New
+Condition:New
+OfferListing:[object Object]
+OfferListingId:VzLvv5XDGlHmVNMtI6KlI0fH3ZFAQoS0rnOmD%2F47NfejnIwfnV0nB06ROSVOUc09nGGeAKF35YjurN187yzGzuztT%2FxOnhVW%2BAdt0dYdaJQejVuQDDTElVMTlGCuPWiPOn27EWJyrvObZdEoBls8F%2F6XXkTUea5Nzc0wJDpyofScxp4cOiWxkg%3D%3D
+0:[object Object]
+0:VzLvv5XDGlHmVNMtI6KlI0fH3ZFAQoS0rnOmD%2F47NfejnIwfnV0nB06ROSVOUc09nGGeAKF35YjurN187yzGzuztT%2FxOnhVW%2BAdt0dYdaJQejVuQDDTElVMTlGCuPWiPOn27EWJyrvObZdEoBls8F%2F6XXkTUea5Nzc0wJDpyofScxp4cOiWxkg%3D%3D
+Amount:14700
+Price:[object Object]
+0:14700
+CurrencyCode:INR
+0:INR
+FormattedPrice:INR 147.00
+0:INR 147.00
+SalePrice:[object Object]
+0:[object Object]
+Amount:14700
+0:14700
+0:INR
+CurrencyCode:INR
+FormattedPrice:INR 147.00
+0:INR 147.00
+Availability:Usually dispatched within 24 hours
+0:Usually dispatched within 24 hours
+0:[object Object]
+AvailabilityAttributes:[object Object]
+AvailabilityType:now
+0:now
+0:0
+MinimumHours:0
+MaximumHours:0
+0:0
+IsEligibleForSuperSaverShipping:1
+0:1
+IsEligibleForPrime:1
+0:1
+1:[object Object]
+0:9382618341
+ASIN:9382618341
+0:http://www.amazon.in/The-Oath-Vayuputras-Shiva-Trilogy/dp/9382618341%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9382618341
+DetailPageURL:http://www.amazon.in/The-Oath-Vayuputras-Shiva-Trilogy/dp/9382618341%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9382618341
+SmallImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51edluvllQL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51edluvllQL._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+_:75
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:49
+$:[object Object]
+MediumImage:[object Object]
+Units:pixels
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51edluvllQL._SL160_.jpg
+0:http://ecx.images-amazon.com/images/I/51edluvllQL._SL160_.jpg
+Height:[object Object]
+0:[object Object]
+_:160
+$:[object Object]
+Width:[object Object]
+0:[object Object]
+_:105
+$:[object Object]
+Units:pixels
+LargeImage:[object Object]
+Units:pixels
+0:http://ecx.images-amazon.com/images/I/51edluvllQL.jpg
+URL:http://ecx.images-amazon.com/images/I/51edluvllQL.jpg
+0:[object Object]
+0:[object Object]
+_:500
+Height:[object Object]
+Width:[object Object]
+$:[object Object]
+Units:pixels
+_:327
+0:[object Object]
+$:[object Object]
+Units:pixels
+ImageSets:[object Object]
+0:[object Object]
+ImageSet:[object Object],[object Object],[object Object]
+0:[object Object]
+$:[object Object]
+0:[object Object]
+Category:variant
+URL:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL30_.jpg
+0:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL30_.jpg
+_:30
+0:[object Object]
+$:[object Object]
+Units:pixels
+Width:[object Object]
+_:21
+SwatchImage:[object Object]
+$:[object Object]
+Units:pixels
+SmallImage:[object Object]
+Height:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL75_.jpg
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL75_.jpg
+0:[object Object]
+_:75
+Height:[object Object]
+Units:pixels
+Width:[object Object]
+$:[object Object]
+0:[object Object]
+_:52
+$:[object Object]
+Units:pixels
+0:[object Object]
+ThumbnailImage:[object Object]
+0:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL75_.jpg
+URL:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL75_.jpg
+Height:[object Object]
+_:75
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:52
+$:[object Object]
+Units:pixels
+TinyImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL110_.jpg
+0:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL110_.jpg
+Height:[object Object]
+0:[object Object]
+_:110
+$:[object Object]
+Units:pixels
+0:[object Object]
+Width:[object Object]
+_:77
+$:[object Object]
+Units:pixels
+MediumImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL160_.jpg
+0:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL160_.jpg
+0:[object Object]
+Height:[object Object]
+0:[object Object]
+_:160
+$:[object Object]
+Width:[object Object]
+Units:pixels
+0:[object Object]
+_:112
+$:[object Object]
+0:[object Object]
+LargeImage:[object Object]
+Units:pixels
+URL:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL.jpg
+0:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL.jpg
+Height:[object Object]
+0:[object Object]
+_:500
+$:[object Object]
+Width:[object Object]
+0:[object Object]
+_:349
+Units:pixels
+$:[object Object]
+Units:pixels
+1:[object Object]
+Category:variant
+SwatchImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL30_.jpg
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL30_.jpg
+0:[object Object]
+Height:[object Object]
+$:[object Object]
+Units:pixels
+0:[object Object]
+Width:[object Object]
+0:[object Object]
+_:22
+Units:pixels
+$:[object Object]
+0:[object Object]
+SmallImage:[object Object]
+0:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL75_.jpg
+URL:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL75_.jpg
+Height:[object Object]
+$:[object Object]
+$:[object Object]
+Units:pixels
+0:[object Object]
+Width:[object Object]
+_:56
+0:[object Object]
+Units:pixels
+$:[object Object]
+ThumbnailImage:[object Object]
+0:[object Object]
+_:75
+0:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL75_.jpg
+_:30
+URL:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL75_.jpg
+Height:[object Object]
+_:75
+0:[object Object]
+Units:pixels
+Width:[object Object]
+_:56
+0:[object Object]
+TinyImage:[object Object]
+$:[object Object]
+Units:pixels
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL110_.jpg
+URL:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL110_.jpg
+$:[object Object]
+0:[object Object]
+Height:[object Object]
+_:110
+$:[object Object]
+Width:[object Object]
+0:[object Object]
+_:82
+Units:pixels
+Units:pixels
+0:[object Object]
+MediumImage:[object Object]
+0:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL160_.jpg
+URL:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL160_.jpg
+Height:[object Object]
+0:[object Object]
+_:160
+$:[object Object]
+Width:[object Object]
+0:[object Object]
+$:[object Object]
+$:[object Object]
+Units:pixels
+_:120
+Units:pixels
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41vmp3MPPqL.jpg
+0:http://ecx.images-amazon.com/images/I/41vmp3MPPqL.jpg
+Height:[object Object]
+0:[object Object]
+_:500
+Units:pixels
+Width:[object Object]
+_:375
+LargeImage:[object Object]
+$:[object Object]
+0:[object Object]
+Units:pixels
+$:[object Object]
+2:[object Object]
+Category:primary
+URL:http://ecx.images-amazon.com/images/I/51edluvllQL._SL30_.jpg
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51edluvllQL._SL30_.jpg
+0:[object Object]
+Height:[object Object]
+_:30
+$:[object Object]
+SwatchImage:[object Object]
+0:[object Object]
+Width:[object Object]
+_:20
+$:[object Object]
+Units:pixels
+$:[object Object]
+Units:pixels
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51edluvllQL._SL75_.jpg
+SmallImage:[object Object]
+0:http://ecx.images-amazon.com/images/I/51edluvllQL._SL75_.jpg
+0:[object Object]
+Height:[object Object]
+$:[object Object]
+Width:[object Object]
+0:[object Object]
+_:49
+Units:pixels
+$:[object Object]
+Units:pixels
+ThumbnailImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51edluvllQL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51edluvllQL._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+Units:pixels
+0:[object Object]
+$:[object Object]
+Width:[object Object]
+0:[object Object]
+_:49
+$:[object Object]
+Units:pixels
+TinyImage:[object Object]
+_:75
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51edluvllQL._SL110_.jpg
+0:http://ecx.images-amazon.com/images/I/51edluvllQL._SL110_.jpg
+Height:[object Object]
+_:110
+0:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:72
+$:[object Object]
+$:[object Object]
+MediumImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51edluvllQL._SL160_.jpg
+0:http://ecx.images-amazon.com/images/I/51edluvllQL._SL160_.jpg
+0:[object Object]
+Height:[object Object]
+Width:[object Object]
+_:75
+Units:pixels
+$:[object Object]
+_:160
+$:[object Object]
+_:105
+0:[object Object]
+LargeImage:[object Object]
+0:http://ecx.images-amazon.com/images/I/51edluvllQL.jpg
+URL:http://ecx.images-amazon.com/images/I/51edluvllQL.jpg
+Units:pixels
+Height:[object Object]
+Units:pixels
+$:[object Object]
+0:[object Object]
+_:500
+0:[object Object]
+Width:[object Object]
+Units:pixels
+_:327
+Units:pixels
+0:[object Object]
+ItemAttributes:[object Object]
+0:[object Object]
+Author:Amish Tripathi
+0:Amish Tripathi
+Binding:Paperback
+EAN:9789382618348
+0:9789382618348
+EANList:[object Object]
+0:[object Object]
+EANListElement:9789382618348
+0:9789382618348
+$:[object Object]
+Edition:1
+0:Paperback
+ISBN:9382618341
+ItemDimensions:[object Object]
+0:9382618341
+0:[object Object]
+0:1
+0:[object Object]
+$:[object Object]
+Units:hundredths-inches
+Length:[object Object]
+_:0
+0:[object Object]
+_:0
+$:[object Object]
+Weight:[object Object]
+Units:hundredths-inches
+0:[object Object]
+$:[object Object]
+Units:hundredths-pounds
+Width:[object Object]
+Height:[object Object]
+_:0
+0:[object Object]
+$:[object Object]
+Label:Westland
+Units:hundredths-inches
+0:Westland
+0:[object Object]
+Language:[object Object],[object Object],[object Object]
+0:[object Object]
+Name:English
+0:English
+Type:Published
+0:Published
+1:[object Object]
+Languages:[object Object]
+Name:English
+0:English
+Type:Original Language
+_:93
+0:Original Language
+Type:Unknown
+2:[object Object]
+0:Unknown
+Name:English
+0:[object Object]
+CurrencyCode:INR
+0:English
+0:39500
+Amount:39500
+FormattedPrice:INR 395.00
+0:INR 395.00
+Manufacturer:Westland
+0:INR
+0:575
+NumberOfPages:575
+PackageDimensions:[object Object]
+Height:[object Object]
+0:[object Object]
+_:165
+$:[object Object]
+Units:hundredths-inches
+Length:[object Object]
+0:[object Object]
+_:780
+0:[object Object]
+ListPrice:[object Object]
+Units:hundredths-inches
+Weight:[object Object]
+_:93
+0:[object Object]
+Units:hundredths-pounds
+Width:[object Object]
+0:Westland
+$:[object Object]
+$:[object Object]
+_:504
+$:[object Object]
+Units:hundredths-inches
+ProductGroup:Book
+0:1
+0:Book
+0:[object Object]
+PublicationDate:2013-02-27
+ProductTypeName:ABIS_BOOK
+0:ABIS_BOOK
+Publisher:Westland
+Studio:Westland
+0:Westland
+0:2013-02-27
+Title:The Oath of the Vayuputras (Shiva Trilogy)
+PackageQuantity:1
+0:[object Object]
+OfferSummary:[object Object]
+LowestNewPrice:[object Object]
+0:17500
+0:[object Object]
+CurrencyCode:INR
+0:INR
+0:Westland
+FormattedPrice:INR 175.00
+Amount:17500
+TotalNew:96
+0:INR 175.00
+0:96
+TotalUsed:0
+TotalCollectible:0
+0:0
+TotalRefurbished:0
+0:0
+0:[object Object]
+TotalOffers:1
+Offers:[object Object]
+TotalOfferPages:1
+0:1
+0:The Oath of the Vayuputras (Shiva Trilogy)
+0:http://www.amazon.in/gp/offer-listing/9382618341%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9382618341
+Offer:[object Object]
+0:[object Object]
+0:[object Object]
+OfferAttributes:[object Object]
+Condition:New
+OfferListing:[object Object]
+0:New
+0:[object Object]
+0:VzLvv5XDGlHmVNMtI6KlI3ZMBx5wFALcbF2vSpbcW%2FzqWMxuJVcI2rtMHKVgcZBQdEBB%2F9siWDTLboCWPIT8T4qHPWDhWMiR%2B1P73xEal2XVkl4HGpjhsOPLbIF4tLbgf0ZIj06sI0vr%2Byh2iXI5M1eXURF4nTxJptV2X0aYhza5y5JhWfg4%2FA%3D%3D
+OfferListingId:VzLvv5XDGlHmVNMtI6KlI3ZMBx5wFALcbF2vSpbcW%2FzqWMxuJVcI2rtMHKVgcZBQdEBB%2F9siWDTLboCWPIT8T4qHPWDhWMiR%2B1P73xEal2XVkl4HGpjhsOPLbIF4tLbgf0ZIj06sI0vr%2Byh2iXI5M1eXURF4nTxJptV2X0aYhza5y5JhWfg4%2FA%3D%3D
+Amount:13800
+Price:[object Object]
+0:13800
+0:[object Object]
+MoreOffersUrl:http://www.amazon.in/gp/offer-listing/9382618341%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9382618341
+0:INR 138.00
+CurrencyCode:INR
+FormattedPrice:INR 138.00
+0:[object Object]
+SalePrice:[object Object]
+0:19700
+Amount:19700
+CurrencyCode:INR
+FormattedPrice:INR 197.00
+0:INR
+Availability:Usually dispatched within 24 hours
+0:Usually dispatched within 24 hours
+0:0
+AvailabilityAttributes:[object Object]
+0:INR
+AvailabilityType:now
+MinimumHours:0
+0:[object Object]
+0:now
+MaximumHours:0
+0:0
+0:0
+IsEligibleForSuperSaverShipping:1
+0:INR 197.00
+0:1
+0:1
+ASIN:9381626340
+0:9381626340
+2:[object Object]
+DetailPageURL:http://www.amazon.in/The-Secret-Nagas-Shiva-Trilogy-2/dp/9381626340%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9381626340
+0:http://www.amazon.in/The-Secret-Nagas-Shiva-Trilogy-2/dp/9381626340%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9381626340
+SmallImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL75_.jpg
+IsEligibleForPrime:1
+Height:[object Object]
+0:1
+0:[object Object]
+_:75
+0:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:50
+$:[object Object]
+Units:pixels
+MediumImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL160_.jpg
+0:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL160_.jpg
+Height:[object Object]
+0:[object Object]
+$:[object Object]
+_:160
+Units:pixels
+$:[object Object]
+Width:[object Object]
+0:[object Object]
+_:106
+Units:pixels
+LargeImage:[object Object]
+0:http://ecx.images-amazon.com/images/I/51djIve%2B9UL.jpg
+$:[object Object]
+0:[object Object]
+0:[object Object]
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL75_.jpg
+_:500
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:331
+$:[object Object]
+Units:pixels
+ImageSets:[object Object]
+0:[object Object]
+ImageSet:[object Object],[object Object],[object Object]
+0:[object Object]
+$:[object Object]
+Category:variant
+SwatchImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL30_.jpg
+0:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL30_.jpg
+Height:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51djIve%2B9UL.jpg
+0:[object Object]
+_:30
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:20
+$:[object Object]
+Units:pixels
+SmallImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL75_.jpg
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL75_.jpg
+$:[object Object]
+_:75
+Width:[object Object]
+0:[object Object]
+Units:pixels
+Units:pixels
+$:[object Object]
+0:[object Object]
+ThumbnailImage:[object Object]
+_:50
+0:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL75_.jpg
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL75_.jpg
+Height:[object Object]
+_:75
+Units:pixels
+0:[object Object]
+Width:[object Object]
+_:50
+$:[object Object]
+Units:pixels
+0:[object Object]
+TinyImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL110_.jpg
+0:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL110_.jpg
+$:[object Object]
+0:[object Object]
+Height:[object Object]
+$:[object Object]
+_:110
+Units:pixels
+0:[object Object]
+_:73
+$:[object Object]
+Units:pixels
+MediumImage:[object Object]
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL160_.jpg
+URL:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL160_.jpg
+Width:[object Object]
+0:[object Object]
+Height:[object Object]
+Units:pixels
+$:[object Object]
+_:160
+Width:[object Object]
+_:107
+0:[object Object]
+$:[object Object]
+Units:pixels
+LargeImage:[object Object]
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51bEGh2bGJL.jpg
+URL:http://ecx.images-amazon.com/images/I/51bEGh2bGJL.jpg
+_:500
+0:[object Object]
+Height:[object Object]
+$:[object Object]
+Units:pixels
+0:[object Object]
+Units:pixels
+$:[object Object]
+_:334
+1:[object Object]
+$:[object Object]
+Width:[object Object]
+SwatchImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL30_.jpg
+0:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL30_.jpg
+0:[object Object]
+Height:[object Object]
+$:[object Object]
+_:30
+Units:pixels
+Category:variant
+0:[object Object]
+Width:[object Object]
+_:22
+$:[object Object]
+SmallImage:[object Object]
+Units:pixels
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL75_.jpg
+0:[object Object]
+Height:[object Object]
+_:75
+0:[object Object]
+Width:[object Object]
+_:56
+Units:pixels
+0:[object Object]
+$:[object Object]
+ThumbnailImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL75_.jpg
+Units:pixels
+$:[object Object]
+0:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+Units:pixels
+$:[object Object]
+Width:[object Object]
+_:56
+$:[object Object]
+0:[object Object]
+0:[object Object]
+Units:pixels
+0:[object Object]
+TinyImage:[object Object]
+0:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL110_.jpg
+_:110
+0:[object Object]
+$:[object Object]
+Height:[object Object]
+Units:pixels
+Width:[object Object]
+MediumImage:[object Object]
+Units:pixels
+0:[object Object]
+_:82
+$:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL110_.jpg
+URL:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL160_.jpg
+_:75
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL160_.jpg
+$:[object Object]
+Width:[object Object]
+0:[object Object]
+0:[object Object]
+Units:pixels
+Height:[object Object]
+$:[object Object]
+LargeImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41AAu7rRvFL.jpg
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/41AAu7rRvFL.jpg
+Units:pixels
+Height:[object Object]
+_:500
+Units:pixels
+_:120
+$:[object Object]
+$:[object Object]
+Width:[object Object]
+0:[object Object]
+Units:pixels
+0:[object Object]
+_:160
+_:375
+2:[object Object]
+$:[object Object]
+Category:primary
+SwatchImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL30_.jpg
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL30_.jpg
+0:[object Object]
+_:30
+Width:[object Object]
+Units:pixels
+$:[object Object]
+_:20
+$:[object Object]
+0:[object Object]
+SmallImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+_:75
+Width:[object Object]
+Units:pixels
+0:[object Object]
+$:[object Object]
+ThumbnailImage:[object Object]
+Units:pixels
+$:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+Units:pixels
+0:[object Object]
+$:[object Object]
+Width:[object Object]
+0:[object Object]
+Units:pixels
+$:[object Object]
+_:50
+Units:pixels
+0:[object Object]
+_:75
+URL:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL110_.jpg
+0:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL110_.jpg
+_:50
+0:[object Object]
+Height:[object Object]
+_:110
+Units:pixels
+$:[object Object]
+0:[object Object]
+_:73
+$:[object Object]
+Width:[object Object]
+MediumImage:[object Object]
+TinyImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL160_.jpg
+0:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL160_.jpg
+0:[object Object]
+Height:[object Object]
+$:[object Object]
+_:160
+0:[object Object]
+Width:[object Object]
+0:[object Object]
+LargeImage:[object Object]
+_:106
+Units:pixels
+URL:http://ecx.images-amazon.com/images/I/51djIve%2B9UL.jpg
+$:[object Object]
+0:http://ecx.images-amazon.com/images/I/51djIve%2B9UL.jpg
+Units:pixels
+Height:[object Object]
+0:[object Object]
+Units:pixels
+Units:pixels
+_:500
+Width:[object Object]
+0:[object Object]
+_:331
+Units:pixels
+ItemAttributes:[object Object]
+Author:Amish Tripathi
+0:[object Object]
+0:Amish Tripathi
+0:Paperback
+$:[object Object]
+EAN:9789381626344
+Binding:Paperback
+EANList:[object Object]
+0:[object Object]
+EANListElement:9789381626344
+0:9789381626344
+0:[object Object]
+$:[object Object]
+Feature:Today, He is a God. 4000 years ago, He was just a man.
+0:Today, He is a God. 4000 years ago, He was just a man.
+Format:Abridged,Audiobook,Box set,Illustrated,Large Print
+0:9789381626344
+Edition:1
+1:Audiobook
+0:1
+2:Box set
+3:Illustrated
+4:Large Print
+ISBN:9381626340
+ItemDimensions:[object Object]
+0:Abridged
+0:9381626340
+0:[object Object]
+0:[object Object]
+Units:hundredths-inches
+_:0
+$:[object Object]
+Length:[object Object]
+0:[object Object]
+Height:[object Object]
+Units:hundredths-inches
+Weight:[object Object]
+$:[object Object]
+0:[object Object]
+$:[object Object]
+Width:[object Object]
+Units:hundredths-pounds
+0:[object Object]
+_:0
+$:[object Object]
+Units:hundredths-inches
+_:40
+Label:Westland Books Pvt. Ltd.
+Languages:[object Object]
+0:Westland Books Pvt. Ltd.
+Language:[object Object],[object Object],[object Object]
+0:[object Object]
+0:English
+Name:English
+Type:Published
+0:Published
+1:[object Object]
+_:0
+0:English
+Type:Original Language
+Name:English
+0:Original Language
+2:[object Object]
+0:English
+Name:English
+LegalDisclaimer:WE ALSO SHIP ALL OF OUR BOOKS AT INTERNATIONAL LEVEL IN COUNTRIES LIKE USA,CANADA,AUSTRALIA,UK,
+NEW ZEALAND,SCOTLAND,SINGAPORE,SWITZERLAND,FRANCE ESTIMATED DELIVERY DATE FOR INTERNATIONAL ORDERS IS 15-30 DAYS.
+0:Unknown
+0:WE ALSO SHIP ALL OF OUR BOOKS AT INTERNATIONAL LEVEL IN COUNTRIES LIKE USA,CANADA,AUSTRALIA,UK,
+NEW ZEALAND,SCOTLAND,SINGAPORE,SWITZERLAND,FRANCE ESTIMATED DELIVERY DATE FOR INTERNATIONAL ORDERS IS 15-30 DAYS.
+ListPrice:[object Object]
+0:[object Object]
+Amount:29500
+0:29500
+CurrencyCode:INR
+FormattedPrice:INR 295.00
+0:INR
+0:INR 295.00
+Manufacturer:Westland Books Pvt. Ltd.
+0:Westland Books Pvt. Ltd.
+0:394
+PackageDimensions:[object Object]
+0:[object Object]
+Height:[object Object]
+0:[object Object]
+Type:Unknown
+NumberOfPages:394
+Units:hundredths-inches
+Length:[object Object]
+_:772
+0:[object Object]
+$:[object Object]
+Units:hundredths-inches
+_:110
+$:[object Object]
+Weight:[object Object]
+$:[object Object]
+_:66
+Units:hundredths-pounds
+Width:[object Object]
+0:[object Object]
+0:[object Object]
+_:512
+0:[object Object]
+Units:hundredths-inches
+ProductGroup:Book
+0:Book
+$:[object Object]
+0:1
+PackageQuantity:1
+PublicationDate:2012-04-01
+0:2012-04-01
+Publisher:Westland Books Pvt. Ltd.
+Title:The Secret Of The Nagas (Shiva Trilogy-2)
+0:Westland Books Pvt. Ltd.
+Studio:Westland Books Pvt. Ltd.
+0:The Secret Of The Nagas (Shiva Trilogy-2)
+0:[object Object]
+0:Westland Books Pvt. Ltd.
+LowestNewPrice:[object Object]
+0:ABIS_BOOK
+OfferSummary:[object Object]
+Amount:13000
+0:[object Object]
+0:13000
+CurrencyCode:INR
+FormattedPrice:INR 130.00
+0:INR 130.00
+0:INR
+TotalNew:135
+0:135
+TotalUsed:0
+TotalCollectible:0
+0:0
+TotalRefurbished:0
+ProductTypeName:ABIS_BOOK
+0:0
+Offers:[object Object]
+0:1
+0:[object Object]
+TotalOfferPages:1
+MoreOffersUrl:http://www.amazon.in/gp/offer-listing/9381626340%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9381626340
+TotalOffers:1
+0:http://www.amazon.in/gp/offer-listing/9381626340%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9381626340
+Offer:[object Object]
+0:[object Object]
+0:0
+Condition:New
+0:[object Object]
+OfferListing:[object Object]
+0:[object Object]
+OfferAttributes:[object Object]
+0:1
+0:New
+0:VzLvv5XDGlHmVNMtI6KlI%2BZY34QQXpq81oGMYAKhtuSfcykfRno%2FfTnIar55PNLQaPe05XNNO1h6Mwf3qD0nKn3NnBkuJq%2FRReyhRaJvccr1bOSUWXFzP1DrLDq4O6Ce3aBBQ9NQFvof86fU1B%2BQ5DQVWiDRLZQGufAQX3ym%2BFPf%2Ft8wMiUH1Q%3D%3D
+Price:[object Object]
+OfferListingId:VzLvv5XDGlHmVNMtI6KlI%2BZY34QQXpq81oGMYAKhtuSfcykfRno%2FfTnIar55PNLQaPe05XNNO1h6Mwf3qD0nKn3NnBkuJq%2FRReyhRaJvccr1bOSUWXFzP1DrLDq4O6Ce3aBBQ9NQFvof86fU1B%2BQ5DQVWiDRLZQGufAQX3ym%2BFPf%2Ft8wMiUH1Q%3D%3D
+0:10300
+CurrencyCode:INR
+0:INR
+0:INR 103.00
+0:[object Object]
+SalePrice:[object Object]
+FormattedPrice:INR 103.00
+Amount:10300
+0:[object Object]
+0:INR
+0:14700
+CurrencyCode:INR
+FormattedPrice:INR 147.00
+0:Usually dispatched within 24 hours
+Amount:14700
+AvailabilityAttributes:[object Object]
+AvailabilityType:now
+0:now
+0:INR 147.00
+MinimumHours:0
+0:[object Object]
+0:1
+MaximumHours:0
+IsEligibleForSuperSaverShipping:1
+Availability:Usually dispatched within 24 hours
+0:0
+IsEligibleForPrime:1
+3:[object Object]
+ASIN:9383260165
+DetailPageURL:http://www.amazon.in/Trilogy-Collectors-Edition-Includes-Exclusive/dp/9383260165%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9383260165
+0:http://www.amazon.in/Trilogy-Collectors-Edition-Includes-Exclusive/dp/9383260165%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9383260165
+0:0
+0:[object Object]
+0:1
+0:9383260165
+0:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL75_.jpg
+URL:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL75_.jpg
+SmallImage:[object Object]
+0:[object Object]
+_:75
+$:[object Object]
+0:[object Object]
+Width:[object Object]
+$:[object Object]
+Units:pixels
+MediumImage:[object Object]
+Units:pixels
+_:48
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL160_.jpg
+URL:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL160_.jpg
+Height:[object Object]
+Units:pixels
+0:[object Object]
+_:160
+Width:[object Object]
+_:103
+$:[object Object]
+Units:pixels
+$:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL.jpg
+LargeImage:[object Object]
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL.jpg
+0:[object Object]
+Height:[object Object]
+Units:pixels
+Width:[object Object]
+_:322
+Height:[object Object]
+_:500
+$:[object Object]
+$:[object Object]
+ImageSets:[object Object]
+Units:pixels
+0:[object Object]
+$:[object Object]
+ImageSet:[object Object],[object Object]
+0:[object Object]
+Category:variant
+SwatchImage:[object Object]
+0:[object Object]
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL30_.jpg
+0:[object Object]
+$:[object Object]
+Units:pixels
+URL:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL30_.jpg
+_:30
+Width:[object Object]
+0:[object Object]
+$:[object Object]
+Units:pixels
+0:[object Object]
+SmallImage:[object Object]
+_:30
+URL:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL75_.jpg
+0:[object Object]
+$:[object Object]
+Width:[object Object]
+0:[object Object]
+Height:[object Object]
+_:74
+0:[object Object]
+Units:pixels
+_:75
+Units:pixels
+URL:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL75_.jpg
+$:[object Object]
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+$:[object Object]
+Units:pixels
+Width:[object Object]
+_:75
+_:74
+Units:pixels
+$:[object Object]
+TinyImage:[object Object]
+0:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL110_.jpg
+0:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL110_.jpg
+$:[object Object]
+ThumbnailImage:[object Object]
+_:109
+Height:[object Object]
+0:[object Object]
+Width:[object Object]
+0:[object Object]
+_:110
+0:[object Object]
+$:[object Object]
+MediumImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL160_.jpg
+0:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL160_.jpg
+Height:[object Object]
+Units:pixels
+_:158
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+Units:pixels
+$:[object Object]
+0:[object Object]
+0:[object Object]
+_:160
+LargeImage:[object Object]
+Height:[object Object]
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51WNYO29veL.jpg
+URL:http://ecx.images-amazon.com/images/I/51WNYO29veL.jpg
+Width:[object Object]
+$:[object Object]
+Units:pixels
+_:494
+$:[object Object]
+0:[object Object]
+1:[object Object]
+$:[object Object]
+_:500
+Units:pixels
+Category:primary
+0:[object Object]
+SwatchImage:[object Object]
+0:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL30_.jpg
+_:30
+$:[object Object]
+0:[object Object]
+Height:[object Object]
+Width:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL30_.jpg
+0:[object Object]
+Units:pixels
+$:[object Object]
+Units:pixels
+_:19
+Units:pixels
+SmallImage:[object Object]
+0:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL75_.jpg
+0:[object Object]
+_:75
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL75_.jpg
+0:[object Object]
+Width:[object Object]
+$:[object Object]
+Height:[object Object]
+Units:pixels
+_:48
+ThumbnailImage:[object Object]
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL75_.jpg
+URL:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL75_.jpg
+$:[object Object]
+Units:pixels
+_:75
+0:[object Object]
+Units:pixels
+$:[object Object]
+Height:[object Object]
+0:[object Object]
+Units:pixels
+$:[object Object]
+TinyImage:[object Object]
+0:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL110_.jpg
+_:48
+Width:[object Object]
+Height:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL110_.jpg
+0:[object Object]
+_:110
+Units:pixels
+0:[object Object]
+Width:[object Object]
+$:[object Object]
+_:71
+$:[object Object]
+MediumImage:[object Object]
+0:[object Object]
+Units:pixels
+0:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL160_.jpg
+0:[object Object]
+Height:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL160_.jpg
+Units:pixels
+0:[object Object]
+Width:[object Object]
+$:[object Object]
+_:160
+0:[object Object]
+_:103
+$:[object Object]
+Units:pixels
+URL:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL.jpg
+0:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL.jpg
+LargeImage:[object Object]
+0:[object Object]
+_:500
+$:[object Object]
+Height:[object Object]
+Units:pixels
+Width:[object Object]
+_:322
+$:[object Object]
+Units:pixels
+0:[object Object]
+ItemAttributes:[object Object]
+0:[object Object]
+Author:Amish Tripathi
+0:Hardcover
+0:[object Object]
+EANList:[object Object]
+Binding:Hardcover
+0:9789383260164
+0:[object Object]
+EANListElement:9789383260164
+0:Box set
+0:9789383260164
+EAN:9789383260164
+0:9383260165
+ISBN:9383260165
+ItemDimensions:[object Object]
+Format:Box set
+0:Amish Tripathi
+0:[object Object]
+Height:[object Object]
+Units:hundredths-inches
+_:0
+Length:[object Object]
+0:[object Object]
+Units:hundredths-inches
+_:0
+$:[object Object]
+0:[object Object]
+$:[object Object]
+Weight:[object Object]
+_:425
+$:[object Object]
+0:[object Object]
+Units:hundredths-pounds
+Width:[object Object]
+Units:hundredths-inches
+0:[object Object]
+$:[object Object]
+0:Westland
+0:[object Object]
+Languages:[object Object]
+Language:[object Object],[object Object],[object Object]
+Label:Westland
+0:[object Object]
+0:English
+Type:Published
+_:0
+0:Published
+Name:English
+0:English
+Type:Original Language
+0:Original Language
+2:[object Object]
+1:[object Object]
+0:English
+Name:English
+ListPrice:[object Object]
+Name:English
+0:Unknown
+Amount:249900
+0:249900
+Type:Unknown
+CurrencyCode:INR
+0:[object Object]
+Manufacturer:Westland
+0:Westland
+0:INR 2,499.00
+NumberOfPages:1345
+PackageDimensions:[object Object]
+0:[object Object]
+Height:[object Object]
+0:1345
+0:[object Object]
+0:INR
+$:[object Object]
+Units:hundredths-inches
+0:[object Object]
+Length:[object Object]
+_:913
+$:[object Object]
+_:480
+Units:hundredths-inches
+FormattedPrice:INR 2,499.00
+Weight:[object Object]
+_:432
+0:[object Object]
+Units:hundredths-pounds
+Units:hundredths-inches
+$:[object Object]
+$:[object Object]
+Width:[object Object]
+0:Book
+ProductGroup:Book
+ProductTypeName:ABIS_BOOK
+0:ABIS_BOOK
+PublicationDate:2013-11-07
+0:2013-11-07
+0:[object Object]
+Publisher:Westland
+_:598
+Studio:Westland
+Title:Shiva Trilogy Collector's Edition Includes Exclusive Free Shiva Trilogy DVD
+0:Shiva Trilogy Collector's Edition Includes Exclusive Free Shiva Trilogy DVD
+OfferSummary:[object Object]
+0:[object Object]
+LowestNewPrice:[object Object]
+0:Westland
+0:[object Object]
+0:Westland
+CurrencyCode:INR
+Amount:150000
+0:150000
+FormattedPrice:INR 1,500.00
+0:INR
+TotalNew:19
+0:19
+TotalUsed:0
+0:INR 1,500.00
+0:0
+0:0
+0:0
+Offers:[object Object]
+TotalCollectible:0
+0:1
+TotalRefurbished:0
+0:[object Object]
+MoreOffersUrl:http://www.amazon.in/gp/offer-listing/9383260165%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9383260165
+0:1
+TotalOfferPages:1
+0:http://www.amazon.in/gp/offer-listing/9383260165%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9383260165
+TotalOffers:1
+Offer:[object Object]
+OfferAttributes:[object Object]
+0:New
+0:[object Object]
+0:[object Object]
+Condition:New
+OfferListingId:VzLvv5XDGlHmVNMtI6KlI2Va1wQQzIW3Yo1VvxbYDiG4S9DBB%2BCybAa9tIyDns%2FFti7uDg2LrxF1nsTvR5xpgr18EStR%2BerrteWSdKPbS8DcafEuSfFUKNLUoQMpW8USQKrrOyYpuQq3KqppLgZ0YQ%3D%3D
+0:VzLvv5XDGlHmVNMtI6KlI2Va1wQQzIW3Yo1VvxbYDiG4S9DBB%2BCybAa9tIyDns%2FFti7uDg2LrxF1nsTvR5xpgr18EStR%2BerrteWSdKPbS8DcafEuSfFUKNLUoQMpW8USQKrrOyYpuQq3KqppLgZ0YQ%3D%3D
+Price:[object Object]
+0:[object Object]
+OfferListing:[object Object]
+0:212400
+Amount:212400
+0:[object Object]
+0:INR
+0:INR 2,124.00
+FormattedPrice:INR 2,124.00
+0:[object Object]
+SalePrice:[object Object]
+Amount:161900
+CurrencyCode:INR
+0:161900
+CurrencyCode:INR
+0:INR 1,619.00
+AmountSaved:[object Object]
+0:INR
+Amount:50500
+FormattedPrice:INR 1,619.00
+0:50500
+FormattedPrice:INR 505.00
+0:INR
+0:[object Object]
+PercentageSaved:24
+0:24
+CurrencyCode:INR
+Availability:Usually dispatched within 24 hours
+AvailabilityAttributes:[object Object]
+0:Usually dispatched within 24 hours
+0:INR 505.00
+0:[object Object]
+MaximumHours:0
+AvailabilityType:now
+0:0
+MinimumHours:0
+0:1
+0:now
+IsEligibleForPrime:1
+0:0
+IsEligibleForSuperSaverShipping:1
+ASIN:9385152149
+0:9385152149
+4:[object Object]
+0:1
+SmallImage:[object Object]
+0:http://www.amazon.in/Scion-Ikshvaku-Part-Chandra-Series/dp/9385152149%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9385152149
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51DE-2bLjIL._SL75_.jpg
+URL:http://ecx.images-amazon.com/images/I/51DE-2bLjIL._SL75_.jpg
+0:[object Object]
+DetailPageURL:http://www.amazon.in/Scion-Ikshvaku-Part-Chandra-Series/dp/9385152149%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9385152149
+_:75
+Height:[object Object]
+Units:pixels
+0:[object Object]
+Width:[object Object]
+_:49
+$:[object Object]
+Units:pixels
+MediumImage:[object Object]
+0:http://ecx.images-amazon.com/images/I/51DE-2bLjIL._SL160_.jpg
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51DE-2bLjIL._SL160_.jpg
+Height:[object Object]
+_:160
+$:[object Object]
+Units:pixels
+0:[object Object]
+0:[object Object]
+Width:[object Object]
+$:[object Object]
+_:104
+LargeImage:[object Object]
+Units:pixels
+URL:http://ecx.images-amazon.com/images/I/51DE-2bLjIL.jpg
+0:http://ecx.images-amazon.com/images/I/51DE-2bLjIL.jpg
+Height:[object Object]
+0:[object Object]
+_:500
+Units:pixels
+$:[object Object]
+Width:[object Object]
+_:325
+$:[object Object]
+0:[object Object]
+$:[object Object]
+ImageSets:[object Object]
+0:[object Object]
+ImageSet:[object Object],[object Object]
+0:[object Object]
+Category:variant
+0:[object Object]
+SwatchImage:[object Object]
+$:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51WL8RqBjVL._SL30_.jpg
+0:[object Object]
+Units:pixels
+Height:[object Object]
+0:[object Object]
+_:30
+$:[object Object]
+Units:pixels
+Width:[object Object]
+_:20
+0:[object Object]
+Units:pixels
+$:[object Object]
+0:http://ecx.images-amazon.com/images/I/51WL8RqBjVL._SL30_.jpg
+URL:http://ecx.images-amazon.com/images/I/51WL8RqBjVL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51WL8RqBjVL._SL75_.jpg
+SmallImage:[object Object]
+0:[object Object]
+Height:[object Object]
+_:75
+0:[object Object]
+$:[object Object]
+Units:pixels
+_:49
+0:[object Object]
+Width:[object Object]
+Units:pixels
+ThumbnailImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51WL8RqBjVL._SL75_.jpg
+$:[object Object]
+0:[object Object]
+Height:[object Object]
+Units:pixels
+0:[object Object]
+Width:[object Object]
+0:[object Object]
+_:75
+$:[object Object]
+TinyImage:[object Object]
+0:http://ecx.images-amazon.com/images/I/51WL8RqBjVL._SL75_.jpg
+$:[object Object]
+0:[object Object]
+Units:pixels
+_:49
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/51WL8RqBjVL._SL110_.jpg
+URL:http://ecx.images-amazon.com/images/I/51WL8RqBjVL._SL110_.jpg
+_:110
+0:[object Object]
+Units:pixels
+$:[object Object]
+ItemSearchResponse:[object Object]
+xmlns:http://webservices.amazon.com/AWSECommerceService/2011-08-01
+$:[object Object]
+OperationRequest:[object Object]
+RequestId:4f21d2c6-60b1-4e55-8ba9-e20141cdadb0
+0:[object Object]
+Arguments:[object Object]
+0:[object Object]
+Argument:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+0:[object Object]
+0:4f21d2c6-60b1-4e55-8ba9-e20141cdadb0
+Name:AWSAccessKeyId
+$:[object Object]
+Value:AKIAIEMV6LX5RSO7JDTA
+$:[object Object]
+Name:AssociateTag
+Value:comaprebook09-21
+1:[object Object]
+$:[object Object]
+2:[object Object]
+3:[object Object]
+Value:Shiva Trilogy
+$:[object Object]
+Value:ItemSearch
+Name:Operation
+4:[object Object]
+$:[object Object]
+Name:ResponseGroup
+Value:Images,ItemAttributes,Offers
+$:[object Object]
+Name:Keywords
+5:[object Object]
+Value:Books
+$:[object Object]
+Name:SearchIndex
+Name:Service
+Value:AWSECommerceService
+7:[object Object]
+Name:Timestamp
+$:[object Object]
+Value:2015-11-22T14:24:22.832Z
+6:[object Object]
+$:[object Object]
+8:[object Object]
+9:[object Object]
+Name:Version
+Value:2011-08-01
+$:[object Object]
+Value:vxCG+g27C+L1jzmEPP9WCx3L6Goa+mRLlfcvklXYMWo=
+RequestProcessingTime:0.3756220000000000
+Items:[object Object]
+0:[object Object]
+0:0.3756220000000000
+Request:[object Object]
+Name:Signature
+IsValid:True
+0:True
+ItemSearchRequest:[object Object]
+0:[object Object]
+0:[object Object]
+Keywords:Shiva Trilogy
+0:Shiva Trilogy
+ResponseGroup:Images,ItemAttributes,Offers
+2:Offers
+1:ItemAttributes
+SearchIndex:Books
+0:55
+TotalResults:55
+0:Books
+0:Images
+TotalPages:6
+MoreSearchResultsUrl:http://www.amazon.in/gp/redirect.html?linkCode=xm2&SubscriptionId=AKIAIEMV6LX5RSO7JDTA&location=http%3A%2F%2Fwww.amazon.in%2Fgp%2Fsearch%3Fkeywords%3DShiva%2BTrilogy%26url%3Dsearch-alias%253Dstripbooks&tag=comaprebook09-21&creative=165953&camp=2025
+Item:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+0:http://www.amazon.in/gp/redirect.html?linkCode=xm2&SubscriptionId=AKIAIEMV6LX5RSO7JDTA&location=http%3A%2F%2Fwww.amazon.in%2Fgp%2Fsearch%3Fkeywords%3DShiva%2BTrilogy%26url%3Dsearch-alias%253Dstripbooks&tag=comaprebook09-21&creative=165953&camp=2025
+0:[object Object]
+ASIN:9380658745
+DetailPageURL:http://www.amazon.in/The-Immortals-Meluha-Shiva-Trilogy/dp/9380658745%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9380658745
+0:9380658745
+0:http://www.amazon.in/The-Immortals-Meluha-Shiva-Trilogy/dp/9380658745%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9380658745
+URL:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL75_.jpg
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL75_.jpg
+_:75
+SmallImage:[object Object]
+$:[object Object]
+Height:[object Object]
+Units:pixels
+0:[object Object]
+Width:[object Object]
+0:[object Object]
+$:[object Object]
+MediumImage:[object Object]
+Units:pixels
+0:[object Object]
+Height:[object Object]
+_:48
+URL:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL160_.jpg
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL160_.jpg
+_:160
+$:[object Object]
+Units:pixels
+0:[object Object]
+Width:[object Object]
+LargeImage:[object Object]
+Units:pixels
+$:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L.jpg
+0:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L.jpg
+Height:[object Object]
+_:500
+0:[object Object]
+_:103
+$:[object Object]
+Width:[object Object]
+0:6
+Units:pixels
+0:[object Object]
+0:[object Object]
+Units:pixels
+$:[object Object]
+0:[object Object]
+ImageSets:[object Object]
+_:321
+0:[object Object]
+ImageSet:[object Object],[object Object],[object Object]
+SwatchImage:[object Object]
+0:[object Object]
+Category:variant
+$:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL30_.jpg
+0:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL30_.jpg
+0:[object Object]
+Height:[object Object]
+_:30
+$:[object Object]
+Units:pixels
+0:[object Object]
+Width:[object Object]
+_:19
+$:[object Object]
+SmallImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL75_.jpg
+Units:pixels
+0:[object Object]
+$:[object Object]
+Units:pixels
+Height:[object Object]
+_:75
+Width:[object Object]
+0:[object Object]
+_:48
+ThumbnailImage:[object Object]
+$:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL75_.jpg
+0:[object Object]
+Height:[object Object]
+0:[object Object]
+_:75
+Width:[object Object]
+0:[object Object]
+Units:pixels
+_:48
+$:[object Object]
+Units:pixels
+TinyImage:[object Object]
+$:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL110_.jpg
+0:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL110_.jpg
+Height:[object Object]
+0:[object Object]
+0:[object Object]
+$:[object Object]
+_:110
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:71
+$:[object Object]
+MediumImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL160_.jpg
+0:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL160_.jpg
+Units:pixels
+Height:[object Object]
+_:160
+$:[object Object]
+Units:pixels
+Width:[object Object]
+_:103
+0:[object Object]
+$:[object Object]
+LargeImage:[object Object]
+0:[object Object]
+0:[object Object]
+Units:pixels
+0:http://ecx.images-amazon.com/images/I/51FMv7stxmL.jpg
+URL:http://ecx.images-amazon.com/images/I/51FMv7stxmL.jpg
+0:[object Object]
+Height:[object Object]
+$:[object Object]
+Width:[object Object]
+_:323
+Units:pixels
+0:[object Object]
+Units:pixels
+$:[object Object]
+1:[object Object]
+SwatchImage:[object Object]
+Category:variant
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL30_.jpg
+URL:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL30_.jpg
+Units:pixels
+0:[object Object]
+_:500
+_:30
+Height:[object Object]
+Units:pixels
+$:[object Object]
+Width:[object Object]
+_:22
+0:[object Object]
+Units:pixels
+SmallImage:[object Object]
+0:[object Object]
+$:[object Object]
+0:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL75_.jpg
+URL:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL75_.jpg
+$:[object Object]
+Height:[object Object]
+_:75
+0:[object Object]
+Units:pixels
+Width:[object Object]
+$:[object Object]
+_:56
+$:[object Object]
+0:[object Object]
+Units:pixels
+ThumbnailImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL75_.jpg
+Height:[object Object]
+_:75
+0:[object Object]
+$:[object Object]
+0:[object Object]
+0:[object Object]
+$:[object Object]
+_:56
+Units:pixels
+TinyImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL110_.jpg
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL110_.jpg
+Units:pixels
+Height:[object Object]
+Width:[object Object]
+_:110
+$:[object Object]
+0:[object Object]
+_:82
+Width:[object Object]
+$:[object Object]
+Units:pixels
+URL:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL160_.jpg
+Units:pixels
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL160_.jpg
+0:[object Object]
+MediumImage:[object Object]
+$:[object Object]
+_:160
+Height:[object Object]
+Width:[object Object]
+_:120
+$:[object Object]
+LargeImage:[object Object]
+0:[object Object]
+Units:pixels
+URL:http://ecx.images-amazon.com/images/I/41ammhSEZ4L.jpg
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/41ammhSEZ4L.jpg
+Height:[object Object]
+0:[object Object]
+$:[object Object]
+_:500
+Units:pixels
+Width:[object Object]
+_:375
+Units:pixels
+$:[object Object]
+Units:pixels
+2:[object Object]
+$:[object Object]
+0:[object Object]
+Category:primary
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL30_.jpg
+0:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL30_.jpg
+0:[object Object]
+Height:[object Object]
+_:30
+$:[object Object]
+SwatchImage:[object Object]
+Units:pixels
+Width:[object Object]
+_:19
+0:[object Object]
+SmallImage:[object Object]
+$:[object Object]
+Units:pixels
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL75_.jpg
+_:75
+Height:[object Object]
+$:[object Object]
+Width:[object Object]
+Units:pixels
+0:[object Object]
+$:[object Object]
+Units:pixels
+0:[object Object]
+ThumbnailImage:[object Object]
+_:48
+0:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL75_.jpg
+URL:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+$:[object Object]
+Units:pixels
+0:[object Object]
+_:75
+Width:[object Object]
+0:[object Object]
+$:[object Object]
+_:48
+Units:pixels
+TinyImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL110_.jpg
+0:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL110_.jpg
+Height:[object Object]
+_:110
+0:[object Object]
+$:[object Object]
+Width:[object Object]
+Units:pixels
+0:[object Object]
+_:71
+MediumImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL160_.jpg
+$:[object Object]
+Height:[object Object]
+0:[object Object]
+Units:pixels
+0:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL160_.jpg
+_:160
+Units:pixels
+$:[object Object]
+Width:[object Object]
+_:103
+0:[object Object]
+0:[object Object]
+$:[object Object]
+LargeImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L.jpg
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L.jpg
+0:[object Object]
+Height:[object Object]
+Units:pixels
+Width:[object Object]
+$:[object Object]
+Units:pixels
+_:321
+0:[object Object]
+Units:pixels
+ItemAttributes:[object Object]
+$:[object Object]
+0:[object Object]
+_:500
+0:Amish
+Author:Amish
+0:Paperback
+Binding:Paperback
+0:9789380658742
+EAN:9789380658742
+EANList:[object Object]
+0:[object Object]
+EANListElement:9789380658742,8601401193951
+0:9789380658742
+1:8601401193951
+0:9380658745
+0:[object Object]
+ItemDimensions:[object Object]
+Height:[object Object]
+ISBN:9380658745
+0:[object Object]
+Units:hundredths-inches
+$:[object Object]
+Length:[object Object]
+_:453
+0:[object Object]
+$:[object Object]
+Units:hundredths-inches
+Weight:[object Object]
+0:[object Object]
+_:86
+$:[object Object]
+Units:hundredths-pounds
+_:106
+$:[object Object]
+Units:hundredths-inches
+0:[object Object]
+0:Westland
+Label:Westland
+Languages:[object Object]
+Language:[object Object],[object Object],[object Object]
+0:[object Object]
+0:[object Object]
+0:English
+Width:[object Object]
+Name:English
+0:Published
+1:[object Object]
+Name:English
+0:English
+Type:Original Language
+_:709
+0:Original Language
+Name:English
+2:[object Object]
+Type:Unknown
+LegalDisclaimer:New Edition
+0:English
+0:New Edition
+ListPrice:[object Object]
+0:[object Object]
+Amount:29500
+0:29500
+0:Unknown
+0:INR
+CurrencyCode:INR
+FormattedPrice:INR 295.00
+Manufacturer:Westland
+NumberOfItems:1
+0:INR 295.00
+0:1
+0:Westland
+NumberOfPages:415
+PackageDimensions:[object Object]
+0:415
+0:[object Object]
+Height:[object Object]
+0:[object Object]
+_:118
+$:[object Object]
+Length:[object Object]
+Units:hundredths-inches
+$:[object Object]
+_:764
+Units:hundredths-inches
+0:[object Object]
+Weight:[object Object]
+0:[object Object]
+_:71
+$:[object Object]
+Units:hundredths-pounds
+0:[object Object]
+Width:[object Object]
+_:512
+$:[object Object]
+Units:hundredths-inches
+0:1
+PackageQuantity:1
+0:Book
+ProductGroup:Book
+ProductTypeName:ABIS_BOOK
+PublicationDate:2011-05-17
+Publisher:Westland
+0:2011-05-17
+0:Westland
+Studio:Westland
+0:Westland
+Title:The Immortals of Meluha (Shiva Trilogy)
+0:ABIS_BOOK
+OfferSummary:[object Object]
+0:The Immortals of Meluha (Shiva Trilogy)
+0:[object Object]
+LowestNewPrice:[object Object]
+Amount:14600
+0:[object Object]
+0:14600
+CurrencyCode:INR
+FormattedPrice:INR 146.00
+0:INR
+0:INR 146.00
+TotalNew:102
+0:0
+TotalUsed:0
+TotalCollectible:0
+0:0
+TotalRefurbished:0
+Type:Published
+0:0
+Offers:[object Object]
+0:[object Object]
+0:1
+TotalOfferPages:1
+TotalOffers:1
+0:1
+0:http://www.amazon.in/gp/offer-listing/9380658745%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9380658745
+Offer:[object Object]
+OfferAttributes:[object Object]
+0:[object Object]
+0:[object Object]
+0:New
+0:102
+0:[object Object]
+OfferListing:[object Object]
+0:fxqmAxALTS8ISa7yYLsSKInxTBPB85vI1Mj%2Fg3HIE35B9Md2bczjoSJ1Ky%2FOmgQf8F7uch5AjYW68KxEEma93EmbRDvCoJwwYjbeThJAnsiMFCEnax00%2Bfrhz3V5Jru4zeY1PotrXaRNLK6hardLBg%3D%3D
+OfferListingId:fxqmAxALTS8ISa7yYLsSKInxTBPB85vI1Mj%2Fg3HIE35B9Md2bczjoSJ1Ky%2FOmgQf8F7uch5AjYW68KxEEma93EmbRDvCoJwwYjbeThJAnsiMFCEnax00%2Bfrhz3V5Jru4zeY1PotrXaRNLK6hardLBg%3D%3D
+Condition:New
+Price:[object Object]
+0:[object Object]
+0:23600
+CurrencyCode:INR
+0:INR
+0:INR 236.00
+Amount:23600
+0:[object Object]
+SalePrice:[object Object]
+FormattedPrice:INR 236.00
+Amount:14700
+CurrencyCode:INR
+0:14700
+FormattedPrice:INR 147.00
+0:INR 147.00
+0:[object Object]
+AmountSaved:[object Object]
+Amount:8900
+0:INR
+0:8900
+CurrencyCode:INR
+0:INR
+FormattedPrice:INR 89.00
+0:38
+PercentageSaved:38
+0:Usually dispatched within 24 hours
+Availability:Usually dispatched within 24 hours
+0:[object Object]
+0:INR 89.00
+AvailabilityType:now
+0:now
+MinimumHours:0
+AvailabilityAttributes:[object Object]
+0:0
+MaximumHours:0
+MoreOffersUrl:http://www.amazon.in/gp/offer-listing/9380658745%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9380658745
+0:0
+IsEligibleForSuperSaverShipping:1
+0:1
+IsEligibleForPrime:1
+ASIN:9382618341
+0:1
+0:9382618341
+SmallImage:[object Object]
+1:[object Object]
+0:[object Object]
+DetailPageURL:http://www.amazon.in/The-Oath-Vayuputras-Shiva-Trilogy/dp/9382618341%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9382618341
+0:http://ecx.images-amazon.com/images/I/51edluvllQL._SL75_.jpg
+0:http://www.amazon.in/The-Oath-Vayuputras-Shiva-Trilogy/dp/9382618341%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9382618341
+$:[object Object]
+Height:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51edluvllQL._SL75_.jpg
+Units:pixels
+0:[object Object]
+Width:[object Object]
+_:49
+0:[object Object]
+_:75
+$:[object Object]
+Units:pixels
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51edluvllQL._SL160_.jpg
+MediumImage:[object Object]
+Height:[object Object]
+$:[object Object]
+Units:pixels
+0:[object Object]
+Width:[object Object]
+0:http://ecx.images-amazon.com/images/I/51edluvllQL._SL160_.jpg
+0:[object Object]
+_:160
+Units:pixels
+_:105
+$:[object Object]
+0:[object Object]
+LargeImage:[object Object]
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/51edluvllQL.jpg
+0:[object Object]
+_:500
+$:[object Object]
+Units:pixels
+Width:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51edluvllQL.jpg
+0:[object Object]
+_:327
+Units:pixels
+ImageSets:[object Object]
+ImageSet:[object Object],[object Object],[object Object]
+0:[object Object]
+0:[object Object]
+$:[object Object]
+Category:variant
+$:[object Object]
+SwatchImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL30_.jpg
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL30_.jpg
+Height:[object Object]
+_:30
+$:[object Object]
+0:[object Object]
+Width:[object Object]
+Units:pixels
+0:[object Object]
+SmallImage:[object Object]
+$:[object Object]
+Units:pixels
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL75_.jpg
+0:[object Object]
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL75_.jpg
+_:75
+$:[object Object]
+Width:[object Object]
+0:[object Object]
+$:[object Object]
+_:21
+Units:pixels
+_:52
+Units:pixels
+ThumbnailImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL75_.jpg
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL75_.jpg
+_:75
+0:[object Object]
+0:[object Object]
+Width:[object Object]
+0:[object Object]
+$:[object Object]
+_:52
+$:[object Object]
+0:[object Object]
+TinyImage:[object Object]
+0:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL110_.jpg
+Height:[object Object]
+0:[object Object]
+_:110
+Units:pixels
+$:[object Object]
+Units:pixels
+Width:[object Object]
+_:77
+Units:pixels
+$:[object Object]
+Units:pixels
+0:[object Object]
+MediumImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL110_.jpg
+0:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL160_.jpg
+URL:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL160_.jpg
+0:[object Object]
+Height:[object Object]
+$:[object Object]
+_:160
+0:[object Object]
+Width:[object Object]
+_:112
+0:[object Object]
+Units:pixels
+LargeImage:[object Object]
+$:[object Object]
+Units:pixels
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL.jpg
+0:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL.jpg
+0:[object Object]
+Width:[object Object]
+_:500
+Units:pixels
+0:[object Object]
+$:[object Object]
+$:[object Object]
+Height:[object Object]
+1:[object Object]
+Units:pixels
+$:[object Object]
+0:[object Object]
+Category:variant
+0:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL30_.jpg
+URL:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL30_.jpg
+SwatchImage:[object Object]
+Height:[object Object]
+0:[object Object]
+_:30
+$:[object Object]
+0:[object Object]
+Units:pixels
+$:[object Object]
+Width:[object Object]
+Units:pixels
+SmallImage:[object Object]
+0:[object Object]
+_:22
+_:349
+URL:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL75_.jpg
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL75_.jpg
+Height:[object Object]
+Units:pixels
+Width:[object Object]
+$:[object Object]
+0:[object Object]
+$:[object Object]
+_:56
+0:[object Object]
+ThumbnailImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL75_.jpg
+Height:[object Object]
+Units:pixels
+_:75
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+0:[object Object]
+$:[object Object]
+_:75
+Units:pixels
+TinyImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL110_.jpg
+_:56
+0:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL110_.jpg
+_:110
+0:[object Object]
+$:[object Object]
+Width:[object Object]
+0:[object Object]
+_:82
+$:[object Object]
+Units:pixels
+MediumImage:[object Object]
+0:[object Object]
+Units:pixels
+URL:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL160_.jpg
+0:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL160_.jpg
+Height:[object Object]
+_:160
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:120
+Units:pixels
+$:[object Object]
+LargeImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41vmp3MPPqL.jpg
+0:http://ecx.images-amazon.com/images/I/41vmp3MPPqL.jpg
+Height:[object Object]
+0:[object Object]
+Height:[object Object]
+_:500
+0:[object Object]
+$:[object Object]
+0:[object Object]
+Width:[object Object]
+$:[object Object]
+Units:pixels
+_:375
+$:[object Object]
+Category:primary
+2:[object Object]
+SwatchImage:[object Object]
+Units:pixels
+0:http://ecx.images-amazon.com/images/I/51edluvllQL._SL30_.jpg
+URL:http://ecx.images-amazon.com/images/I/51edluvllQL._SL30_.jpg
+0:[object Object]
+0:[object Object]
+_:30
+$:[object Object]
+Width:[object Object]
+0:[object Object]
+$:[object Object]
+_:20
+Units:pixels
+SmallImage:[object Object]
+0:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51edluvllQL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51edluvllQL._SL75_.jpg
+_:75
+$:[object Object]
+Height:[object Object]
+0:[object Object]
+Width:[object Object]
+Units:pixels
+0:[object Object]
+$:[object Object]
+Units:pixels
+ThumbnailImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51edluvllQL._SL75_.jpg
+_:49
+0:http://ecx.images-amazon.com/images/I/51edluvllQL._SL75_.jpg
+Height:[object Object]
+Units:pixels
+_:75
+$:[object Object]
+Width:[object Object]
+0:[object Object]
+0:[object Object]
+Units:pixels
+$:[object Object]
+Height:[object Object]
+0:[object Object]
+Units:pixels
+TinyImage:[object Object]
+_:49
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51edluvllQL._SL110_.jpg
+URL:http://ecx.images-amazon.com/images/I/51edluvllQL._SL110_.jpg
+Height:[object Object]
+_:110
+0:[object Object]
+$:[object Object]
+0:[object Object]
+_:72
+Units:pixels
+$:[object Object]
+MediumImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51edluvllQL._SL160_.jpg
+Height:[object Object]
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51edluvllQL._SL160_.jpg
+_:160
+Units:pixels
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:105
+$:[object Object]
+Units:pixels
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51edluvllQL.jpg
+LargeImage:[object Object]
+0:http://ecx.images-amazon.com/images/I/51edluvllQL.jpg
+Height:[object Object]
+0:[object Object]
+$:[object Object]
+Width:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+$:[object Object]
+_:500
+$:[object Object]
+Units:pixels
+ItemAttributes:[object Object]
+0:[object Object]
+_:327
+Author:Amish Tripathi
+0:Paperback
+EAN:9789382618348
+0:9789382618348
+0:Amish Tripathi
+EANList:[object Object]
+0:[object Object]
+EANListElement:9789382618348
+0:9789382618348
+0:1
+Edition:1
+ISBN:9382618341
+0:9382618341
+ItemDimensions:[object Object]
+0:[object Object]
+0:[object Object]
+_:0
+$:[object Object]
+Binding:Paperback
+Length:[object Object]
+Units:hundredths-inches
+Height:[object Object]
+_:0
+$:[object Object]
+0:[object Object]
+Units:hundredths-inches
+Weight:[object Object]
+0:[object Object]
+$:[object Object]
+Units:hundredths-pounds
+_:93
+Width:[object Object]
+_:0
+Units:hundredths-inches
+$:[object Object]
+0:Westland
+0:[object Object]
+Languages:[object Object]
+0:[object Object]
+0:[object Object]
+Language:[object Object],[object Object],[object Object]
+Name:English
+Label:Westland
+Type:Published
+1:[object Object]
+Name:English
+Type:Original Language
+0:Original Language
+0:English
+2:[object Object]
+Name:English
+0:English
+0:Published
+ListPrice:[object Object]
+0:English
+0:[object Object]
+0:39500
+Type:Unknown
+Amount:39500
+CurrencyCode:INR
+0:INR
+0:Unknown
+0:INR 395.00
+Manufacturer:Westland
+0:575
+0:Westland
+NumberOfPages:575
+PackageDimensions:[object Object]
+0:[object Object]
+Height:[object Object]
+_:165
+FormattedPrice:INR 395.00
+$:[object Object]
+Length:[object Object]
+Units:hundredths-inches
+0:[object Object]
+_:780
+$:[object Object]
+Units:hundredths-inches
+Weight:[object Object]
+0:[object Object]
+_:93
+0:[object Object]
+Units:hundredths-pounds
+Width:[object Object]
+$:[object Object]
+0:[object Object]
+Units:hundredths-inches
+PackageQuantity:1
+_:504
+$:[object Object]
+ProductGroup:Book
+ProductTypeName:ABIS_BOOK
+0:ABIS_BOOK
+PublicationDate:2013-02-27
+0:2013-02-27
+0:Westland
+Publisher:Westland
+0:1
+0:Book
+0:Westland
+Studio:Westland
+Title:The Oath of the Vayuputras (Shiva Trilogy)
+OfferSummary:[object Object]
+0:The Oath of the Vayuputras (Shiva Trilogy)
+0:[object Object]
+LowestNewPrice:[object Object]
+0:[object Object]
+Amount:17500
+0:INR
+TotalNew:96
+0:INR 175.00
+FormattedPrice:INR 175.00
+CurrencyCode:INR
+0:17500
+TotalUsed:0
+0:0
+0:96
+TotalCollectible:0
+TotalRefurbished:0
+Offers:[object Object]
+0:0
+0:[object Object]
+0:0
+TotalOffers:1
+TotalOfferPages:1
+0:1
+MoreOffersUrl:http://www.amazon.in/gp/offer-listing/9382618341%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9382618341
+0:http://www.amazon.in/gp/offer-listing/9382618341%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9382618341
+0:[object Object]
+Offer:[object Object]
+OfferAttributes:[object Object]
+0:1
+0:[object Object]
+0:New
+Condition:New
+OfferListing:[object Object]
+OfferListingId:fxqmAxALTS8ISa7yYLsSKFMVu1PzqypAt4uECHCILicdaXvuX3dkiKFaokwSJ4PVKmy2NUC96HjLRaPYXTWII399OudQ2%2B9BQ9MtbrU%2Fvqw43Br%2F8cicQnxJDZLfeYBNejtezB9YEKX6de8ga%2BY0yw%3D%3D
+0:[object Object]
+0:fxqmAxALTS8ISa7yYLsSKFMVu1PzqypAt4uECHCILicdaXvuX3dkiKFaokwSJ4PVKmy2NUC96HjLRaPYXTWII399OudQ2%2B9BQ9MtbrU%2Fvqw43Br%2F8cicQnxJDZLfeYBNejtezB9YEKX6de8ga%2BY0yw%3D%3D
+Price:[object Object]
+0:[object Object]
+0:33600
+CurrencyCode:INR
+0:INR
+FormattedPrice:INR 336.00
+0:INR 336.00
+SalePrice:[object Object]
+0:[object Object]
+Amount:19700
+0:19700
+0:INR
+Amount:33600
+CurrencyCode:INR
+FormattedPrice:INR 197.00
+0:INR 197.00
+AmountSaved:[object Object]
+0:[object Object]
+Amount:13900
+CurrencyCode:INR
+FormattedPrice:INR 139.00
+0:13900
+0:INR 139.00
+PercentageSaved:41
+0:INR
+Availability:Usually dispatched within 24 hours
+0:Usually dispatched within 24 hours
+AvailabilityAttributes:[object Object]
+0:[object Object]
+0:41
+0:now
+MinimumHours:0
+0:0
+0:0
+IsEligibleForSuperSaverShipping:1
+0:1
+IsEligibleForPrime:1
+AvailabilityType:now
+ASIN:9381626340
+2:[object Object]
+DetailPageURL:http://www.amazon.in/The-Secret-Nagas-Shiva-Trilogy-2/dp/9381626340%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9381626340
+0:9381626340
+0:http://www.amazon.in/The-Secret-Nagas-Shiva-Trilogy-2/dp/9381626340%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9381626340
+SmallImage:[object Object]
+0:1
+MaximumHours:0
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL75_.jpg
+Height:[object Object]
+_:75
+0:[object Object]
+$:[object Object]
+Width:[object Object]
+0:[object Object]
+_:50
+Units:pixels
+$:[object Object]
+Units:pixels
+MediumImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL160_.jpg
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL160_.jpg
+0:[object Object]
+_:160
+0:[object Object]
+Units:pixels
+$:[object Object]
+0:[object Object]
+Width:[object Object]
+_:106
+Units:pixels
+LargeImage:[object Object]
+$:[object Object]
+0:http://ecx.images-amazon.com/images/I/51djIve%2B9UL.jpg
+Height:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51djIve%2B9UL.jpg
+0:[object Object]
+0:[object Object]
+_:500
+Units:pixels
+Width:[object Object]
+0:[object Object]
+$:[object Object]
+_:331
+Units:pixels
+$:[object Object]
+ImageSets:[object Object]
+0:[object Object]
+ImageSet:[object Object],[object Object],[object Object]
+$:[object Object]
+0:[object Object]
+Category:variant
+SwatchImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL30_.jpg
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL30_.jpg
+_:30
+$:[object Object]
+Units:pixels
+0:[object Object]
+_:20
+$:[object Object]
+Units:pixels
+SmallImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL75_.jpg
+0:[object Object]
+Width:[object Object]
+0:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+_:75
+0:[object Object]
+Units:pixels
+$:[object Object]
+Width:[object Object]
+0:[object Object]
+_:50
+Units:pixels
+$:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL75_.jpg
+Height:[object Object]
+ThumbnailImage:[object Object]
+0:[object Object]
+_:75
+Units:pixels
+$:[object Object]
+Width:[object Object]
+_:50
+$:[object Object]
+Units:pixels
+TinyImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL110_.jpg
+0:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL110_.jpg
+Height:[object Object]
+_:110
+0:[object Object]
+Units:pixels
+0:[object Object]
+Width:[object Object]
+_:73
+$:[object Object]
+Units:pixels
+MediumImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL160_.jpg
+0:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL160_.jpg
+Height:[object Object]
+0:[object Object]
+$:[object Object]
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:107
+$:[object Object]
+LargeImage:[object Object]
+Units:pixels
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51bEGh2bGJL.jpg
+0:http://ecx.images-amazon.com/images/I/51bEGh2bGJL.jpg
+_:160
+Height:[object Object]
+0:[object Object]
+_:500
+$:[object Object]
+Units:pixels
+Width:[object Object]
+_:334
+0:[object Object]
+Units:pixels
+$:[object Object]
+1:[object Object]
+Category:variant
+0:[object Object]
+0:[object Object]
+$:[object Object]
+0:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL30_.jpg
+URL:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL30_.jpg
+0:[object Object]
+SwatchImage:[object Object]
+_:30
+$:[object Object]
+Units:pixels
+0:[object Object]
+Width:[object Object]
+_:22
+$:[object Object]
+Units:pixels
+SmallImage:[object Object]
+0:[object Object]
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL75_.jpg
+URL:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL75_.jpg
+0:[object Object]
+Height:[object Object]
+$:[object Object]
+_:75
+Units:pixels
+0:[object Object]
+_:56
+ThumbnailImage:[object Object]
+0:[object Object]
+Units:pixels
+URL:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL75_.jpg
+Height:[object Object]
+$:[object Object]
+_:75
+0:[object Object]
+Width:[object Object]
+Units:pixels
+$:[object Object]
+_:56
+0:[object Object]
+$:[object Object]
+TinyImage:[object Object]
+Units:pixels
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL110_.jpg
+0:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL110_.jpg
+0:[object Object]
+Height:[object Object]
+_:110
+$:[object Object]
+Width:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+$:[object Object]
+_:82
+MediumImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL160_.jpg
+0:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL160_.jpg
+Height:[object Object]
+0:[object Object]
+0:[object Object]
+$:[object Object]
+Units:pixels
+0:[object Object]
+Width:[object Object]
+_:120
+$:[object Object]
+Units:pixels
+URL:http://ecx.images-amazon.com/images/I/41AAu7rRvFL.jpg
+Units:pixels
+0:http://ecx.images-amazon.com/images/I/41AAu7rRvFL.jpg
+Height:[object Object]
+0:[object Object]
+_:500
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:375
+$:[object Object]
+Units:pixels
+_:160
+2:[object Object]
+Category:primary
+URL:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL30_.jpg
+SwatchImage:[object Object]
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL30_.jpg
+$:[object Object]
+0:[object Object]
+Height:[object Object]
+_:30
+$:[object Object]
+Width:[object Object]
+0:[object Object]
+_:20
+$:[object Object]
+Units:pixels
+SmallImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL75_.jpg
+0:[object Object]
+0:[object Object]
+Height:[object Object]
+_:75
+Units:pixels
+$:[object Object]
+Units:pixels
+Width:[object Object]
+_:50
+$:[object Object]
+0:[object Object]
+Units:pixels
+ThumbnailImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL75_.jpg
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL75_.jpg
+_:75
+0:[object Object]
+$:[object Object]
+Units:pixels
+_:50
+Width:[object Object]
+$:[object Object]
+LargeImage:[object Object]
+Units:pixels
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL110_.jpg
+0:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL110_.jpg
+Height:[object Object]
+0:[object Object]
+_:110
+$:[object Object]
+TinyImage:[object Object]
+Width:[object Object]
+0:[object Object]
+_:73
+0:[object Object]
+Units:pixels
+MediumImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL160_.jpg
+$:[object Object]
+0:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL160_.jpg
+Units:pixels
+0:[object Object]
+Height:[object Object]
+Units:pixels
+_:160
+$:[object Object]
+Width:[object Object]
+0:[object Object]
+_:106
+$:[object Object]
+LargeImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51djIve%2B9UL.jpg
+0:http://ecx.images-amazon.com/images/I/51djIve%2B9UL.jpg
+0:[object Object]
+Height:[object Object]
+Units:pixels
+0:[object Object]
+$:[object Object]
+0:[object Object]
+Width:[object Object]
+Units:pixels
+0:[object Object]
+_:331
+$:[object Object]
+0:[object Object]
+ItemAttributes:[object Object]
+Author:Amish Tripathi
+0:Amish Tripathi
+0:Paperback
+Units:pixels
+0:9789381626344
+EAN:9789381626344
+EANList:[object Object]
+Binding:Paperback
+EANListElement:9789381626344
+0:9789381626344
+0:[object Object]
+0:1
+_:500
+Feature:Today, He is a God. 4000 years ago, He was just a man.
+0:Today, He is a God. 4000 years ago, He was just a man.
+Format:Abridged,Audiobook,Box set,Illustrated,Large Print
+0:Abridged
+3:Illustrated
+1:Audiobook
+4:Large Print
+ISBN:9381626340
+0:9381626340
+0:[object Object]
+ItemDimensions:[object Object]
+0:[object Object]
+$:[object Object]
+Height:[object Object]
+2:Box set
+Length:[object Object]
+0:[object Object]
+_:0
+Edition:1
+$:[object Object]
+Units:hundredths-inches
+Weight:[object Object]
+_:0
+0:[object Object]
+_:40
+$:[object Object]
+Units:hundredths-pounds
+Units:hundredths-inches
+Width:[object Object]
+_:0
+$:[object Object]
+0:[object Object]
+Units:hundredths-inches
+Label:Westland Books Pvt. Ltd.
+0:Westland Books Pvt. Ltd.
+Languages:[object Object]
+0:[object Object]
+Language:[object Object],[object Object],[object Object]
+0:[object Object]
+Name:English
+0:English
+Type:Published
+0:Published
+1:[object Object]
+Name:English
+0:English
+Type:Original Language
+0:Original Language
+2:[object Object]
+Name:English
+0:English
+Type:Unknown
+0:WE ALSO SHIP ALL OF OUR BOOKS AT INTERNATIONAL LEVEL IN COUNTRIES LIKE USA,CANADA,AUSTRALIA,UK,
+NEW ZEALAND,SCOTLAND,SINGAPORE,SWITZERLAND,FRANCE ESTIMATED DELIVERY DATE FOR INTERNATIONAL ORDERS IS 15-30 DAYS.
+LegalDisclaimer:WE ALSO SHIP ALL OF OUR BOOKS AT INTERNATIONAL LEVEL IN COUNTRIES LIKE USA,CANADA,AUSTRALIA,UK,
+NEW ZEALAND,SCOTLAND,SINGAPORE,SWITZERLAND,FRANCE ESTIMATED DELIVERY DATE FOR INTERNATIONAL ORDERS IS 15-30 DAYS.
+ListPrice:[object Object]
+0:Unknown
+0:[object Object]
+0:29500
+Amount:29500
+CurrencyCode:INR
+FormattedPrice:INR 295.00
+0:INR 295.00
+Manufacturer:Westland Books Pvt. Ltd.
+0:INR
+0:Westland Books Pvt. Ltd.
+0:394
+NumberOfPages:394
+PackageDimensions:[object Object]
+0:[object Object]
+Height:[object Object]
+0:[object Object]
+_:110
+$:[object Object]
+Units:hundredths-inches
+0:[object Object]
+Length:[object Object]
+Units:hundredths-inches
+$:[object Object]
+Weight:[object Object]
+_:772
+0:[object Object]
+_:66
+$:[object Object]
+Units:hundredths-pounds
+Width:[object Object]
+0:[object Object]
+_:512
+Units:hundredths-inches
+PackageQuantity:1
+$:[object Object]
+0:1
+ProductGroup:Book
+0:Book
+0:ABIS_BOOK
+PublicationDate:2012-04-01
+ProductTypeName:ABIS_BOOK
+Publisher:Westland Books Pvt. Ltd.
+0:2012-04-01
+0:Westland Books Pvt. Ltd.
+Studio:Westland Books Pvt. Ltd.
+0:Westland Books Pvt. Ltd.
+Title:The Secret Of The Nagas (Shiva Trilogy-2)
+0:The Secret Of The Nagas (Shiva Trilogy-2)
+OfferSummary:[object Object]
+0:[object Object]
+LowestNewPrice:[object Object]
+0:[object Object]
+Amount:13000
+0:13000
+CurrencyCode:INR
+0:INR
+FormattedPrice:INR 130.00
+0:INR 130.00
+TotalNew:135
+TotalUsed:0
+0:135
+0:0
+TotalCollectible:0
+0:0
+TotalRefurbished:0
+0:0
+Offers:[object Object]
+0:[object Object]
+TotalOffers:1
+0:1
+TotalOfferPages:1
+0:1
+MoreOffersUrl:http://www.amazon.in/gp/offer-listing/9381626340%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9381626340
+Offer:[object Object]
+0:http://www.amazon.in/gp/offer-listing/9381626340%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9381626340
+0:[object Object]
+0:[object Object]
+OfferAttributes:[object Object]
+Condition:New
+OfferListing:[object Object]
+OfferListingId:fxqmAxALTS8ISa7yYLsSKMp5u5bFtjFeRq7EVhPF1i5MWe07IPrwfl7%2BvoN3FF8EkX9%2BTvaMbywJp4isWXvAwXoRq%2BorpG4TNdXaxbYdou0AUoHjUx%2B5HsQ1b8MDQGlL1GvC0b3cTrfk1hYevbLsUQ%3D%3D
+0:[object Object]
+Price:[object Object]
+0:[object Object]
+0:New
+Amount:29500
+0:29500
+CurrencyCode:INR
+0:fxqmAxALTS8ISa7yYLsSKMp5u5bFtjFeRq7EVhPF1i5MWe07IPrwfl7%2BvoN3FF8EkX9%2BTvaMbywJp4isWXvAwXoRq%2BorpG4TNdXaxbYdou0AUoHjUx%2B5HsQ1b8MDQGlL1GvC0b3cTrfk1hYevbLsUQ%3D%3D
+FormattedPrice:INR 295.00
+SalePrice:[object Object]
+0:[object Object]
+Amount:14600
+CurrencyCode:INR
+0:14600
+0:INR 295.00
+FormattedPrice:INR 146.00
+0:INR 146.00
+0:INR
+AmountSaved:[object Object]
+Amount:14900
+CurrencyCode:INR
+0:INR
+0:[object Object]
+FormattedPrice:INR 149.00
+0:INR 149.00
+PercentageSaved:51
+0:51
+0:INR
+Availability:Usually dispatched within 24 hours
+0:14900
+0:Usually dispatched within 24 hours
+AvailabilityAttributes:[object Object]
+AvailabilityType:now
+0:now
+0:[object Object]
+MinimumHours:0
+0:0
+MaximumHours:0
+IsEligibleForPrime:1
+IsEligibleForSuperSaverShipping:1
+0:0
+3:[object Object]
+0:1
+ASIN:9383260165
+SmallImage:[object Object]
+DetailPageURL:http://www.amazon.in/Trilogy-Collectors-Edition-Includes-Exclusive/dp/9383260165%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9383260165
+0:http://www.amazon.in/Trilogy-Collectors-Edition-Includes-Exclusive/dp/9383260165%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9383260165
+URL:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL75_.jpg
+0:9383260165
+0:[object Object]
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:48
+$:[object Object]
+Units:pixels
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL160_.jpg
+MediumImage:[object Object]
+0:1
+_:75
+Height:[object Object]
+$:[object Object]
+Units:pixels
+Width:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL160_.jpg
+_:103
+0:[object Object]
+Units:pixels
+$:[object Object]
+LargeImage:[object Object]
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL.jpg
+URL:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL.jpg
+0:[object Object]
+Height:[object Object]
+0:[object Object]
+$:[object Object]
+Width:[object Object]
+Units:pixels
+0:[object Object]
+_:322
+Units:pixels
+$:[object Object]
+ImageSets:[object Object]
+ImageSet:[object Object],[object Object]
+0:[object Object]
+0:[object Object]
+SwatchImage:[object Object]
+$:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL30_.jpg
+Category:variant
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL30_.jpg
+0:[object Object]
+Height:[object Object]
+$:[object Object]
+_:30
+_:500
+Width:[object Object]
+Units:pixels
+_:30
+0:[object Object]
+SmallImage:[object Object]
+Units:pixels
+$:[object Object]
+0:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL75_.jpg
+_:160
+0:[object Object]
+0:[object Object]
+Height:[object Object]
+_:74
+$:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL75_.jpg
+Width:[object Object]
+_:75
+0:[object Object]
+$:[object Object]
+Units:pixels
+ThumbnailImage:[object Object]
+0:[object Object]
+Height:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL75_.jpg
+0:[object Object]
+_:74
+$:[object Object]
+0:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL75_.jpg
+Units:pixels
+Width:[object Object]
+_:75
+0:[object Object]
+$:[object Object]
+TinyImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL110_.jpg
+0:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL110_.jpg
+Height:[object Object]
+0:[object Object]
+_:109
+Units:pixels
+$:[object Object]
+Units:pixels
+Width:[object Object]
+$:[object Object]
+_:110
+Units:pixels
+0:[object Object]
+MediumImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL160_.jpg
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL160_.jpg
+0:[object Object]
+_:158
+0:[object Object]
+Units:pixels
+$:[object Object]
+Units:pixels
+Width:[object Object]
+$:[object Object]
+LargeImage:[object Object]
+Units:pixels
+0:[object Object]
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51WNYO29veL.jpg
+Height:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51WNYO29veL.jpg
+_:494
+0:[object Object]
+$:[object Object]
+Width:[object Object]
+_:500
+Units:pixels
+$:[object Object]
+0:[object Object]
+1:[object Object]
+Category:primary
+$:[object Object]
+SwatchImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL30_.jpg
+_:160
+Units:pixels
+0:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL30_.jpg
+0:[object Object]
+Height:[object Object]
+$:[object Object]
+_:30
+Units:pixels
+0:[object Object]
+Width:[object Object]
+_:19
+Units:pixels
+SmallImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+$:[object Object]
+$:[object Object]
+Width:[object Object]
+Units:pixels
+0:[object Object]
+_:48
+$:[object Object]
+_:75
+0:[object Object]
+ThumbnailImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL75_.jpg
+Units:pixels
+Height:[object Object]
+_:75
+$:[object Object]
+0:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL75_.jpg
+_:48
+0:[object Object]
+Units:pixels
+0:[object Object]
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL110_.jpg
+0:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL110_.jpg
+Height:[object Object]
+TinyImage:[object Object]
+0:[object Object]
+$:[object Object]
+Units:pixels
+0:[object Object]
+Width:[object Object]
+0:[object Object]
+_:71
+MediumImage:[object Object]
+Units:pixels
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL160_.jpg
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL160_.jpg
+_:160
+$:[object Object]
+Height:[object Object]
+Units:pixels
+$:[object Object]
+Width:[object Object]
+_:103
+0:[object Object]
+_:110
+$:[object Object]
+LargeImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL.jpg
+Units:pixels
+0:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL.jpg
+Height:[object Object]
+_:500
+Units:pixels
+Width:[object Object]
+$:[object Object]
+0:[object Object]
+$:[object Object]
+Units:pixels
+ItemAttributes:[object Object]
+0:[object Object]
+Binding:Hardcover
+Author:Amish Tripathi
+0:Amish Tripathi
+0:Hardcover
+EAN:9789383260164
+EANList:[object Object]
+0:9789383260164
+0:[object Object]
+EANListElement:9789383260164
+0:9789383260164
+Format:Box set
+0:Box set
+0:[object Object]
+ISBN:9383260165
+0:[object Object]
+ItemDimensions:[object Object]
+_:322
+Height:[object Object]
+0:[object Object]
+$:[object Object]
+Units:hundredths-inches
+0:[object Object]
+Length:[object Object]
+_:0
+0:9383260165
+$:[object Object]
+Weight:[object Object]
+_:425
+Units:hundredths-inches
+Units:hundredths-pounds
+0:[object Object]
+Width:[object Object]
+_:0
+$:[object Object]
+Units:hundredths-inches
+$:[object Object]
+Label:Westland
+0:[object Object]
+_:0
+Languages:[object Object]
+Language:[object Object],[object Object],[object Object]
+0:Westland
+0:[object Object]
+Name:English
+0:[object Object]
+0:English
+Type:Published
+1:[object Object]
+0:English
+Type:Original Language
+Name:English
+2:[object Object]
+0:Original Language
+0:English
+0:Published
+Type:Unknown
+ListPrice:[object Object]
+0:Unknown
+Name:English
+0:[object Object]
+Amount:249900
+CurrencyCode:INR
+FormattedPrice:INR 2,499.00
+Manufacturer:Westland
+0:INR 2,499.00
+0:Westland
+NumberOfPages:1345
+0:1345
+0:249900
+0:[object Object]
+PackageDimensions:[object Object]
+0:[object Object]
+Height:[object Object]
+Units:hundredths-inches
+Length:[object Object]
+$:[object Object]
+_:913
+0:[object Object]
+Units:hundredths-inches
+0:INR
+Weight:[object Object]
+0:[object Object]
+_:432
+Units:hundredths-pounds
+$:[object Object]
+Width:[object Object]
+$:[object Object]
+$:[object Object]
+Units:hundredths-inches
+_:598
+0:[object Object]
+ProductTypeName:ABIS_BOOK
+ProductGroup:Book
+PublicationDate:2013-11-07
+0:ABIS_BOOK
+Publisher:Westland
+0:2013-11-07
+0:Book
+0:Westland
+Studio:Westland
+Title:Shiva Trilogy Collector's Edition Includes Exclusive Free Shiva Trilogy DVD
+0:Westland
+0:Shiva Trilogy Collector's Edition Includes Exclusive Free Shiva Trilogy DVD
+OfferSummary:[object Object]
+LowestNewPrice:[object Object]
+0:[object Object]
+Amount:150000
+0:[object Object]
+CurrencyCode:INR
+FormattedPrice:INR 1,500.00
+0:INR
+0:150000
+0:INR 1,500.00
+TotalUsed:0
+0:19
+_:480
+TotalNew:19
+0:0
+TotalRefurbished:0
+Offers:[object Object]
+0:0
+TotalCollectible:0
+0:[object Object]
+0:0
+TotalOffers:1
+TotalOfferPages:1
+MoreOffersUrl:http://www.amazon.in/gp/offer-listing/9383260165%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9383260165
+0:http://www.amazon.in/gp/offer-listing/9383260165%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9383260165
+Offer:[object Object]
+OfferAttributes:[object Object]
+0:[object Object]
+0:[object Object]
+Condition:New
+0:New
+OfferListing:[object Object]
+0:[object Object]
+OfferListingId:fxqmAxALTS8ISa7yYLsSKH206SAREcgN1ztqvfSyqTRt%2FIR0WOC0Lf898930FsvPUgfA0m3xaUmjA5VuBjWeqvm6maY%2B9og0SeFc8dlQ47BXtUkwmnMLJ%2BdOScblEwSzMG1whJYsUpKiAlJIYQmScUlzBGvYs0WLPdA7BZYT2LUVrWezFBRunA%3D%3D
+Price:[object Object]
+0:fxqmAxALTS8ISa7yYLsSKH206SAREcgN1ztqvfSyqTRt%2FIR0WOC0Lf898930FsvPUgfA0m3xaUmjA5VuBjWeqvm6maY%2B9og0SeFc8dlQ47BXtUkwmnMLJ%2BdOScblEwSzMG1whJYsUpKiAlJIYQmScUlzBGvYs0WLPdA7BZYT2LUVrWezFBRunA%3D%3D
+0:[object Object]
+0:1
+Amount:153500
+0:153500
+CurrencyCode:INR
+FormattedPrice:INR 1,535.00
+0:INR 1,535.00
+SalePrice:[object Object]
+Amount:161900
+0:[object Object]
+0:161900
+CurrencyCode:INR
+FormattedPrice:INR 1,619.00
+0:INR
+Availability:Usually dispatched within 24 hours
+0:INR 1,619.00
+0:Usually dispatched within 24 hours
+AvailabilityAttributes:[object Object]
+AvailabilityType:now
+0:[object Object]
+0:now
+MinimumHours:0
+0:0
+0:INR
+MaximumHours:0
+IsEligibleForSuperSaverShipping:1
+0:0
+IsEligibleForPrime:1
+4:[object Object]
+0:1
+0:9385152149
+ASIN:9385152149
+DetailPageURL:http://www.amazon.in/Scion-Ikshvaku-Part-Chandra-Series/dp/9385152149%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9385152149
+0:http://www.amazon.in/Scion-Ikshvaku-Part-Chandra-Series/dp/9385152149%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9385152149
+0:[object Object]
+SmallImage:[object Object]
+0:http://ecx.images-amazon.com/images/I/51DE-2bLjIL._SL75_.jpg
+URL:http://ecx.images-amazon.com/images/I/51DE-2bLjIL._SL75_.jpg
+0:[object Object]
+Height:[object Object]
+_:75
+0:1
+$:[object Object]
+Width:[object Object]
+Units:pixels
+0:1
+0:[object Object]
+_:49
+$:[object Object]
+Units:pixels
+MediumImage:[object Object]
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51DE-2bLjIL._SL160_.jpg
+URL:http://ecx.images-amazon.com/images/I/51DE-2bLjIL._SL160_.jpg
+0:[object Object]
+$:[object Object]
+_:160
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:104
+Units:pixels
+$:[object Object]
+LargeImage:[object Object]
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51DE-2bLjIL.jpg
+Height:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51DE-2bLjIL.jpg
+0:[object Object]
+Height:[object Object]
+_:500
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:325
+Units:pixels
+$:[object Object]
+0:[object Object]
+ImageSets:[object Object]
+$:[object Object]
+SwatchImage:[object Object]
+0:[object Object]
+0:[object Object]
+Category:variant
+0:http://ecx.images-amazon.com/images/I/51WL8RqBjVL._SL30_.jpg
+Height:[object Object]
+ImageSet:[object Object],[object Object]
+0:[object Object]
+$:[object Object]
+_:30
+Width:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51WL8RqBjVL._SL30_.jpg
+$:[object Object]
+_:20
+0:[object Object]
+Units:pixels
+SmallImage:[object Object]
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/51WL8RqBjVL._SL75_.jpg
+Units:pixels
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51WL8RqBjVL._SL75_.jpg
+0:[object Object]
+$:[object Object]
+Width:[object Object]
+Units:pixels
+0:[object Object]
+_:49
+$:[object Object]
+0:[object Object]
+Units:pixels
+_:75
+ThumbnailImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51WL8RqBjVL._SL75_.jpg
+ItemSearchResponse:[object Object]
+$:[object Object]
+xmlns:http://webservices.amazon.com/AWSECommerceService/2011-08-01
+OperationRequest:[object Object]
+0:[object Object]
+0:54d7ee82-78be-4cbf-8405-11dc8e3805c9
+RequestId:54d7ee82-78be-4cbf-8405-11dc8e3805c9
+Arguments:[object Object]
+0:[object Object]
+0:[object Object]
+$:[object Object]
+Argument:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+Name:AWSAccessKeyId
+Value:AKIAIEMV6LX5RSO7JDTA
+1:[object Object]
+Name:AssociateTag
+$:[object Object]
+Value:comaprebook09-21
+2:[object Object]
+$:[object Object]
+Value:Shiva Trilogy
+Name:Keywords
+3:[object Object]
+$:[object Object]
+Name:Operation
+4:[object Object]
+Value:ItemSearch
+$:[object Object]
+Name:ResponseGroup
+Value:Images,ItemAttributes,Offers
+$:[object Object]
+5:[object Object]
+Name:SearchIndex
+Value:Books
+6:[object Object]
+$:[object Object]
+Name:Service
+7:[object Object]
+$:[object Object]
+Name:Timestamp
+Value:AWSECommerceService
+8:[object Object]
+$:[object Object]
+Name:Version
+Value:2011-08-01
+9:[object Object]
+$:[object Object]
+Value:klBOV6Sn3Mh+KpS59Rg8AHpREb7XytTw+4p6xVGwIpE=
+Name:Signature
+0:0.1371190000000000
+Value:2015-11-22T14:27:07.898Z
+Items:[object Object]
+RequestProcessingTime:0.1371190000000000
+0:[object Object]
+Request:[object Object]
+0:[object Object]
+IsValid:True
+0:True
+ItemSearchRequest:[object Object]
+0:[object Object]
+Keywords:Shiva Trilogy
+0:Shiva Trilogy
+ResponseGroup:Images,ItemAttributes,Offers
+0:Images
+1:ItemAttributes
+2:Offers
+SearchIndex:Books
+TotalResults:55
+0:Books
+0:55
+TotalPages:6
+0:6
+MoreSearchResultsUrl:http://www.amazon.in/gp/redirect.html?linkCode=xm2&SubscriptionId=AKIAIEMV6LX5RSO7JDTA&location=http%3A%2F%2Fwww.amazon.in%2Fgp%2Fsearch%3Fkeywords%3DShiva%2BTrilogy%26url%3Dsearch-alias%253Dstripbooks&tag=comaprebook09-21&creative=165953&camp=2025
+0:http://www.amazon.in/gp/redirect.html?linkCode=xm2&SubscriptionId=AKIAIEMV6LX5RSO7JDTA&location=http%3A%2F%2Fwww.amazon.in%2Fgp%2Fsearch%3Fkeywords%3DShiva%2BTrilogy%26url%3Dsearch-alias%253Dstripbooks&tag=comaprebook09-21&creative=165953&camp=2025
+Item:[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+0:[object Object]
+ASIN:9380658745
+0:9380658745
+DetailPageURL:http://www.amazon.in/The-Immortals-Meluha-Shiva-Trilogy/dp/9380658745%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9380658745
+0:http://www.amazon.in/The-Immortals-Meluha-Shiva-Trilogy/dp/9380658745%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9380658745
+SmallImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+_:75
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:48
+MediumImage:[object Object]
+$:[object Object]
+Units:pixels
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL160_.jpg
+0:[object Object]
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL160_.jpg
+_:160
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:103
+Units:pixels
+$:[object Object]
+LargeImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L.jpg
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L.jpg
+0:[object Object]
+_:500
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:321
+$:[object Object]
+Units:pixels
+ImageSets:[object Object]
+0:[object Object]
+ImageSet:[object Object],[object Object],[object Object]
+0:[object Object]
+$:[object Object]
+Category:variant
+SwatchImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL30_.jpg
+0:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL30_.jpg
+Height:[object Object]
+0:[object Object]
+_:30
+$:[object Object]
+Units:pixels
+Width:[object Object]
+_:19
+0:[object Object]
+$:[object Object]
+Units:pixels
+SmallImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+_:75
+$:[object Object]
+Units:pixels
+0:[object Object]
+Width:[object Object]
+_:48
+$:[object Object]
+Units:pixels
+ThumbnailImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+$:[object Object]
+Units:pixels
+_:75
+Width:[object Object]
+0:[object Object]
+_:48
+Units:pixels
+$:[object Object]
+TinyImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL110_.jpg
+0:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL110_.jpg
+Height:[object Object]
+_:110
+0:[object Object]
+Units:pixels
+$:[object Object]
+Width:[object Object]
+0:[object Object]
+_:71
+$:[object Object]
+Units:pixels
+MediumImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL160_.jpg
+0:http://ecx.images-amazon.com/images/I/51FMv7stxmL._SL160_.jpg
+Height:[object Object]
+0:[object Object]
+_:160
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:103
+$:[object Object]
+Units:pixels
+URL:http://ecx.images-amazon.com/images/I/51FMv7stxmL.jpg
+LargeImage:[object Object]
+0:[object Object]
+Height:[object Object]
+0:[object Object]
+_:500
+$:[object Object]
+Units:pixels
+0:http://ecx.images-amazon.com/images/I/51FMv7stxmL.jpg
+Width:[object Object]
+_:323
+$:[object Object]
+Units:pixels
+1:[object Object]
+$:[object Object]
+Category:variant
+SwatchImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL30_.jpg
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL30_.jpg
+Height:[object Object]
+0:[object Object]
+_:30
+$:[object Object]
+Units:pixels
+Width:[object Object]
+_:22
+0:[object Object]
+Units:pixels
+0:[object Object]
+$:[object Object]
+0:[object Object]
+SmallImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL75_.jpg
+Height:[object Object]
+_:75
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL75_.jpg
+$:[object Object]
+Units:pixels
+0:[object Object]
+Width:[object Object]
+_:56
+Units:pixels
+$:[object Object]
+ThumbnailImage:[object Object]
+Height:[object Object]
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL75_.jpg
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL75_.jpg
+Units:pixels
+$:[object Object]
+_:75
+Width:[object Object]
+0:[object Object]
+_:56
+$:[object Object]
+TinyImage:[object Object]
+Units:pixels
+URL:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL110_.jpg
+0:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL110_.jpg
+Height:[object Object]
+_:110
+0:[object Object]
+0:[object Object]
+Units:pixels
+0:[object Object]
+Width:[object Object]
+_:82
+$:[object Object]
+Units:pixels
+0:[object Object]
+MediumImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL160_.jpg
+$:[object Object]
+Height:[object Object]
+0:[object Object]
+Units:pixels
+0:http://ecx.images-amazon.com/images/I/41ammhSEZ4L._SL160_.jpg
+_:160
+$:[object Object]
+$:[object Object]
+_:120
+0:[object Object]
+Width:[object Object]
+Units:pixels
+LargeImage:[object Object]
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/41ammhSEZ4L.jpg
+Height:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41ammhSEZ4L.jpg
+_:500
+$:[object Object]
+Units:pixels
+0:[object Object]
+_:375
+Width:[object Object]
+$:[object Object]
+Units:pixels
+2:[object Object]
+$:[object Object]
+Category:primary
+SwatchImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL30_.jpg
+0:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL30_.jpg
+Height:[object Object]
+0:[object Object]
+_:30
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:19
+$:[object Object]
+Units:pixels
+SmallImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+_:75
+$:[object Object]
+Units:pixels
+0:[object Object]
+_:48
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+ThumbnailImage:[object Object]
+_:75
+$:[object Object]
+0:[object Object]
+Units:pixels
+Width:[object Object]
+_:48
+$:[object Object]
+Units:pixels
+TinyImage:[object Object]
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL110_.jpg
+URL:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL110_.jpg
+0:[object Object]
+Units:pixels
+_:110
+$:[object Object]
+Height:[object Object]
+0:[object Object]
+_:71
+Width:[object Object]
+Units:pixels
+$:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL160_.jpg
+MediumImage:[object Object]
+0:[object Object]
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._SL160_.jpg
+0:[object Object]
+$:[object Object]
+_:160
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:103
+$:[object Object]
+LargeImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L.jpg
+0:http://ecx.images-amazon.com/images/I/51m0wvVXZ1L.jpg
+Height:[object Object]
+_:500
+0:[object Object]
+$:[object Object]
+Units:pixels
+Width:[object Object]
+_:321
+0:[object Object]
+$:[object Object]
+Units:pixels
+ItemAttributes:[object Object]
+Author:Amish
+0:[object Object]
+0:Amish
+Binding:Paperback
+0:Paperback
+0:9789380658742
+EAN:9789380658742
+Units:pixels
+0:[object Object]
+EANListElement:9789380658742,8601401193951
+0:9789380658742
+1:8601401193951
+ISBN:9380658745
+0:9380658745
+ItemDimensions:[object Object]
+0:[object Object]
+0:[object Object]
+Height:[object Object]
+$:[object Object]
+EANList:[object Object]
+Units:hundredths-inches
+Length:[object Object]
+0:[object Object]
+$:[object Object]
+_:709
+Units:hundredths-inches
+Weight:[object Object]
+0:[object Object]
+$:[object Object]
+_:86
+Units:hundredths-pounds
+Width:[object Object]
+0:[object Object]
+$:[object Object]
+_:106
+Label:Westland
+Units:hundredths-inches
+Languages:[object Object]
+0:[object Object]
+_:453
+Language:[object Object],[object Object],[object Object]
+0:Westland
+0:[object Object]
+Name:English
+0:English
+0:Published
+Type:Published
+1:[object Object]
+Name:English
+0:English
+0:Original Language
+2:[object Object]
+Name:English
+Type:Original Language
+0:English
+Type:Unknown
+0:New Edition
+LegalDisclaimer:New Edition
+ListPrice:[object Object]
+0:[object Object]
+0:Unknown
+CurrencyCode:INR
+Amount:29500
+0:INR
+FormattedPrice:INR 295.00
+0:INR 295.00
+0:29500
+Manufacturer:Westland
+0:Westland
+NumberOfItems:1
+0:415
+0:1
+NumberOfPages:415
+PackageDimensions:[object Object]
+0:[object Object]
+Height:[object Object]
+0:[object Object]
+_:118
+$:[object Object]
+Length:[object Object]
+Units:hundredths-inches
+0:[object Object]
+_:764
+$:[object Object]
+Units:hundredths-inches
+Weight:[object Object]
+0:[object Object]
+_:71
+$:[object Object]
+Width:[object Object]
+Units:hundredths-pounds
+0:[object Object]
+_:512
+$:[object Object]
+PackageQuantity:1
+Units:hundredths-inches
+0:1
+ProductGroup:Book
+0:Book
+0:ABIS_BOOK
+ProductTypeName:ABIS_BOOK
+PublicationDate:2011-05-17
+0:2011-05-17
+Publisher:Westland
+0:Westland
+Studio:Westland
+0:Westland
+Title:The Immortals of Meluha (Shiva Trilogy)
+0:The Immortals of Meluha (Shiva Trilogy)
+OfferSummary:[object Object]
+LowestNewPrice:[object Object]
+0:[object Object]
+0:[object Object]
+0:14600
+Amount:14600
+CurrencyCode:INR
+0:INR
+TotalNew:102
+0:INR 146.00
+0:102
+FormattedPrice:INR 146.00
+TotalUsed:0
+0:0
+TotalCollectible:0
+0:0
+TotalRefurbished:0
+Offers:[object Object]
+0:0
+0:[object Object]
+0:1
+TotalOffers:1
+TotalOfferPages:1
+MoreOffersUrl:http://www.amazon.in/gp/offer-listing/9380658745%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9380658745
+0:1
+0:[object Object]
+Offer:[object Object]
+OfferAttributes:[object Object]
+0:[object Object]
+Condition:New
+OfferListing:[object Object]
+0:New
+0:http://www.amazon.in/gp/offer-listing/9380658745%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9380658745
+0:[object Object]
+OfferListingId:iI4ZGxiLMgs%2B2Vv0RNog8vcX2LeVtZbxVjj7nKG6BsebhsgmNMTSbDvJDVtTPUOkA8WPJGu8OCjGfn4sBwYCJI64IaCPtMr4YDGl0MBpPpNgW9uDJRocFwsFvHNaug0JtkN5d7s%2FgQbIqBd2pYC%2FaA%3D%3D
+0:iI4ZGxiLMgs%2B2Vv0RNog8vcX2LeVtZbxVjj7nKG6BsebhsgmNMTSbDvJDVtTPUOkA8WPJGu8OCjGfn4sBwYCJI64IaCPtMr4YDGl0MBpPpNgW9uDJRocFwsFvHNaug0JtkN5d7s%2FgQbIqBd2pYC%2FaA%3D%3D
+Price:[object Object]
+Amount:23600
+0:[object Object]
+0:23600
+CurrencyCode:INR
+FormattedPrice:INR 236.00
+0:INR 236.00
+SalePrice:[object Object]
+0:[object Object]
+Amount:14700
+0:14700
+CurrencyCode:INR
+0:INR
+FormattedPrice:INR 147.00
+0:INR
+AmountSaved:[object Object]
+Amount:8900
+0:[object Object]
+0:8900
+CurrencyCode:INR
+0:INR 147.00
+0:INR
+FormattedPrice:INR 89.00
+PercentageSaved:38
+0:INR 89.00
+0:38
+0:Usually dispatched within 24 hours
+Availability:Usually dispatched within 24 hours
+AvailabilityAttributes:[object Object]
+0:[object Object]
+MinimumHours:0
+AvailabilityType:now
+0:now
+0:0
+MaximumHours:0
+0:0
+IsEligibleForSuperSaverShipping:1
+0:1
+IsEligibleForPrime:1
+0:1
+1:[object Object]
+ASIN:9382618341
+0:9382618341
+DetailPageURL:http://www.amazon.in/The-Oath-Vayuputras-Shiva-Trilogy/dp/9382618341%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9382618341
+0:http://www.amazon.in/The-Oath-Vayuputras-Shiva-Trilogy/dp/9382618341%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9382618341
+SmallImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51edluvllQL._SL75_.jpg
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/51edluvllQL._SL75_.jpg
+0:[object Object]
+_:75
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:49
+Units:pixels
+MediumImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51edluvllQL._SL160_.jpg
+$:[object Object]
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/51edluvllQL._SL160_.jpg
+0:[object Object]
+_:160
+$:[object Object]
+Units:pixels
+0:[object Object]
+Width:[object Object]
+_:105
+$:[object Object]
+Units:pixels
+LargeImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51edluvllQL.jpg
+0:http://ecx.images-amazon.com/images/I/51edluvllQL.jpg
+Height:[object Object]
+0:[object Object]
+_:500
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:327
+$:[object Object]
+Units:pixels
+ImageSets:[object Object]
+0:[object Object]
+ImageSet:[object Object],[object Object],[object Object]
+0:[object Object]
+$:[object Object]
+Category:variant
+SwatchImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL30_.jpg
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL30_.jpg
+Height:[object Object]
+0:[object Object]
+_:30
+$:[object Object]
+Units:pixels
+0:[object Object]
+Width:[object Object]
+_:21
+$:[object Object]
+Units:pixels
+SmallImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL75_.jpg
+Height:[object Object]
+_:75
+0:[object Object]
+Width:[object Object]
+$:[object Object]
+Units:pixels
+0:[object Object]
+ThumbnailImage:[object Object]
+_:52
+Units:pixels
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL75_.jpg
+$:[object Object]
+0:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+Units:pixels
+_:75
+$:[object Object]
+Width:[object Object]
+_:52
+$:[object Object]
+Units:pixels
+TinyImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL110_.jpg
+0:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL110_.jpg
+Height:[object Object]
+0:[object Object]
+_:110
+$:[object Object]
+Units:pixels
+0:[object Object]
+0:[object Object]
+Width:[object Object]
+_:77
+$:[object Object]
+MediumImage:[object Object]
+Units:pixels
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL160_.jpg
+0:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL._SL160_.jpg
+Height:[object Object]
+0:[object Object]
+_:160
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:112
+$:[object Object]
+Units:pixels
+LargeImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL.jpg
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51mknkGD%2BqL.jpg
+Height:[object Object]
+0:[object Object]
+_:500
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:349
+$:[object Object]
+$:[object Object]
+Units:pixels
+1:[object Object]
+$:[object Object]
+Category:variant
+SwatchImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL30_.jpg
+0:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL30_.jpg
+Height:[object Object]
+_:30
+0:[object Object]
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:22
+$:[object Object]
+SmallImage:[object Object]
+Units:pixels
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+_:75
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:56
+$:[object Object]
+Units:pixels
+ThumbnailImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+_:75
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:56
+$:[object Object]
+Units:pixels
+TinyImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL110_.jpg
+0:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL110_.jpg
+Height:[object Object]
+0:[object Object]
+_:110
+$:[object Object]
+Units:pixels
+0:[object Object]
+_:82
+$:[object Object]
+Width:[object Object]
+Units:pixels
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL160_.jpg
+0:http://ecx.images-amazon.com/images/I/41vmp3MPPqL._SL160_.jpg
+Height:[object Object]
+0:[object Object]
+$:[object Object]
+_:160
+Units:pixels
+0:[object Object]
+Width:[object Object]
+_:120
+$:[object Object]
+Units:pixels
+LargeImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41vmp3MPPqL.jpg
+0:http://ecx.images-amazon.com/images/I/41vmp3MPPqL.jpg
+Height:[object Object]
+0:[object Object]
+_:500
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+MediumImage:[object Object]
+_:375
+Units:pixels
+$:[object Object]
+2:[object Object]
+$:[object Object]
+Category:primary
+0:[object Object]
+SwatchImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51edluvllQL._SL30_.jpg
+0:http://ecx.images-amazon.com/images/I/51edluvllQL._SL30_.jpg
+Height:[object Object]
+0:[object Object]
+_:30
+Units:pixels
+$:[object Object]
+Width:[object Object]
+0:[object Object]
+_:20
+$:[object Object]
+Units:pixels
+0:[object Object]
+SmallImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51edluvllQL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51edluvllQL._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+_:75
+$:[object Object]
+Units:pixels
+Width:[object Object]
+_:49
+0:[object Object]
+$:[object Object]
+0:[object Object]
+ThumbnailImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51edluvllQL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51edluvllQL._SL75_.jpg
+Units:pixels
+Height:[object Object]
+_:75
+$:[object Object]
+0:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+$:[object Object]
+_:49
+Units:pixels
+TinyImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51edluvllQL._SL110_.jpg
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51edluvllQL._SL110_.jpg
+Height:[object Object]
+0:[object Object]
+_:110
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:72
+$:[object Object]
+Units:pixels
+MediumImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51edluvllQL._SL160_.jpg
+0:http://ecx.images-amazon.com/images/I/51edluvllQL._SL160_.jpg
+Height:[object Object]
+0:[object Object]
+_:160
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:105
+$:[object Object]
+Units:pixels
+LargeImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51edluvllQL.jpg
+0:http://ecx.images-amazon.com/images/I/51edluvllQL.jpg
+Height:[object Object]
+0:[object Object]
+_:500
+Width:[object Object]
+$:[object Object]
+Units:pixels
+0:[object Object]
+_:327
+$:[object Object]
+Units:pixels
+ItemAttributes:[object Object]
+0:[object Object]
+Author:Amish Tripathi
+0:Amish Tripathi
+Binding:Paperback
+0:Paperback
+EAN:9789382618348
+0:9789382618348
+EANList:[object Object]
+0:[object Object]
+EANListElement:9789382618348
+0:9789382618348
+Edition:1
+0:1
+ISBN:9382618341
+0:9382618341
+ItemDimensions:[object Object]
+0:[object Object]
+Height:[object Object]
+_:0
+0:[object Object]
+$:[object Object]
+Units:hundredths-inches
+Length:[object Object]
+0:[object Object]
+_:0
+$:[object Object]
+Units:hundredths-inches
+Weight:[object Object]
+_:93
+0:[object Object]
+$:[object Object]
+Units:hundredths-pounds
+Width:[object Object]
+0:[object Object]
+_:0
+Units:hundredths-inches
+$:[object Object]
+Label:Westland
+0:Westland
+Languages:[object Object]
+Language:[object Object],[object Object],[object Object]
+0:[object Object]
+0:[object Object]
+Name:English
+0:English
+Type:Published
+0:Published
+1:[object Object]
+Name:English
+Type:Original Language
+0:Original Language
+2:[object Object]
+0:English
+0:English
+Type:Unknown
+0:Unknown
+Name:English
+ListPrice:[object Object]
+0:[object Object]
+0:39500
+0:INR
+FormattedPrice:INR 395.00
+CurrencyCode:INR
+Amount:39500
+0:INR 395.00
+Manufacturer:Westland
+NumberOfPages:575
+0:Westland
+0:575
+PackageDimensions:[object Object]
+0:[object Object]
+0:[object Object]
+Height:[object Object]
+$:[object Object]
+_:165
+Units:hundredths-inches
+Length:[object Object]
+0:[object Object]
+Units:hundredths-inches
+$:[object Object]
+Weight:[object Object]
+_:780
+_:93
+$:[object Object]
+Units:hundredths-pounds
+Width:[object Object]
+0:[object Object]
+_:504
+$:[object Object]
+PackageQuantity:1
+Units:hundredths-inches
+0:1
+0:[object Object]
+ProductGroup:Book
+0:Book
+ProductTypeName:ABIS_BOOK
+0:ABIS_BOOK
+PublicationDate:2013-02-27
+0:2013-02-27
+Studio:Westland
+Publisher:Westland
+0:Westland
+0:Westland
+0:The Oath of the Vayuputras (Shiva Trilogy)
+OfferSummary:[object Object]
+LowestNewPrice:[object Object]
+Title:The Oath of the Vayuputras (Shiva Trilogy)
+0:[object Object]
+0:[object Object]
+Amount:17500
+CurrencyCode:INR
+0:INR
+FormattedPrice:INR 175.00
+0:INR 175.00
+TotalNew:96
+0:96
+TotalUsed:0
+0:0
+TotalCollectible:0
+0:0
+0:17500
+TotalRefurbished:0
+Offers:[object Object]
+0:0
+TotalOffers:1
+0:1
+0:[object Object]
+TotalOfferPages:1
+0:1
+MoreOffersUrl:http://www.amazon.in/gp/offer-listing/9382618341%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9382618341
+0:http://www.amazon.in/gp/offer-listing/9382618341%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9382618341
+Offer:[object Object]
+0:[object Object]
+OfferAttributes:[object Object]
+0:[object Object]
+Condition:New
+0:New
+OfferListing:[object Object]
+OfferListingId:iI4ZGxiLMgs%2B2Vv0RNog8kuwQU4E0nb7JHz7g42Uj9IVHiBDV9dy4PCCf4trp95bCTW6hNiWdMGBasPPXCMKa4I8BNGesflP0bO9qSsmhaMfq6K3K6FLc9y%2B3Yse2BO5ppgOFDk%2BEX86uiBdOVUAJA%3D%3D
+0:iI4ZGxiLMgs%2B2Vv0RNog8kuwQU4E0nb7JHz7g42Uj9IVHiBDV9dy4PCCf4trp95bCTW6hNiWdMGBasPPXCMKa4I8BNGesflP0bO9qSsmhaMfq6K3K6FLc9y%2B3Yse2BO5ppgOFDk%2BEX86uiBdOVUAJA%3D%3D
+0:[object Object]
+Price:[object Object]
+0:[object Object]
+Amount:33600
+0:33600
+CurrencyCode:INR
+0:INR
+0:INR 336.00
+SalePrice:[object Object]
+FormattedPrice:INR 336.00
+Amount:19700
+0:19700
+0:[object Object]
+CurrencyCode:INR
+AmountSaved:[object Object]
+0:INR 197.00
+0:INR
+FormattedPrice:INR 197.00
+CurrencyCode:INR
+0:[object Object]
+0:13900
+Amount:13900
+FormattedPrice:INR 139.00
+0:INR
+0:INR 139.00
+PercentageSaved:41
+0:41
+Availability:Usually dispatched within 24 hours
+0:Usually dispatched within 24 hours
+AvailabilityAttributes:[object Object]
+0:[object Object]
+MinimumHours:0
+0:now
+AvailabilityType:now
+0:0
+MaximumHours:0
+0:0
+IsEligibleForSuperSaverShipping:1
+0:1
+2:[object Object]
+0:1
+IsEligibleForPrime:1
+ASIN:9381626340
+0:9381626340
+DetailPageURL:http://www.amazon.in/The-Secret-Nagas-Shiva-Trilogy-2/dp/9381626340%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9381626340
+0:http://www.amazon.in/The-Secret-Nagas-Shiva-Trilogy-2/dp/9381626340%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9381626340
+SmallImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL75_.jpg
+Height:[object Object]
+$:[object Object]
+_:75
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:50
+0:[object Object]
+$:[object Object]
+Units:pixels
+MediumImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL160_.jpg
+0:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL160_.jpg
+Height:[object Object]
+0:[object Object]
+_:160
+Units:pixels
+$:[object Object]
+Width:[object Object]
+0:[object Object]
+_:106
+$:[object Object]
+Units:pixels
+LargeImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51djIve%2B9UL.jpg
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/51djIve%2B9UL.jpg
+0:[object Object]
+$:[object Object]
+_:500
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:331
+$:[object Object]
+Units:pixels
+ImageSets:[object Object]
+0:[object Object]
+ImageSet:[object Object],[object Object],[object Object]
+$:[object Object]
+0:[object Object]
+SwatchImage:[object Object]
+Category:variant
+URL:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL30_.jpg
+0:[object Object]
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL30_.jpg
+_:30
+0:[object Object]
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:20
+Units:pixels
+$:[object Object]
+SmallImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+_:75
+$:[object Object]
+Units:pixels
+Width:[object Object]
+_:50
+0:[object Object]
+$:[object Object]
+Units:pixels
+ThumbnailImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+_:75
+Units:pixels
+$:[object Object]
+Width:[object Object]
+_:50
+0:[object Object]
+$:[object Object]
+Units:pixels
+TinyImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL110_.jpg
+0:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL110_.jpg
+Height:[object Object]
+0:[object Object]
+_:110
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:73
+$:[object Object]
+Units:pixels
+MediumImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL160_.jpg
+0:http://ecx.images-amazon.com/images/I/51bEGh2bGJL._SL160_.jpg
+Height:[object Object]
+0:[object Object]
+$:[object Object]
+Units:pixels
+_:160
+Width:[object Object]
+0:[object Object]
+_:107
+$:[object Object]
+LargeImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51bEGh2bGJL.jpg
+0:http://ecx.images-amazon.com/images/I/51bEGh2bGJL.jpg
+Height:[object Object]
+0:[object Object]
+_:500
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+$:[object Object]
+_:334
+Units:pixels
+1:[object Object]
+$:[object Object]
+Category:variant
+SwatchImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL30_.jpg
+0:[object Object]
+Units:pixels
+0:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL30_.jpg
+0:[object Object]
+Height:[object Object]
+_:30
+$:[object Object]
+Units:pixels
+0:[object Object]
+_:22
+Width:[object Object]
+$:[object Object]
+SmallImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL75_.jpg
+0:[object Object]
+Height:[object Object]
+_:75
+$:[object Object]
+Units:pixels
+Units:pixels
+Width:[object Object]
+0:[object Object]
+$:[object Object]
+_:56
+Units:pixels
+ThumbnailImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+_:75
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:56
+Units:pixels
+$:[object Object]
+TinyImage:[object Object]
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL110_.jpg
+URL:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL110_.jpg
+Height:[object Object]
+0:[object Object]
+_:110
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:82
+$:[object Object]
+MediumImage:[object Object]
+Units:pixels
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL160_.jpg
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/41AAu7rRvFL._SL160_.jpg
+0:[object Object]
+_:160
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:120
+$:[object Object]
+LargeImage:[object Object]
+Units:pixels
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/41AAu7rRvFL.jpg
+0:http://ecx.images-amazon.com/images/I/41AAu7rRvFL.jpg
+Height:[object Object]
+0:[object Object]
+$:[object Object]
+_:500
+Width:[object Object]
+Units:pixels
+0:[object Object]
+_:375
+$:[object Object]
+Units:pixels
+2:[object Object]
+Category:primary
+SwatchImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL30_.jpg
+0:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL30_.jpg
+Height:[object Object]
+0:[object Object]
+_:30
+$:[object Object]
+Width:[object Object]
+Units:pixels
+0:[object Object]
+$:[object Object]
+_:20
+Units:pixels
+$:[object Object]
+SmallImage:[object Object]
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL75_.jpg
+URL:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+_:75
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:50
+$:[object Object]
+Units:pixels
+ThumbnailImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+_:75
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:50
+$:[object Object]
+Units:pixels
+TinyImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL110_.jpg
+0:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL110_.jpg
+Height:[object Object]
+0:[object Object]
+_:110
+$:[object Object]
+0:[object Object]
+Units:pixels
+Width:[object Object]
+_:73
+Units:pixels
+MediumImage:[object Object]
+0:[object Object]
+$:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL160_.jpg
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/51djIve%2B9UL._SL160_.jpg
+Units:pixels
+$:[object Object]
+_:160
+0:[object Object]
+_:106
+0:[object Object]
+$:[object Object]
+Units:pixels
+LargeImage:[object Object]
+Width:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51djIve%2B9UL.jpg
+0:http://ecx.images-amazon.com/images/I/51djIve%2B9UL.jpg
+Height:[object Object]
+0:[object Object]
+$:[object Object]
+0:[object Object]
+Width:[object Object]
+_:331
+Units:pixels
+$:[object Object]
+_:500
+ItemAttributes:[object Object]
+0:[object Object]
+Units:pixels
+0:Amish Tripathi
+Binding:Paperback
+EAN:9789381626344
+0:Paperback
+0:9789381626344
+Author:Amish Tripathi
+EANList:[object Object]
+EANListElement:9789381626344
+0:9789381626344
+Edition:1
+0:1
+Feature:Today, He is a God. 4000 years ago, He was just a man.
+0:Today, He is a God. 4000 years ago, He was just a man.
+Format:Abridged,Audiobook,Box set,Illustrated,Large Print
+0:Abridged
+1:Audiobook
+2:Box set
+0:[object Object]
+4:Large Print
+ISBN:9381626340
+3:Illustrated
+ItemDimensions:[object Object]
+0:[object Object]
+Height:[object Object]
+0:[object Object]
+_:0
+0:9381626340
+$:[object Object]
+Units:hundredths-inches
+Length:[object Object]
+0:[object Object]
+_:0
+$:[object Object]
+Units:hundredths-inches
+Weight:[object Object]
+0:[object Object]
+_:40
+$:[object Object]
+Units:hundredths-pounds
+Width:[object Object]
+0:[object Object]
+_:0
+$:[object Object]
+Label:Westland Books Pvt. Ltd.
+Units:hundredths-inches
+0:Westland Books Pvt. Ltd.
+0:[object Object]
+Language:[object Object],[object Object],[object Object]
+Name:English
+Languages:[object Object]
+0:[object Object]
+0:English
+Type:Published
+1:[object Object]
+Name:English
+0:English
+Type:Original Language
+0:Original Language
+2:[object Object]
+Name:English
+0:Published
+Type:Unknown
+0:English
+0:Unknown
+LegalDisclaimer:WE ALSO SHIP ALL OF OUR BOOKS AT INTERNATIONAL LEVEL IN COUNTRIES LIKE USA,CANADA,AUSTRALIA,UK,
+NEW ZEALAND,SCOTLAND,SINGAPORE,SWITZERLAND,FRANCE ESTIMATED DELIVERY DATE FOR INTERNATIONAL ORDERS IS 15-30 DAYS.
+0:WE ALSO SHIP ALL OF OUR BOOKS AT INTERNATIONAL LEVEL IN COUNTRIES LIKE USA,CANADA,AUSTRALIA,UK,
+NEW ZEALAND,SCOTLAND,SINGAPORE,SWITZERLAND,FRANCE ESTIMATED DELIVERY DATE FOR INTERNATIONAL ORDERS IS 15-30 DAYS.
+ListPrice:[object Object]
+0:[object Object]
+0:29500
+CurrencyCode:INR
+0:INR
+FormattedPrice:INR 295.00
+0:INR 295.00
+Manufacturer:Westland Books Pvt. Ltd.
+0:Westland Books Pvt. Ltd.
+NumberOfPages:394
+0:394
+PackageDimensions:[object Object]
+0:[object Object]
+Height:[object Object]
+0:[object Object]
+_:110
+$:[object Object]
+Length:[object Object]
+Units:hundredths-inches
+0:[object Object]
+_:772
+$:[object Object]
+0:[object Object]
+Units:hundredths-inches
+_:66
+Units:hundredths-pounds
+$:[object Object]
+Width:[object Object]
+0:[object Object]
+_:512
+$:[object Object]
+Units:hundredths-inches
+PackageQuantity:1
+0:1
+Weight:[object Object]
+ProductGroup:Book
+0:Book
+ProductTypeName:ABIS_BOOK
+0:ABIS_BOOK
+PublicationDate:2012-04-01
+Publisher:Westland Books Pvt. Ltd.
+0:2012-04-01
+0:Westland Books Pvt. Ltd.
+Studio:Westland Books Pvt. Ltd.
+0:Westland Books Pvt. Ltd.
+Title:The Secret Of The Nagas (Shiva Trilogy-2)
+OfferSummary:[object Object]
+0:[object Object]
+0:The Secret Of The Nagas (Shiva Trilogy-2)
+LowestNewPrice:[object Object]
+Amount:13000
+0:[object Object]
+0:13000
+CurrencyCode:INR
+0:INR
+FormattedPrice:INR 130.00
+0:INR 130.00
+TotalNew:135
+0:135
+TotalUsed:0
+Amount:29500
+0:0
+0:0
+TotalRefurbished:0
+TotalCollectible:0
+0:0
+Offers:[object Object]
+0:[object Object]
+0:1
+TotalOfferPages:1
+MoreOffersUrl:http://www.amazon.in/gp/offer-listing/9381626340%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9381626340
+0:1
+0:http://www.amazon.in/gp/offer-listing/9381626340%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9381626340
+Offer:[object Object]
+0:[object Object]
+OfferAttributes:[object Object]
+0:[object Object]
+0:New
+Condition:New
+OfferListing:[object Object]
+0:[object Object]
+0:iI4ZGxiLMgs%2B2Vv0RNog8gFzmurjhFVW8t3cwRA1kQ4UR7NVLGBKhtw8z4jfj%2BpYFardhx%2Blo5Vc4NFEdhUMhJKHtJgf61VMQ9GNb4LUy1fxYivjMvamfW%2BjHhI6JLFvtVGbYv5BklXatXCkNSYxAA%3D%3D
+OfferListingId:iI4ZGxiLMgs%2B2Vv0RNog8gFzmurjhFVW8t3cwRA1kQ4UR7NVLGBKhtw8z4jfj%2BpYFardhx%2Blo5Vc4NFEdhUMhJKHtJgf61VMQ9GNb4LUy1fxYivjMvamfW%2BjHhI6JLFvtVGbYv5BklXatXCkNSYxAA%3D%3D
+Price:[object Object]
+Amount:29500
+0:[object Object]
+CurrencyCode:INR
+TotalOffers:1
+FormattedPrice:INR 295.00
+0:29500
+0:INR 295.00
+0:[object Object]
+SalePrice:[object Object]
+Amount:14600
+0:INR
+CurrencyCode:INR
+0:INR
+FormattedPrice:INR 146.00
+0:14600
+0:INR 146.00
+AmountSaved:[object Object]
+0:[object Object]
+0:14900
+Amount:14900
+CurrencyCode:INR
+0:INR
+FormattedPrice:INR 149.00
+0:INR 149.00
+PercentageSaved:51
+0:51
+Availability:Usually dispatched within 24 hours
+0:Usually dispatched within 24 hours
+AvailabilityAttributes:[object Object]
+0:[object Object]
+AvailabilityType:now
+0:now
+MaximumHours:0
+0:0
+MinimumHours:0
+0:0
+0:1
+IsEligibleForSuperSaverShipping:1
+3:[object Object]
+0:1
+ASIN:9383260165
+IsEligibleForPrime:1
+DetailPageURL:http://www.amazon.in/Trilogy-Collectors-Edition-Includes-Exclusive/dp/9383260165%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9383260165
+0:http://www.amazon.in/Trilogy-Collectors-Edition-Includes-Exclusive/dp/9383260165%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9383260165
+SmallImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL75_.jpg
+0:9383260165
+0:[object Object]
+Height:[object Object]
+_:75
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:48
+$:[object Object]
+Units:pixels
+0:[object Object]
+MediumImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL160_.jpg
+0:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL160_.jpg
+Height:[object Object]
+0:[object Object]
+Units:pixels
+Width:[object Object]
+$:[object Object]
+_:160
+0:[object Object]
+$:[object Object]
+Units:pixels
+LargeImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL.jpg
+0:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL.jpg
+Height:[object Object]
+0:[object Object]
+_:103
+_:500
+$:[object Object]
+Width:[object Object]
+0:[object Object]
+_:322
+Units:pixels
+Units:pixels
+ImageSets:[object Object]
+$:[object Object]
+0:[object Object]
+ImageSet:[object Object],[object Object]
+0:[object Object]
+$:[object Object]
+Category:variant
+SwatchImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL30_.jpg
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL30_.jpg
+Height:[object Object]
+0:[object Object]
+_:30
+$:[object Object]
+Units:pixels
+Width:[object Object]
+_:30
+$:[object Object]
+Units:pixels
+SmallImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL75_.jpg
+0:[object Object]
+Height:[object Object]
+0:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL75_.jpg
+0:[object Object]
+_:74
+$:[object Object]
+Units:pixels
+0:[object Object]
+Width:[object Object]
+_:75
+$:[object Object]
+Units:pixels
+ThumbnailImage:[object Object]
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL75_.jpg
+0:[object Object]
+Height:[object Object]
+0:[object Object]
+_:74
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:75
+$:[object Object]
+Units:pixels
+TinyImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL75_.jpg
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL110_.jpg
+Height:[object Object]
+0:[object Object]
+_:109
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:110
+$:[object Object]
+Units:pixels
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL160_.jpg
+URL:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL110_.jpg
+0:http://ecx.images-amazon.com/images/I/51WNYO29veL._SL160_.jpg
+Height:[object Object]
+0:[object Object]
+Units:pixels
+$:[object Object]
+Width:[object Object]
+_:158
+0:[object Object]
+_:160
+Units:pixels
+MediumImage:[object Object]
+LargeImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51WNYO29veL.jpg
+0:http://ecx.images-amazon.com/images/I/51WNYO29veL.jpg
+Height:[object Object]
+0:[object Object]
+_:494
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:500
+$:[object Object]
+Units:pixels
+1:[object Object]
+$:[object Object]
+$:[object Object]
+Category:primary
+SwatchImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL30_.jpg
+0:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL30_.jpg
+0:[object Object]
+Height:[object Object]
+$:[object Object]
+_:30
+Width:[object Object]
+_:19
+Units:pixels
+$:[object Object]
+0:[object Object]
+Units:pixels
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+_:75
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:48
+$:[object Object]
+ThumbnailImage:[object Object]
+Units:pixels
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+$:[object Object]
+_:75
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:48
+$:[object Object]
+Units:pixels
+TinyImage:[object Object]
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL110_.jpg
+URL:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL110_.jpg
+Height:[object Object]
+0:[object Object]
+_:110
+SmallImage:[object Object]
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+Units:pixels
+$:[object Object]
+_:71
+MediumImage:[object Object]
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL160_.jpg
+0:[object Object]
+_:160
+$:[object Object]
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:103
+Height:[object Object]
+$:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL._SL160_.jpg
+Units:pixels
+LargeImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL.jpg
+0:http://ecx.images-amazon.com/images/I/51qGuXN2Q%2BL.jpg
+Height:[object Object]
+0:[object Object]
+_:500
+Width:[object Object]
+Units:pixels
+0:[object Object]
+_:322
+$:[object Object]
+$:[object Object]
+Units:pixels
+ItemAttributes:[object Object]
+0:[object Object]
+Author:Amish Tripathi
+0:Amish Tripathi
+Binding:Hardcover
+0:9789383260164
+0:Hardcover
+EAN:9789383260164
+EANList:[object Object]
+0:[object Object]
+0:9789383260164
+EANListElement:9789383260164
+Format:Box set
+0:Box set
+0:9383260165
+ItemDimensions:[object Object]
+ISBN:9383260165
+0:[object Object]
+Height:[object Object]
+_:0
+$:[object Object]
+Units:hundredths-inches
+0:[object Object]
+Length:[object Object]
+0:[object Object]
+_:0
+Units:hundredths-inches
+$:[object Object]
+Weight:[object Object]
+$:[object Object]
+_:425
+0:[object Object]
+Units:hundredths-pounds
+_:0
+Width:[object Object]
+0:[object Object]
+Units:hundredths-inches
+$:[object Object]
+Label:Westland
+0:[object Object]
+0:Westland
+Languages:[object Object]
+Language:[object Object],[object Object],[object Object]
+0:[object Object]
+Name:English
+0:English
+0:Published
+Type:Published
+1:[object Object]
+0:English
+Type:Original Language
+0:Original Language
+Name:English
+2:[object Object]
+Name:English
+0:English
+ListPrice:[object Object]
+0:Unknown
+Type:Unknown
+0:[object Object]
+Amount:249900
+0:249900
+CurrencyCode:INR
+0:INR
+FormattedPrice:INR 2,499.00
+0:INR 2,499.00
+Manufacturer:Westland
+0:Westland
+NumberOfPages:1345
+0:1345
+PackageDimensions:[object Object]
+0:[object Object]
+Height:[object Object]
+0:[object Object]
+_:480
+$:[object Object]
+Units:hundredths-inches
+Length:[object Object]
+0:[object Object]
+_:913
+Units:hundredths-inches
+$:[object Object]
+Weight:[object Object]
+0:[object Object]
+_:432
+Units:hundredths-pounds
+$:[object Object]
+Width:[object Object]
+Units:hundredths-inches
+0:[object Object]
+_:598
+ProductGroup:Book
+ProductTypeName:ABIS_BOOK
+0:ABIS_BOOK
+PublicationDate:2013-11-07
+0:2013-11-07
+Publisher:Westland
+0:Book
+0:Westland
+Studio:Westland
+0:Westland
+0:Shiva Trilogy Collector's Edition Includes Exclusive Free Shiva Trilogy DVD
+Title:Shiva Trilogy Collector's Edition Includes Exclusive Free Shiva Trilogy DVD
+OfferSummary:[object Object]
+0:[object Object]
+$:[object Object]
+LowestNewPrice:[object Object]
+0:[object Object]
+0:150000
+Amount:150000
+CurrencyCode:INR
+0:INR 1,500.00
+TotalNew:19
+0:INR
+TotalUsed:0
+0:19
+0:0
+TotalCollectible:0
+FormattedPrice:INR 1,500.00
+TotalRefurbished:0
+0:0
+0:0
+Offers:[object Object]
+0:[object Object]
+TotalOffers:1
+0:1
+0:1
+TotalOfferPages:1
+MoreOffersUrl:http://www.amazon.in/gp/offer-listing/9383260165%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9383260165
+0:http://www.amazon.in/gp/offer-listing/9383260165%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9383260165
+Offer:[object Object]
+0:[object Object]
+OfferAttributes:[object Object]
+0:[object Object]
+Condition:New
+0:New
+OfferListing:[object Object]
+0:[object Object]
+OfferListingId:iI4ZGxiLMgs%2B2Vv0RNog8mtsP0PvhQJmZk58MWtPUjqD7kosI1TMOWw0PlPq%2BhXUX0cD%2FsBObNE21HmEKHfSQkXeZkBG1Ldm0YDdVjxyhQmoY%2FXfMVRMJ98hGUuoCmH5I58nC91eHB%2B%2FH7JLTcFeeg%3D%3D
+0:iI4ZGxiLMgs%2B2Vv0RNog8mtsP0PvhQJmZk58MWtPUjqD7kosI1TMOWw0PlPq%2BhXUX0cD%2FsBObNE21HmEKHfSQkXeZkBG1Ldm0YDdVjxyhQmoY%2FXfMVRMJ98hGUuoCmH5I58nC91eHB%2B%2FH7JLTcFeeg%3D%3D
+Price:[object Object]
+0:[object Object]
+Amount:153600
+0:153600
+CurrencyCode:INR
+0:INR
+0:INR 1,536.00
+FormattedPrice:INR 1,536.00
+SalePrice:[object Object]
+0:[object Object]
+Amount:161900
+0:161900
+CurrencyCode:INR
+0:INR
+FormattedPrice:INR 1,619.00
+0:INR 1,619.00
+Availability:Usually dispatched within 24 hours
+0:Usually dispatched within 24 hours
+AvailabilityAttributes:[object Object]
+AvailabilityType:now
+0:now
+MinimumHours:0
+MaximumHours:0
+0:0
+0:[object Object]
+0:0
+IsEligibleForSuperSaverShipping:1
+0:1
+IsEligibleForPrime:1
+0:1
+4:[object Object]
+ASIN:9385152149
+0:9385152149
+DetailPageURL:http://www.amazon.in/Scion-Ikshvaku-Part-Chandra-Series/dp/9385152149%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9385152149
+0:http://www.amazon.in/Scion-Ikshvaku-Part-Chandra-Series/dp/9385152149%3FSubscriptionId%3DAKIAIEMV6LX5RSO7JDTA%26tag%3Dcomaprebook09-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D9385152149
+SmallImage:[object Object]
+0:[object Object]
+0:http://ecx.images-amazon.com/images/I/51DE-2bLjIL._SL75_.jpg
+URL:http://ecx.images-amazon.com/images/I/51DE-2bLjIL._SL75_.jpg
+Height:[object Object]
+0:[object Object]
+_:75
+$:[object Object]
+Units:pixels
+0:[object Object]
+Width:[object Object]
+_:49
+$:[object Object]
+MediumImage:[object Object]
+0:[object Object]
+Units:pixels
+URL:http://ecx.images-amazon.com/images/I/51DE-2bLjIL._SL160_.jpg
+0:http://ecx.images-amazon.com/images/I/51DE-2bLjIL._SL160_.jpg
+Height:[object Object]
+0:[object Object]
+_:160
+$:[object Object]
+Width:[object Object]
+Units:pixels
+0:[object Object]
+_:104
+$:[object Object]
+Units:pixels
+LargeImage:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51DE-2bLjIL.jpg
+0:http://ecx.images-amazon.com/images/I/51DE-2bLjIL.jpg
+0:[object Object]
+Height:[object Object]
+0:[object Object]
+$:[object Object]
+_:500
+Units:pixels
+Width:[object Object]
+0:[object Object]
+_:325
+$:[object Object]
+ImageSets:[object Object]
+0:[object Object]
+ImageSet:[object Object],[object Object]
+0:[object Object]
+$:[object Object]
+Category:variant
+Units:pixels
+SwatchImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51WL8RqBjVL._SL30_.jpg
+0:http://ecx.images-amazon.com/images/I/51WL8RqBjVL._SL30_.jpg
+_:30
+0:[object Object]
+$:[object Object]
+Units:pixels
+Height:[object Object]
+0:[object Object]
+Width:[object Object]
+_:20
+$:[object Object]
+SmallImage:[object Object]
+Units:pixels
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51WL8RqBjVL._SL75_.jpg
+0:http://ecx.images-amazon.com/images/I/51WL8RqBjVL._SL75_.jpg
+Height:[object Object]
+_:75
+0:[object Object]
+$:[object Object]
+Width:[object Object]
+Units:pixels
+$:[object Object]
+0:[object Object]
+Units:pixels
+_:49
+ThumbnailImage:[object Object]
+0:[object Object]
+URL:http://ecx.images-amazon.com/images/I/51WL8RqBjVL._SL75_.jpg
