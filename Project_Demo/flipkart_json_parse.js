@@ -50,7 +50,7 @@ var aa=[];
 	 var new_1=profile;
 	// aa=new_1.productBaseInfo;
 	// traverse(new_1,process);
-	//console.log(new_1.productInfoList[1].productBaseInfo.productAttributes.title);
+	console.log(new_1.productInfoList[1].productBaseInfo.productAttributes.title);
 	  
   }
  // console.log(error);
