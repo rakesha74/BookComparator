@@ -1,0 +1,33 @@
+{
+  "name": "bookcomparator",
+  "version": "1.0.0",
+  "description": "Comparing Book Prices",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakesha74/BookComparator.git"
+  },
+  "keywords": [
+    "Book",
+    "Comaparator"
+  ],
+  "author": "Rakesh Agarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakesha74/BookComparator/issues"
+  },
+  "homepage": "https://github.com/rakesha74/BookComparator#readme",
+  "dependencies": {
+    "aws-lib": "file:aws-lib",
+    "encoding": "file:encoding",
+    "request": "file:request",
+    "simplecrawler": "file:simplecrawler",
+    "socket.io": "file:socket.io",
+    "url": "file:url",
+    "xml2js": "file:xml2js"
+  }
+}
