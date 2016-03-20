@@ -3,7 +3,7 @@
 <head>
 <script src="https://cdn.socket.io/socket.io-1.0.0.js"></script>
 <script>
-var socket = io.connect('http://localhost:8080');
+var socket = io.connect('https://bookcomapartor.herokuapp.com/');
 
 socket.on('messages', function (data) {
 	document.getElementById("rakesh").innerHTML = data.hello;
