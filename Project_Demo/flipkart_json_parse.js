@@ -5,7 +5,7 @@
 
 var request = require('request');
 var fs = require("fs");
-var path = "flipkart_data.txt";
+//var path = "flipkart_data.txt";
 
 var options = {
   url: 'https://affiliate-api.flipkart.net/affiliate/search/json?query=shiva+trilogy&resultCount=5',
