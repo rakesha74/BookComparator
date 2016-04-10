@@ -8,13 +8,14 @@ var fs = require("fs");
 //var path = "flipkart_data.txt";
 
 var options = {
-  url: 'https://affiliate-api.flipkart.net/affiliate/search/json?query=shiva+trilogy&resultCount=5',
+  url: 'https://affiliate-api.flipkart.net/affiliate/1.0/search.json?query=2+states&resultCount=5',
   headers: {
     'Fk-Affiliate-Id': 'rakesha74',
     'Fk-Affiliate-Token': 'd8a4d752f8fe44b2906308106d0d64d8'
   }
 };
 
+/*
 function process(key,value) {
 	var data = key+":"+value+"\n";
 	// console.log(data);
@@ -38,22 +39,56 @@ function traverse(o,func) {
         }
     }
 }
-
+*/
 function callback(error, response, body) {
   if (!error && response.statusCode == 200) {
-//    var info = JSON.parse(body);
-var aa=[];
-	//  var profiles=JSON.stringify(body);
+
+	  var books = {
+			    title: [],
+			    author:[],
+			    images:[],
+			    price:[],
+			    link:[],
+			    inStock:[]
+			};
+	
 	 var profile=JSON.parse(body);
-	// console.log(profile_new.productInfoList.productBaseInfo);
-	 console.log(profile["productInfoList"][1]["productBaseInfo"]["productAttributes"]["title"]);
-	 var new_1=profile;
-	// aa=new_1.productBaseInfo;
-	// traverse(new_1,process);
-	console.log(new_1.productInfoList[1].productBaseInfo.productAttributes.title);
+	
+	for(i=0;i<5;i++)
+		{
+		books.title.push(profile["productInfoList"][i]["productBaseInfoV1"]["title"])
+		if(profile["productInfoList"][0]["categorySpecificInfoV1"]["booksInfo"])
+			{
+			books.author.push(profile["productInfoList"][i]["categorySpecificInfoV1"]["booksInfo"]["authors"][0])
+			}else
+				{
+				books.author.push("");
+				}
+		books.images.push(profile["productInfoList"][i]["productBaseInfoV1"]["imageUrls"]["400x400"])
+		books.price.push(profile["productInfoList"][i]["productBaseInfoV1"]["flipkartSellingPrice"]["amount"])
+		books.link.push(profile["productInfoList"][i]["productBaseInfoV1"]["productUrl"])
+		books.inStock.push(profile["productInfoList"][i]["productBaseInfoV1"]["inStock"])
+		}
+	
+	// console.log(profile["productInfoList"][0]["productBaseInfoV1"]["title"]);
+	// console.log(profile["productInfoList"][0]["categorySpecificInfoV1"]["booksInfo"]["authors"][0])
+	//  console.log(profile["productInfoList"][0]["productBaseInfoV1"]["flipkartSellingPrice"]["amount"]);
+	// console.log(profile["productInfoList"][0]["productBaseInfoV1"]["imageUrls"]["400x400"]);
+	// console.log(profile["productInfoList"][0]["productBaseInfoV1"]["productUrl"]);
+	// console.log(profile["productInfoList"][0]["productBaseInfoV1"]["inStock"]);
+	// var new_1=profile;
+	
+	if(profile["productInfoList"][0]["categorySpecificInfoV1"]["booksInfo1"])
+		console.log("rakesh");
+	else
+		console.log("not exist");
+	
+	//console.log(new_1.productInfoList[1].productBaseInfo.productAttributes.title);
+	
+	console.log(books);
 	  
   }
- // console.log(error);
+ 
 }
 
 request(options, callback);

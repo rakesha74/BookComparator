@@ -2,6 +2,7 @@
 <html>
 <head>
 <script src="https://cdn.socket.io/socket.io-1.0.0.js"></script>
+<script src="utf8.js"></script>
 <script>
 var socket = io.connect('http://localhost:8080');
 
@@ -13,7 +14,12 @@ socket.emit('flipkart',"Shiva Trilogy");
 
 socket.on('flipkartData',function(data){
 	//var obj=JSON.parse(data);
-	document.getElementById("demo").innerHTML = data.title;
+	document.getElementById("flipkart title").innerHTML=data["title"][1];
+	document.getElementById("flipkart author").innerHTML=data["author"][1];
+	document.getElementById("flipkart price").innerHTML=data["price"][1];
+	document.getElementById("flipkart image").innerHTML=data["images"][1];
+	document.getElementById("flipkart link").innerHTML=data["link"][1];
+	document.getElementById("flipkart stock").innerHTML=data["inStock"][1];
 });
 
 socket.emit('amazon',"Shiva Trilogy");
@@ -22,13 +28,38 @@ socket.on('amazonData',function(data){
 	document.getElementById("amazon").innerHTML=data.url;
 });
 
+socket.emit('infibeam',"2 States");
+
+socket.on('infibeamData',function(data){
+	//document.getElementById("rakesh").innerHTML = "Infibeam";
+	//console.log(data);
+	document.getElementById("infibeam title").innerHTML=data["title"][1];
+	document.getElementById("infibeam author").innerHTML=data["author"][1];
+	document.getElementById("infibeam price").innerHTML=data["price"][1];
+	document.getElementById("infibeam image").innerHTML=data["images"][1];
+	document.getElementById("infibeam link").innerHTML=data["link"][1];
+	document.getElementById("infibeam stock").innerHTML=data["inStock"][1];
+});
+
 </script>
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 </head>
 <body>
 <p id="rakesh"></p>
-<p id="demo"></p>
+<p id="flipkart title"></p>
+<p id="flipkart author"></p>
+<p id="flipkart price"></p>
+<p id="flipkart image"></p>
+<p id="flipkart link"></p>
+<p id="flipkart stock"></p>
 <p id="amazon"></p>
+<p id="infibeam title"></p>
+<p id="infibeam author"></p>
+<p id="infibeam price"></p>
+<p id="infibeam image"></p>
+<p id="infibeam link"></p>
+<p id="infibeam stock"></p>
+
 </body>
 </html>

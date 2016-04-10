@@ -24,10 +24,15 @@
   "dependencies": {
     "aws-lib": "file:aws-lib",
     "encoding": "file:encoding",
+    "himalaya": "^0.2.0",
+    "html-to-json": "^0.6.0",
+    "https": "^1.0.0",
+    "path": "^0.12.7",
     "request": "file:request",
     "simplecrawler": "file:simplecrawler",
     "socket.io": "file:socket.io",
     "url": "file:url",
+    "utf8": "^2.1.1",
     "xml2js": "file:xml2js"
   }
 }

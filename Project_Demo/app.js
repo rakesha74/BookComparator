@@ -9,9 +9,12 @@ var io = require('socket.io')(server);
 var crypto = require("crypto");
 var encoding=require("encoding");
 var parseString = require('xml2js').parseString;
+var path=require('path');
 
-
-
+app.get('/',function(req,res){
+	  res.sendFile(path.join(__dirname+'/index.html'));
+	  //__dirname : It will resolve to your project folder.
+	});
 
 io.on('connection', function(client) {
 	console.log('Client connected...');
