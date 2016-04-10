@@ -81,7 +81,10 @@ io.on('connection', function(client) {
 		    console.log(body) 
 		    
 		    var tweet=amazon.amazon_module(body);
-		   client.emit('amazonData',tweet);
+		    var data=JSON.stringify(tweet);
+			var profile=utf8.encode(data);
+			var send=JSON.parse(profile);
+		   client.emit('amazonData',send);
 		    
 		    
 		  }

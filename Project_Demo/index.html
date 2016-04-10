@@ -25,7 +25,11 @@ socket.on('flipkartData',function(data){
 socket.emit('amazon',"Shiva Trilogy");
 
 socket.on('amazonData',function(data){
-	document.getElementById("amazon").innerHTML=data.url;
+	document.getElementById("amazon title").innerHTML=data["title"][1];
+	document.getElementById("amazon author").innerHTML=data["author"][1];
+	document.getElementById("amazon price").innerHTML=data["price"][1];
+	document.getElementById("amazon image").innerHTML=data["images"][1];
+	document.getElementById("amazon link").innerHTML=data["link"][1];
 });
 
 socket.emit('infibeam',"2 States");
@@ -53,7 +57,11 @@ socket.on('infibeamData',function(data){
 <p id="flipkart image"></p>
 <p id="flipkart link"></p>
 <p id="flipkart stock"></p>
-<p id="amazon"></p>
+<p id="amazon title"></p>
+<p id="amazon author"></p>
+<p id="amazon price"></p>
+<p id="amazon image"></p>
+<p id="amazon link"></p>
 <p id="infibeam title"></p>
 <p id="infibeam author"></p>
 <p id="infibeam price"></p>

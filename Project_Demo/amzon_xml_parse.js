@@ -92,7 +92,7 @@ request(str, function (error, response, body) {
   
    	});
    
-   /*
+   
    for(i=0;i<5;i++)
 	{
 	books.title.push(new_1.ItemSearchResponse.Items[0].Item[i].ItemAttributes[0].Title)
@@ -100,22 +100,22 @@ request(str, function (error, response, body) {
 		books.author.push(new_1.ItemSearchResponse.Items[0].Item[i].ItemAttributes[0].Author)
 		
 	books.images.push(new_1.ItemSearchResponse.Items[0].Item[i].SmallImage[0].URL)
-	books.price.push(new_1.ItemSearchResponse.Items[0].Item[i].ItemAttributes[0].ListPrice[0].FormattedPrice)
-	books.link.push(new_1.ItemSearchResponse.Items[0].Item[i].DetailPageURL)
+	books.price.push(new_1.ItemSearchResponse.Items[0].Item[i].OfferSummary[0].LowestNewPrice[0].FormattedPrice)
+	books.link.push(new_1.ItemSearchResponse.Items[0].Item[i].Offers[0].MoreOffersUrl)
 	//books.inStock.push(profile["productInfoList"][i]["productBaseInfoV1"]["inStock"])
 	}
-	*/
+	
 
 	
 	
 	
-	//console.log(books);
+	console.log(books);
   
   // console.log(new_1.ItemSearchResponse.Items[0].Item[1].SmallImage[0].URL);
   // console.log(new_1.ItemSearchResponse.Items[0].Item[1].ItemAttributes[0].Author);
    //console.log(new_1.ItemSearchResponse.Items[0].Item[1].ItemAttributes[0].Binding);
-   console.log(new_1.ItemSearchResponse.Items[0].Item[1].ItemAttributes[0].Title);
-   console.log(new_1.ItemSearchResponse.Items[0].Item[1].Offers[0].Offer[0].OfferListing[0].SalePrice[0].FormattedPrice);
+   //console.log(new_1.ItemSearchResponse.Items[0].Item[3].ItemAttributes[0].Title);
+  // console.log(new_1.ItemSearchResponse.Items[0].Item[3].Offers[0].Offer[0].OfferListing[0].SalePrice[0].FormattedPrice);
    //console.log(new_1.ItemSearchResponse.Items[0].Item[1].DetailPageURL);
    
    //var str="{"+"\"URL\":"+"\""+new_1.ItemSearchResponse.Items[0].Item[1].SmallImage[0].URL+"\""+"}";
