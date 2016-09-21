@@ -23,7 +23,6 @@ function amazon_parse(body){
 	   new_1=result;
 	 
 	   	});
-	   
 	
 	   for(i=0;i<5;i++)
 		{

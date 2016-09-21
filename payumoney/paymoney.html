@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+<title>Payment Form</title>
+</head>
+<body>
+<div id="contact">
+    <h1>Payment Details</h1>
+    <form action="http://127.0.0.1:8080/myaction" method="post">
+        <fieldset>
+        	<label class="p1">Transaction Id:</label>
+        	<input id="txnid" name="txnid" class="p2" value="234571" readonly="readonly"/>
+        	<br/><br/>
+        	<label class="p1">Amount:</label>
+        	<input id="amount" name="amount" class="p2" value="1000" readonly="readonly"/>
+        	<br/><br/>
+        	<label class="p1">Product Info:</label>
+        	<input id="product" name="product" class="p2" value="X" readonly="readonly"/>
+        	<br/><br/>
+            <label for="name" class="p1">First Name:</label>
+            <input type="text" id="name" name="name" placeholder="Enter your full name" />
+			<br/><br/>
+            <label for="email" class="p1">Email:</label>
+            <input type="email" name="email" id="email" placeholder="Enter your email address" />
+			<br/><br/>
+			 <label for="phone" class="p1">Contact:</label>
+            <input type="text" id="phone" name="phone" placeholder="Enter your contact no." />
+			<br/><br/>
+           
+
+            <input type="submit" value="Pay" class="submit"/>
+
+        </fieldset>
+    </form>
+</div>
+</body>
+</html>

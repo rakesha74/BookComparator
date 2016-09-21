@@ -1,0 +1,22 @@
+@CHARSET "ISO-8859-1";
+
+.p1{
+    
+    float: left;
+    clear: left;
+    width: 250px;
+    
+}
+
+input {
+  display: inline-block;
+  float: left;
+}
+
+.submit{
+	margin: 0 0 0 150px;
+}
+
+.p2{
+	border:none;
+}
